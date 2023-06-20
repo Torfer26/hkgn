@@ -1,0 +1,13 @@
+predecir el precio xbooxt- predecir una cantidad, cuanto? modelo regresion, 
+clasificar en grupos, modelo clasificacion, 
+
+recomendacion de precio, 
+ventas de pisos, 
+data set boston housing datasets // kaggle prces, clasico, kaggle // pedecir el precio o cuanto va a costar la casa // cosaas parecidas , tecnicas de regresion mas votos 
+medalla de  oro 
+conseguir mas datos, hiperparametros del modelo, datos 
+ingenierias caracteristicas, conseguir mas, probar dif modelos 
+nummeros enteros a numericas, vimos variables categoricas a numericas dumies,
+sikelearn 
+
+presentar en un mapa de bcn los puntos de los barrios geopandas, 

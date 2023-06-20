@@ -1,0 +1,3266 @@
+district;rooms;area_m2;lift;prices
+Eixample;3;351;Yes;2300000
+Sarrià-Sant Gervasi;5;298;Yes;1750000
+Eixample;2;90;Yes;590000
+Eixample;2;130;Yes;450000
+Horta-Guinardó;3;110;No;430000
+Eixample;5;161;Yes;690000
+Eixample;2;110;No;395000
+Eixample;3;106;Yes;595000
+Les Corts;2;62;Yes;450000
+Ciutat Vella;5;152;Yes;665000
+Horta-Guinardó;3;83;Yes;270000
+Eixample;2;80;Yes;690000
+Eixample;2;80;Yes;630000
+Sarrià-Sant Gervasi;3;132;Yes;790000
+Sant Martí;1;41;No;177000
+Les Corts;2;80;Yes;375000
+Sarrià-Sant Gervasi;5;170;Yes;950000
+Les Corts;3;110;Yes;800000
+Sants-Montjuïc;3;65;No;169000
+Ciutat Vella;3;194;Yes;840000
+Gràcia;3;79;No;329000
+Sant Martí;3;168;Yes;1090000
+Sant Andreu;2;64;Yes;185000
+Sant Martí;3;130;Yes;695000
+Sant Martí;3;111;Yes;586000
+Sant Martí;4;83;Yes;239000
+Eixample;3;120;Yes;790000
+Eixample;5;181;Yes;995000
+Eixample;4;94;Yes;420000
+Sant Martí;3;195;Yes;640000
+Ciutat Vella;2;108;Yes;649000
+Sarrià-Sant Gervasi;4;169;Yes;775000
+Sant Martí;4;93;Yes;340000
+Eixample;4;140;Yes;495000
+Sant Martí;4;102;Yes;345000
+Ciutat Vella;3;174;Yes;950000
+Sants-Montjuïc;4;239;No;690000
+Eixample;3;153;Yes;1495000
+Ciutat Vella;3;144;Yes;650000
+Eixample;4;124;Yes;530000
+Sarrià-Sant Gervasi;3;115;Yes;660000
+Eixample;3;131;Yes;560000
+Eixample;2;100;Yes;800000
+Eixample;3;115;Yes;990000
+Sarrià-Sant Gervasi;5;277;Yes;1900000
+Gràcia;3;104;Yes;470000
+Sant Martí;2;71;Yes;370000
+Sants-Montjuïc;4;228;Yes;650000
+Sarrià-Sant Gervasi;3;160;Yes;880000
+Sarrià-Sant Gervasi;5;380;No;1750000
+Sarrià-Sant Gervasi;6;585;No;2350000
+Eixample;7;271;Yes;1800000
+Eixample;2;82;Yes;380000
+Eixample;3;175;Yes;1600000
+Ciutat Vella;2;84;Yes;475000
+Eixample;1;63;Yes;335000
+Eixample;4;189;Yes;1175000
+Sarrià-Sant Gervasi;3;150;Yes;780000
+Horta-Guinardó;3;50;Yes;135000
+Les Corts;3;130;Yes;530000
+Eixample;3;223;Yes;1995000
+Eixample;3;153;Yes;1495000
+Eixample;3;85;Yes;339000
+Sarrià-Sant Gervasi;5;160;Yes;850000
+Eixample;2;120;Yes;575000
+Les Corts;4;206;Yes;1250000
+Sarrià-Sant Gervasi;4;232;Yes;1175000
+Sarrià-Sant Gervasi;4;203;Yes;1095000
+Eixample;1;59;Yes;480000
+Eixample;4;167;Yes;695000
+Les Corts;5;232;Yes;1660000
+Eixample;4;800;Yes;1700000
+Ciutat Vella;2;86;No;298000
+Sarrià-Sant Gervasi;4;105;Yes;425000
+Ciutat Vella;3;145;Yes;680000
+Sarrià-Sant Gervasi;5;155;Yes;875000
+Eixample;3;148;Yes;995000
+Eixample;4;102;Yes;440000
+Sarrià-Sant Gervasi;5;250;Yes;1100000
+Eixample;2;101;Yes;625000
+Les Corts;3;100;Yes;385000
+Ciutat Vella;2;88;Yes;710000
+Eixample;1;77;Yes;260000
+Eixample;3;87;Yes;399000
+Sant Martí;1;60;Yes;179000
+Sarrià-Sant Gervasi;4;243;No;650000
+Eixample;3;118;Yes;445000
+Sarrià-Sant Gervasi;5;311;No;960000
+Sarrià-Sant Gervasi;3;118;Yes;795000
+Eixample;3;72;Yes;450000
+Ciutat Vella;3;68;No;233150
+Eixample;3;87;Yes;365000
+Eixample;2;90;Yes;690000
+Sarrià-Sant Gervasi;5;380;No;830000
+Sarrià-Sant Gervasi;4;225;Yes;1100000
+Sant Martí;3;94;Yes;359000
+Sarrià-Sant Gervasi;6;296;No;1350000
+Ciutat Vella;1;81;No;430000
+Horta-Guinardó;5;161;No;490000
+Sarrià-Sant Gervasi;3;140;Yes;1050000
+Sarrià-Sant Gervasi;4;134;Yes;595000
+Ciutat Vella;1;86;Yes;390000
+Les Corts;4;170;Yes;668000
+Sarrià-Sant Gervasi;3;197;Yes;800000
+Sarrià-Sant Gervasi;4;145;Yes;760000
+Les Corts;3;170;Yes;490000
+Eixample;4;101;Yes;309000
+Horta-Guinardó;4;122;No;449000
+Eixample;2;213;Yes;1500000
+Sarrià-Sant Gervasi;4;105;Yes;630000
+Eixample;3;318;Yes;2500000
+Eixample;3;80;Yes;365000
+Sant Martí;4;90;Yes;370000
+Eixample;4;109;Yes;475000
+Eixample;3;110;Yes;645000
+Eixample;4;97;Yes;495000
+Eixample;3;101;Yes;480000
+Gràcia;3;130;Yes;630000
+Gràcia;4;364;No;1149000
+Sarrià-Sant Gervasi;5;465;No;3370000
+Les Corts;3;88;Yes;389000
+Gràcia;4;85;Yes;375000
+Eixample;3;113;Yes;378000
+Eixample;3;108;Yes;375000
+Sants-Montjuïc;4;90;Yes;279500
+Les Corts;2;134;Yes;670000
+Sarrià-Sant Gervasi;4;217;Yes;1150000
+Les Corts;3;121;Yes;1454000
+Les Corts;3;95;Yes;1082000
+Eixample;3;125;Yes;690000
+Eixample;2;71;Yes;348000
+Sarrià-Sant Gervasi;3;90;No;490000
+Eixample;3;90;Yes;760000
+Eixample;2;148;Yes;1325000
+Eixample;5;206;Yes;1095000
+Sant Martí;4;147;Yes;790000
+Eixample;3;118;Yes;975000
+Eixample;3;121;Yes;465000
+Gràcia;3;91;Yes;499000
+Eixample;3;93;Yes;405000
+Horta-Guinardó;2;64;No;149000
+Eixample;3;138;Yes;850000
+Sarrià-Sant Gervasi;3;126;Yes;735000
+Sarrià-Sant Gervasi;3;130;Yes;795000
+Eixample;2;132;Yes;599000
+Eixample;3;135;Yes;895000
+Sarrià-Sant Gervasi;3;115;Yes;615000
+Sarrià-Sant Gervasi;4;144;Yes;630000
+Eixample;3;141;Yes;825000
+Sarrià-Sant Gervasi;3;128;Yes;749000
+Les Corts;4;225;Yes;1350000
+Eixample;3;158;Yes;599000
+Sarrià-Sant Gervasi;2;102;Yes;595000
+Eixample;3;173;Yes;1600000
+Eixample;4;136;Yes;745000
+Eixample;6;235;Yes;1220000
+Ciutat Vella;3;76;No;395000
+Eixample;3;122;Yes;620000
+Sants-Montjuïc;3;78;Yes;390000
+Sant Martí;3;79;No;150000
+Ciutat Vella;3;108;No;298000
+Sarrià-Sant Gervasi;3;109;Yes;380000
+Sant Martí;3;73;Yes;283000
+Nou Barris;3;105;No;240000
+Eixample;4;154;Yes;590000
+Gràcia;2;65;Yes;290000
+Horta-Guinardó;3;122;Yes;450000
+Nou Barris;2;60;Yes;254900
+Eixample;4;87;Yes;354000
+Sarrià-Sant Gervasi;3;116;Yes;845000
+Sarrià-Sant Gervasi;4;240;Yes;960000
+Les Corts;4;96;Yes;385000
+Horta-Guinardó;3;88;Yes;340000
+Sant Martí;3;114;Yes;465000
+Sarrià-Sant Gervasi;5;152;Yes;750000
+Sant Martí;2;107;Yes;698000
+Sarrià-Sant Gervasi;3;148;Yes;1300000
+Eixample;3;140;Yes;635000
+Nou Barris;2;42;Yes;192100
+Sarrià-Sant Gervasi;4;180;Yes;1095000
+Horta-Guinardó;3;87;Yes;625000
+Sarrià-Sant Gervasi;4;139;Yes;1100000
+Sarrià-Sant Gervasi;4;365;Yes;2150000
+Gràcia;2;80;Yes;429000
+Sant Martí;2;93;No;455000
+Nou Barris;3;125;Yes;460000
+Eixample;5;155;Yes;890000
+Ciutat Vella;3;134;Yes;790000
+Eixample;2;112;Yes;550000
+Les Corts;4;95;Yes;560000
+Sant Andreu;3;75;No;298000
+Eixample;1;52;Yes;370000
+Les Corts;2;105;Yes;573000
+Les Corts;3;76;Yes;339500
+Les Corts;4;101;Yes;437500
+Eixample;3;146;Yes;1430000
+Eixample;3;169;Yes;1650000
+Sants-Montjuïc;2;82;Yes;379000
+Eixample;4;84;Yes;320000
+Ciutat Vella;2;74;No;315000
+Eixample;3;75;Yes;540000
+Eixample;4;136;Yes;820000
+Sarrià-Sant Gervasi;4;130;Yes;720000
+Sarrià-Sant Gervasi;3;126;Yes;790000
+Sants-Montjuïc;3;93;Yes;405000
+Sarrià-Sant Gervasi;5;311;No;990000
+Sant Martí;3;90;Yes;330000
+Eixample;3;93;Yes;415000
+Sant Martí;4;91;Yes;260000
+Sants-Montjuïc;4;86;Yes;320000
+Sant Martí;4;81;Yes;270000
+Ciutat Vella;2;63;Yes;349000
+Sarrià-Sant Gervasi;3;104;Yes;660000
+Les Corts;9;605;No;4500000
+Les Corts;7;900;No;10000000
+Sarrià-Sant Gervasi;2;224;No;2750000
+Gràcia;3;134;No;780000
+Horta-Guinardó;3;79;No;199520
+Les Corts;5;340;No;2060000
+Sarrià-Sant Gervasi;5;248;No;1950000
+Sarrià-Sant Gervasi;6;474;No;2350000
+Nou Barris;3;104;No;176000
+Eixample;3;78;Yes;499000
+Gràcia;3;97;Yes;339000
+Les Corts;4;185;No;860000
+Sarrià-Sant Gervasi;4;107;Yes;460000
+Gràcia;2;65;Yes;245000
+Les Corts;4;101;Yes;437000
+Horta-Guinardó;1;56;Yes;169000
+Sarrià-Sant Gervasi;2;70;Yes;385000
+Sant Martí;3;99;Yes;430000
+Sarrià-Sant Gervasi;3;125;Yes;590000
+Eixample;1;77;Yes;350000
+Sarrià-Sant Gervasi;3;120;Yes;1200000
+Ciutat Vella;3;117;Yes;540000
+Sarrià-Sant Gervasi;5;242;Yes;980000
+Sarrià-Sant Gervasi;4;180;Yes;860000
+Sarrià-Sant Gervasi;3;151;Yes;690000
+Sarrià-Sant Gervasi;2;151;Yes;690000
+Eixample;2;100;Yes;640000
+Eixample;3;95;Yes;790000
+Ciutat Vella;3;145;No;560000
+Gràcia;2;108;Yes;530000
+Les Corts;2;82;Yes;862000
+Les Corts;2;98;Yes;595000
+Eixample;2;125;Yes;890000
+Les Corts;2;67;Yes;365000
+Eixample;4;118;Yes;650000
+Ciutat Vella;4;140;Yes;795000
+Eixample;4;85;Yes;420000
+Sarrià-Sant Gervasi;5;200;Yes;1400000
+Sants-Montjuïc;3;88;Yes;365000
+Eixample;2;139;Yes;595000
+Sants-Montjuïc;2;59;Yes;255000
+Eixample;1;46;Yes;165000
+Eixample;2;71;Yes;369000
+Eixample;4;136;Yes;745000
+Gràcia;3;99;Yes;650000
+Eixample;3;99;Yes;650000
+Eixample;4;800;Yes;1700000
+Eixample;3;133;Yes;750000
+Eixample;3;385;No;1450000
+Sant Martí;3;75;Yes;230000
+Eixample;2;105;Yes;565000
+Sant Martí;1;62;Yes;390000
+Sant Martí;3;84;No;290000
+Les Corts;4;101;Yes;525000
+Les Corts;3;92;Yes;375000
+Les Corts;3;88;Yes;365000
+Sant Martí;2;45;Yes;209000
+Eixample;1;59;Yes;199900
+Horta-Guinardó;4;250;No;795000
+Eixample;3;85;Yes;389000
+Sant Andreu;4;87;Yes;307000
+Horta-Guinardó;3;76;Yes;269000
+Eixample;4;179;Yes;765000
+Eixample;4;149;Yes;710000
+Les Corts;1;51;Yes;280000
+Sarrià-Sant Gervasi;4;152;Yes;695000
+Eixample;3;84;Yes;359000
+Sarrià-Sant Gervasi;3;92;Yes;598000
+Eixample;3;75;Yes;365000
+Les Corts;1;49;Yes;315000
+Eixample;2;100;Yes;535000
+Gràcia;5;260;Yes;1050000
+Horta-Guinardó;3;70;Yes;239000
+Les Corts;4;400;Yes;1790000
+Ciutat Vella;1;111;Yes;1150000
+Eixample;2;149;Yes;1900000
+Sant Martí;4;90;Yes;345000
+Eixample;3;76;Yes;460000
+Eixample;3;140;Yes;2500000
+Sarrià-Sant Gervasi;4;197;Yes;1570000
+Sants-Montjuïc;2;100;No;385000
+Sarrià-Sant Gervasi;3;128;Yes;759000
+Sant Andreu;3;65;Yes;225000
+Ciutat Vella;2;95;Yes;370000
+Sants-Montjuïc;3;81;Yes;230000
+Eixample;3;89;Yes;475000
+Ciutat Vella;1;33;No;132000
+Horta-Guinardó;3;118;Yes;395000
+Sarrià-Sant Gervasi;4;131;Yes;660000
+Les Corts;2;65;Yes;450000
+Sarrià-Sant Gervasi;5;332;Yes;1395000
+Eixample;2;86;Yes;440000
+Eixample;3;100;Yes;640000
+Eixample;3;123;Yes;850000
+Ciutat Vella;1;40;No;179000
+Eixample;3;135;Yes;890000
+Eixample;3;158;Yes;1495000
+Eixample;4;180;Yes;795000
+Horta-Guinardó;1;66;Yes;220000
+Sarrià-Sant Gervasi;4;208;Yes;1095000
+Eixample;3;227;Yes;1995000
+Eixample;1;85;Yes;240000
+Les Corts;4;190;No;860000
+Gràcia;2;60;No;160000
+Sants-Montjuïc;3;60;Yes;220000
+Ciutat Vella;2;96;No;375000
+Sants-Montjuïc;3;92;Yes;375000
+Eixample;4;180;Yes;695000
+Les Corts;4;78;Yes;255000
+Ciutat Vella;2;64;Yes;200000
+Les Corts;4;143;Yes;1010000
+Sarrià-Sant Gervasi;3;207;Yes;755000
+Ciutat Vella;5;175;Yes;990000
+Sants-Montjuïc;4;480;No;1450000
+Les Corts;2;72;Yes;495000
+Eixample;3;265;Yes;2300000
+Sarrià-Sant Gervasi;4;132;Yes;780000
+Eixample;2;105;Yes;699000
+Les Corts;2;60;Yes;358000
+Sants-Montjuïc;3;72;Yes;279000
+Sarrià-Sant Gervasi;5;340;No;2650000
+Ciutat Vella;1;102;No;386000
+Nou Barris;3;72;No;179500
+Eixample;4;115;Yes;560000
+Sant Martí;3;67;Yes;205000
+Sant Martí;3;73;Yes;218000
+Sant Martí;4;170;No;453000
+Sarrià-Sant Gervasi;4;177;Yes;997000
+Eixample;3;200;Yes;2100000
+Les Corts;3;85;Yes;320000
+Ciutat Vella;2;150;Yes;495000
+Les Corts;3;55;Yes;259000
+Ciutat Vella;3;60;Yes;160000
+Sarrià-Sant Gervasi;4;155;Yes;1100000
+Eixample;3;135;Yes;639000
+Eixample;4;112;Yes;560000
+Horta-Guinardó;3;69;Yes;204000
+Sarrià-Sant Gervasi;2;140;Yes;1500000
+Eixample;1;108;Yes;550000
+Eixample;1;33;Yes;230000
+Sants-Montjuïc;3;77;No;245000
+Sarrià-Sant Gervasi;4;335;No;1490000
+Sarrià-Sant Gervasi;4;304;No;675000
+Sarrià-Sant Gervasi;4;185;Yes;1190000
+Gràcia;3;111;No;430000
+Gràcia;5;222;No;975000
+Horta-Guinardó;3;63;Yes;199900
+Sarrià-Sant Gervasi;3;118;Yes;795000
+Sants-Montjuïc;3;89;Yes;235000
+Gràcia;2;84;Yes;535000
+Eixample;3;90;Yes;329000
+Eixample;3;117;Yes;595000
+Eixample;2;58;Yes;319000
+Sarrià-Sant Gervasi;4;140;Yes;685000
+Horta-Guinardó;3;66;Yes;199900
+Sant Andreu;3;62;Yes;220000
+Nou Barris;4;91;Yes;353900
+Sants-Montjuïc;3;74;Yes;279900
+Les Corts;3;94;Yes;479000
+Sarrià-Sant Gervasi;2;130;No;349000
+Sants-Montjuïc;3;70;Yes;215000
+Sants-Montjuïc;3;110;Yes;360000
+Eixample;3;66;Yes;270000
+Eixample;3;230;Yes;1300000
+Les Corts;2;63;Yes;450000
+Eixample;3;125;Yes;460000
+Eixample;3;99;Yes;360000
+Les Corts;6;496;Yes;3300000
+Ciutat Vella;3;65;Yes;250000
+Sants-Montjuïc;3;70;Yes;219000
+Eixample;3;180;Yes;895000
+Sarrià-Sant Gervasi;4;120;No;760000
+Ciutat Vella;2;94;No;319000
+Sarrià-Sant Gervasi;11;773;No;5700000
+Eixample;3;94;Yes;448000
+Ciutat Vella;3;144;Yes;599000
+Eixample;2;121;Yes;485000
+Eixample;2;150;Yes;1100000
+Eixample;2;157;Yes;1100000
+Eixample;3;110;Yes;598000
+Sarrià-Sant Gervasi;2;138;No;349000
+Ciutat Vella;3;131;Yes;970000
+Eixample;4;150;Yes;695000
+Sants-Montjuïc;3;94;Yes;239000
+Eixample;1;77;Yes;690000
+Eixample;3;180;Yes;530000
+Sants-Montjuïc;2;73;No;375000
+Sant Andreu;4;91;Yes;330000
+Eixample;4;109;Yes;500000
+Eixample;3;100;Yes;335000
+Eixample;3;85;Yes;475000
+Sarrià-Sant Gervasi;4;145;Yes;850000
+Eixample;6;149;Yes;575000
+Sarrià-Sant Gervasi;3;102;Yes;695000
+Sarrià-Sant Gervasi;7;488;No;2600000
+Sarrià-Sant Gervasi;5;310;No;1590000
+Sant Martí;2;134;Yes;1900000
+Sant Martí;4;130;Yes;1950000
+Les Corts;5;212;Yes;1595000
+Sarrià-Sant Gervasi;3;256;No;2300000
+Ciutat Vella;4;222;No;1690000
+Sarrià-Sant Gervasi;4;284;No;1950000
+Sarrià-Sant Gervasi;4;185;Yes;1190000
+Les Corts;4;80;Yes;290000
+Gràcia;2;192;Yes;622000
+Gràcia;1;52;Yes;315000
+Sants-Montjuïc;3;86;Yes;299000
+Sants-Montjuïc;3;106;Yes;299000
+Ciutat Vella;2;100;No;495000
+Sants-Montjuïc;3;93;Yes;299000
+Sants-Montjuïc;1;57;No;268000
+Sants-Montjuïc;3;78;Yes;360000
+Eixample;3;110;Yes;445000
+Sarrià-Sant Gervasi;4;235;Yes;1336000
+Eixample;3;100;Yes;435000
+Sarrià-Sant Gervasi;3;99;Yes;635000
+Sarrià-Sant Gervasi;5;277;Yes;1900000
+Sarrià-Sant Gervasi;5;185;Yes;1475000
+Sarrià-Sant Gervasi;5;250;Yes;1100000
+Sarrià-Sant Gervasi;5;270;Yes;1045000
+Eixample;3;90;Yes;680000
+Sarrià-Sant Gervasi;3;80;Yes;415000
+Gràcia;4;77;Yes;180000
+Sant Martí;4;79;Yes;195000
+Horta-Guinardó;4;70;Yes;198000
+Sarrià-Sant Gervasi;4;124;Yes;590000
+Gràcia;3;140;Yes;595000
+Sarrià-Sant Gervasi;6;325;Yes;1500000
+Sant Andreu;3;79;Yes;199500
+Ciutat Vella;2;65;Yes;195000
+Sant Martí;3;65;Yes;225000
+Sant Martí;2;65;Yes;247000
+Gràcia;3;93;Yes;385000
+Ciutat Vella;3;200;Yes;2500000
+Ciutat Vella;2;45;No;162000
+Gràcia;3;96;Yes;375000
+Les Corts;3;210;Yes;1620000
+Sarrià-Sant Gervasi;4;181;Yes;1095000
+Sarrià-Sant Gervasi;4;182;Yes;1400000
+Les Corts;3;97;Yes;398000
+Gràcia;3;125;Yes;625000
+Sant Martí;3;73;Yes;218000
+Sant Martí;3;58;Yes;245000
+Sant Andreu;2;65;Yes;155000
+Ciutat Vella;3;95;Yes;375000
+Sant Andreu;2;73;Yes;270000
+Sant Martí;3;90;Yes;359000
+Sant Martí;2;71;Yes;292000
+Sant Martí;1;51;Yes;269000
+Sant Martí;1;51;Yes;295000
+Sant Martí;1;64;Yes;400000
+Eixample;3;135;Yes;745000
+Sant Martí;4;139;Yes;990000
+Eixample;5;175;Yes;699000
+Sant Martí;3;78;Yes;238000
+Sarrià-Sant Gervasi;4;178;No;995000
+Sant Andreu;3;75;No;298000
+Sant Martí;3;67;Yes;230000
+Sant Martí;4;91;Yes;249000
+Sarrià-Sant Gervasi;4;143;Yes;700000
+Eixample;4;100;Yes;350000
+Sarrià-Sant Gervasi;2;60;Yes;350000
+Les Corts;2;70;Yes;440000
+Gràcia;3;190;Yes;1080000
+Sants-Montjuïc;2;62;No;244000
+Sarrià-Sant Gervasi;5;350;Yes;1595000
+Eixample;4;113;Yes;535000
+Ciutat Vella;1;38;No;139000
+Sant Martí;3;76;Yes;135000
+Sarrià-Sant Gervasi;4;325;Yes;1886000
+Sarrià-Sant Gervasi;5;665;Yes;6250000
+Sarrià-Sant Gervasi;5;331;Yes;1290000
+Ciutat Vella;2;86;Yes;470000
+Eixample;3;85;Yes;485000
+Les Corts;5;371;Yes;2000000
+Ciutat Vella;3;72;Yes;415000
+Ciutat Vella;3;85;Yes;485000
+Sarrià-Sant Gervasi;8;520;No;3900000
+Eixample;4;95;Yes;485000
+Eixample;4;140;Yes;795000
+Ciutat Vella;3;318;Yes;2500000
+Gràcia;3;69;Yes;240000
+Ciutat Vella;2;56;No;200000
+Sant Andreu;3;65;No;195000
+Sants-Montjuïc;4;110;Yes;279000
+Sants-Montjuïc;2;70;Yes;239000
+Horta-Guinardó;4;275;Yes;450000
+Sarrià-Sant Gervasi;4;196;Yes;1150000
+Eixample;4;94;Yes;389000
+Les Corts;3;64;Yes;260000
+Sarrià-Sant Gervasi;3;105;Yes;580000
+Gràcia;2;56;No;312000
+Les Corts;5;309;Yes;2000000
+Les Corts;2;72;Yes;290000
+Nou Barris;3;77;No;139900
+Horta-Guinardó;1;50;No;230000
+Sarrià-Sant Gervasi;3;149;Yes;1400000
+Nou Barris;3;65;Yes;185000
+Les Corts;3;85;Yes;265000
+Eixample;4;190;Yes;895000
+Ciutat Vella;2;39;Yes;159900
+Sarrià-Sant Gervasi;3;86;Yes;365000
+Eixample;4;60;Yes;210000
+Ciutat Vella;2;70;Yes;375000
+Ciutat Vella;1;52;Yes;200000
+Sarrià-Sant Gervasi;3;183;Yes;1790000
+Sarrià-Sant Gervasi;5;270;Yes;1395000
+Sarrià-Sant Gervasi;4;128;Yes;649000
+Sants-Montjuïc;3;95;Yes;365000
+Sarrià-Sant Gervasi;3;113;Yes;750000
+Nou Barris;3;60;Yes;149500
+Eixample;4;107;Yes;435000
+Ciutat Vella;2;92;No;380000
+Eixample;2;103;Yes;399000
+Ciutat Vella;1;50;Yes;290000
+Eixample;3;72;Yes;360000
+Ciutat Vella;3;73;No;245000
+Sant Martí;2;75;Yes;235000
+Eixample;3;146;Yes;1430000
+Sant Martí;4;170;No;453000
+Sant Martí;3;129;Yes;470000
+Sant Martí;4;90;Yes;380000
+Sant Martí;2;50;Yes;209000
+Eixample;2;230;Yes;1295000
+Eixample;5;209;Yes;859000
+Sants-Montjuïc;3;59;Yes;178000
+Sarrià-Sant Gervasi;5;188;Yes;880000
+Gràcia;4;90;Yes;349000
+Les Corts;5;300;Yes;1950000
+Ciutat Vella;5;161;Yes;690000
+Sarrià-Sant Gervasi;6;304;Yes;1670000
+Nou Barris;4;70;Yes;270000
+Sant Martí;4;100;Yes;270000
+Les Corts;5;269;Yes;1550000
+Ciutat Vella;3;49;No;147000
+Sarrià-Sant Gervasi;4;230;Yes;2050000
+Les Corts;4;185;No;860000
+Eixample;3;153;No;790000
+Les Corts;3;85;Yes;349000
+Sant Andreu;3;64;No;134900
+Sant Andreu;3;95;Yes;298000
+Sants-Montjuïc;3;60;Yes;175000
+Sant Martí;4;100;Yes;270000
+Sants-Montjuïc;4;110;Yes;360000
+Sarrià-Sant Gervasi;6;412;Yes;1850000
+Eixample;3;179;Yes;1650000
+Eixample;2;76;No;189000
+Eixample;3;100;No;320000
+Eixample;2;85;Yes;345000
+Sarrià-Sant Gervasi;4;177;Yes;895000
+Nou Barris;2;55;Yes;133900
+Sant Martí;5;120;Yes;375000
+Sants-Montjuïc;1;41;No;199000
+Eixample;4;90;Yes;550000
+Sarrià-Sant Gervasi;13;491;No;3500000
+Sarrià-Sant Gervasi;3;100;Yes;650000
+Eixample;3;131;Yes;619000
+Horta-Guinardó;3;65;No;170000
+Sants-Montjuïc;3;68;Yes;249000
+Ciutat Vella;2;65;Yes;330000
+Sarrià-Sant Gervasi;2;87;Yes;600000
+Sant Martí;1;56;No;220000
+Sant Martí;2;104;Yes;470000
+Sant Martí;3;91;Yes;189000
+Sarrià-Sant Gervasi;5;160;Yes;770000
+Sant Martí;1;55;Yes;235000
+Ciutat Vella;5;162;No;495000
+Les Corts;5;212;Yes;1595000
+Sant Andreu;3;57;Yes;165000
+Ciutat Vella;3;114;No;335000
+Sarrià-Sant Gervasi;6;516;No;3750000
+Sant Martí;3;58;No;180000
+Sant Martí;1;64;Yes;400000
+Sant Martí;1;65;Yes;400000
+Sant Martí;4;133;Yes;990000
+Sant Andreu;3;82;Yes;229000
+Ciutat Vella;3;112;Yes;790000
+Eixample;3;135;Yes;639000
+Sarrià-Sant Gervasi;3;190;Yes;890000
+Sant Martí;3;76;Yes;180000
+Horta-Guinardó;2;65;No;169800
+Horta-Guinardó;2;80;Yes;299000
+Les Corts;2;48;Yes;199000
+Eixample;4;140;Yes;599850
+Nou Barris;3;60;Yes;149500
+Eixample;4;77;Yes;255000
+Ciutat Vella;1;80;Yes;250000
+Eixample;3;90;Yes;499000
+Sants-Montjuïc;3;64;Yes;220000
+Ciutat Vella;1;58;Yes;370000
+Les Corts;3;271;Yes;2980000
+Sant Martí;3;70;Yes;321500
+Sarrià-Sant Gervasi;3;230;Yes;1980000
+Ciutat Vella;2;83;Yes;390000
+Sants-Montjuïc;2;50;No;250000
+Horta-Guinardó;2;158;Yes;365000
+Ciutat Vella;2;92;No;380000
+Sarrià-Sant Gervasi;3;180;Yes;885000
+Sants-Montjuïc;1;50;Yes;243000
+Sant Martí;2;60;No;259999
+Eixample;2;90;Yes;590000
+Sant Martí;2;81;No;225000
+Sarrià-Sant Gervasi;4;178;No;995000
+Les Corts;3;106;Yes;495000
+Sants-Montjuïc;3;92;Yes;269000
+Gràcia;2;85;No;410000
+Sarrià-Sant Gervasi;4;139;Yes;790000
+Horta-Guinardó;3;81;No;199000
+Sarrià-Sant Gervasi;4;201;No;1590000
+Gràcia;4;93;Yes;340000
+Les Corts;3;71;Yes;395000
+Sarrià-Sant Gervasi;3;300;No;1295000
+Sant Martí;4;94;Yes;515000
+Sant Martí;3;68;Yes;287000
+Sarrià-Sant Gervasi;5;238;Yes;1265000
+Eixample;7;336;Yes;1150000
+Sant Martí;3;86;Yes;470000
+Sant Martí;2;90;No;390000
+Horta-Guinardó;3;87;Yes;322000
+Gràcia;2;75;Yes;365000
+Horta-Guinardó;3;98;Yes;397000
+Eixample;4;155;Yes;695000
+Eixample;2;101;Yes;780000
+Eixample;4;133;Yes;539000
+Sant Martí;3;156;Yes;1050000
+Eixample;4;174;Yes;850000
+Sant Andreu;3;88;Yes;445000
+Sant Martí;3;200;No;1050000
+Sant Martí;2;75;Yes;239000
+Gràcia;2;64;Yes;239000
+Sants-Montjuïc;3;83;Yes;200000
+Sarrià-Sant Gervasi;5;210;Yes;1090000
+Sarrià-Sant Gervasi;5;554;No;2975000
+Sarrià-Sant Gervasi;5;600;No;1648000
+Sant Martí;3;67;Yes;169000
+Eixample;6;133;Yes;720000
+Sarrià-Sant Gervasi;5;200;Yes;890000
+Sants-Montjuïc;3;110;Yes;360000
+Ciutat Vella;2;62;Yes;195000
+Eixample;4;123;Yes;595000
+Eixample;3;121;Yes;595000
+Gràcia;4;125;Yes;525000
+Sarrià-Sant Gervasi;4;145;Yes;649000
+Sant Martí;3;176;Yes;1522500
+Eixample;3;111;Yes;490000
+Eixample;5;150;Yes;545000
+Eixample;2;120;Yes;599000
+Sant Martí;3;83;Yes;360000
+Eixample;4;84;Yes;299000
+Sants-Montjuïc;3;159;No;450000
+Horta-Guinardó;3;90;Yes;435000
+Sants-Montjuïc;2;92;Yes;319000
+Eixample;2;69;Yes;279500
+Nou Barris;3;72;Yes;240000
+Gràcia;2;94;Yes;285000
+Sant Martí;3;103;Yes;375000
+Eixample;1;150;Yes;850000
+Eixample;4;148;Yes;629000
+Sarrià-Sant Gervasi;3;155;No;665000
+Sarrià-Sant Gervasi;3;116;No;395000
+Sarrià-Sant Gervasi;5;220;No;625000
+Sarrià-Sant Gervasi;6;480;No;1350000
+Ciutat Vella;1;50;No;185000
+Les Corts;4;180;Yes;990000
+Sarrià-Sant Gervasi;6;305;Yes;1600000
+Les Corts;4;105;Yes;420000
+Ciutat Vella;5;80;No;299000
+Eixample;4;231;Yes;2750000
+Ciutat Vella;3;109;Yes;685000
+Eixample;4;145;Yes;760000
+Ciutat Vella;2;89;Yes;550000
+Sants-Montjuïc;5;295;No;1075000
+Eixample;5;182;Yes;990000
+Sarrià-Sant Gervasi;5;217;Yes;1150000
+Ciutat Vella;4;172;Yes;1145000
+Sarrià-Sant Gervasi;3;220;Yes;1100000
+Les Corts;2;72;Yes;290000
+Sarrià-Sant Gervasi;5;150;Yes;750000
+Eixample;4;197;Yes;550000
+Sarrià-Sant Gervasi;5;160;Yes;950000
+Eixample;7;150;Yes;530000
+Eixample;3;80;Yes;245000
+Ciutat Vella;1;60;Yes;339000
+Eixample;4;140;Yes;750000
+Sarrià-Sant Gervasi;3;83;No;335000
+Sarrià-Sant Gervasi;6;519;No;1350000
+Sants-Montjuïc;3;84;No;245000
+Ciutat Vella;4;156;Yes;630000
+Sant Martí;3;68;Yes;192000
+Horta-Guinardó;2;55;Yes;159000
+Sant Andreu;3;65;Yes;190000
+Sants-Montjuïc;3;75;Yes;215000
+Sants-Montjuïc;3;70;Yes;230000
+Sants-Montjuïc;3;60;Yes;165000
+Eixample;2;84;Yes;630000
+Sarrià-Sant Gervasi;3;95;Yes;349000
+Sant Martí;3;73;Yes;229000
+Sant Martí;4;79;Yes;195000
+Sant Martí;4;139;Yes;698000
+Horta-Guinardó;5;160;No;595000
+Les Corts;2;88;Yes;360000
+Sant Martí;2;52;No;99000
+Eixample;3;90;Yes;399000
+Eixample;2;62;Yes;280000
+Sarrià-Sant Gervasi;2;80;Yes;590000
+Ciutat Vella;1;50;No;185000
+Ciutat Vella;4;114;No;295000
+Sarrià-Sant Gervasi;4;118;Yes;425000
+Eixample;4;143;Yes;560000
+Eixample;4;95;Yes;610000
+Les Corts;3;60;Yes;260000
+Sarrià-Sant Gervasi;4;150;Yes;850000
+Eixample;2;88;Yes;360000
+Gràcia;2;90;Yes;350000
+Sants-Montjuïc;2;67;Yes;288000
+Sant Martí;4;170;Yes;1686000
+Sarrià-Sant Gervasi;3;145;Yes;720000
+Sant Martí;2;52;No;99000
+Sarrià-Sant Gervasi;8;483;No;2750000
+Sarrià-Sant Gervasi;6;380;No;1850000
+Gràcia;3;122;Yes;835000
+Eixample;4;148;Yes;629000
+Eixample;1;34;Yes;210000
+Sant Martí;2;66;No;200000
+Les Corts;4;90;Yes;420000
+Sarrià-Sant Gervasi;3;93;Yes;395000
+Sant Martí;2;92;No;360000
+Ciutat Vella;4;84;No;299000
+Sants-Montjuïc;2;81;Yes;299000
+Les Corts;2;50;Yes;200000
+Horta-Guinardó;3;95;Yes;449000
+Sarrià-Sant Gervasi;4;170;Yes;950000
+Sant Martí;4;92;Yes;245000
+Sant Martí;2;49;No;99000
+Sant Martí;4;87;Yes;230000
+Eixample;2;71;Yes;265000
+Sant Andreu;3;130;Yes;466000
+Eixample;4;124;Yes;520000
+Nou Barris;3;69;Yes;176000
+Nou Barris;3;65;No;119000
+Sants-Montjuïc;3;76;Yes;280000
+Sants-Montjuïc;4;88;Yes;295000
+Sarrià-Sant Gervasi;4;149;Yes;640000
+Gràcia;1;80;Yes;429000
+Sants-Montjuïc;2;69;No;228000
+Eixample;3;87;Yes;395000
+Gràcia;2;110;Yes;470000
+Eixample;2;88;Yes;269000
+Sants-Montjuïc;2;70;Yes;275000
+Sarrià-Sant Gervasi;3;148;Yes;635000
+Sants-Montjuïc;3;117;Yes;410000
+Sant Martí;3;74;No;185000
+Eixample;2;72;Yes;285000
+Eixample;3;290;Yes;2450000
+Eixample;5;123;Yes;369000
+Sants-Montjuïc;3;83;Yes;250000
+Horta-Guinardó;3;65;No;169800
+Nou Barris;2;71;No;245000
+Ciutat Vella;2;76;No;200000
+Sant Martí;2;82;Yes;398000
+Sants-Montjuïc;1;33;Yes;129000
+Gràcia;3;60;No;310000
+Les Corts;5;600;No;3990000
+Ciutat Vella;3;86;Yes;349000
+Sarrià-Sant Gervasi;3;160;Yes;845000
+Eixample;3;122;Yes;570000
+Ciutat Vella;3;86;No;270000
+Nou Barris;3;62;No;139000
+Nou Barris;3;96;Yes;215000
+Sants-Montjuïc;3;120;Yes;463000
+Sants-Montjuïc;3;150;No;239000
+Ciutat Vella;3;56;No;283000
+Sants-Montjuïc;4;81;Yes;405000
+Eixample;4;113;Yes;425000
+Ciutat Vella;3;83;Yes;320000
+Gràcia;4;116;Yes;349000
+Nou Barris;3;83;Yes;418200
+Sants-Montjuïc;3;101;No;260000
+Eixample;4;123;Yes;439000
+Les Corts;2;185;Yes;1600000
+Sant Andreu;3;73;Yes;206000
+Eixample;4;98;Yes;360000
+Ciutat Vella;3;80;No;250000
+Ciutat Vella;2;63;No;240000
+Eixample;3;114;Yes;1650000
+Eixample;3;217;Yes;2290000
+Eixample;2;72;Yes;360000
+Les Corts;4;95;Yes;560000
+Les Corts;4;91;Yes;525000
+Eixample;4;225;Yes;1975000
+Gràcia;4;122;Yes;595000
+Eixample;3;90;Yes;1430000
+Sarrià-Sant Gervasi;6;274;Yes;1190000
+Sarrià-Sant Gervasi;6;492;Yes;4000000
+Eixample;1;126;Yes;850000
+Sant Martí;2;62;Yes;390000
+Eixample;6;237;Yes;1800000
+Eixample;3;200;Yes;1950000
+Eixample;3;134;Yes;890000
+Eixample;7;259;Yes;2450000
+Eixample;4;475;Yes;5000000
+Sants-Montjuïc;4;115;Yes;540000
+Sarrià-Sant Gervasi;6;257;Yes;1250000
+Ciutat Vella;4;269;Yes;1290000
+Eixample;3;120;Yes;660000
+Eixample;3;94;Yes;439000
+Eixample;3;120;Yes;650000
+Eixample;2;74;Yes;363400
+Ciutat Vella;2;129;Yes;840000
+Ciutat Vella;2;93;Yes;720000
+Ciutat Vella;3;134;Yes;880000
+Sant Martí;2;91;No;360000
+Sant Martí;3;92;Yes;210000
+Eixample;5;197;Yes;2500000
+Ciutat Vella;1;72;No;275000
+Sant Martí;3;125;Yes;498000
+Sant Martí;3;81;Yes;217000
+Horta-Guinardó;4;105;Yes;320000
+Sant Martí;1;70;Yes;180000
+Sants-Montjuïc;2;48;No;250000
+Sants-Montjuïc;2;48;No;250000
+Les Corts;2;68;Yes;340000
+Sarrià-Sant Gervasi;3;81;Yes;550000
+Eixample;2;165;Yes;1290000
+Eixample;4;95;Yes;390000
+Horta-Guinardó;3;61;No;125000
+Sants-Montjuïc;1;53;Yes;115000
+Eixample;3;102;Yes;675000
+Sant Martí;3;97;Yes;359000
+Eixample;3;152;Yes;675000
+Les Corts;4;338;Yes;2250000
+Eixample;4;170;Yes;795000
+Eixample;2;106;Yes;400000
+Eixample;3;100;Yes;369000
+Eixample;3;172;Yes;1295000
+Eixample;3;136;Yes;1150000
+Sant Martí;3;188;Yes;2500000
+Ciutat Vella;4;200;Yes;1250000
+Eixample;3;91;Yes;538000
+Sant Martí;3;145;Yes;1300000
+Eixample;3;169;Yes;995000
+Eixample;2;91;Yes;630000
+Ciutat Vella;3;198;Yes;1600000
+Eixample;1;82;Yes;260000
+Gràcia;4;191;Yes;2300000
+Gràcia;4;109;Yes;529000
+Sant Martí;2;72;Yes;395000
+Eixample;4;145;Yes;760000
+Eixample;2;74;Yes;495000
+Ciutat Vella;2;134;Yes;449000
+Eixample;3;189;Yes;930000
+Sarrià-Sant Gervasi;3;139;Yes;1150000
+Eixample;2;57;No;345000
+Eixample;3;106;Yes;699000
+Eixample;5;198;Yes;790000
+Sarrià-Sant Gervasi;3;120;Yes;649999
+Eixample;5;197;Yes;990000
+Eixample;3;70;Yes;289000
+Eixample;3;83;Yes;330000
+Sarrià-Sant Gervasi;3;92;Yes;399000
+Horta-Guinardó;2;75;Yes;215000
+Sant Martí;2;100;Yes;499900
+Eixample;4;120;Yes;545000
+Sant Martí;5;201;Yes;860000
+Sant Andreu;3;78;No;178000
+Horta-Guinardó;3;53;Yes;185000
+Horta-Guinardó;2;71;Yes;260000
+Eixample;3;100;Yes;469000
+Sant Andreu;3;70;Yes;256000
+Sants-Montjuïc;4;420;No;1450000
+Sant Andreu;2;62;No;129000
+Ciutat Vella;3;72;Yes;335000
+Sants-Montjuïc;4;103;Yes;422000
+Sants-Montjuïc;3;107;Yes;399000
+Ciutat Vella;1;63;No;285000
+Eixample;4;103;Yes;369000
+Sant Andreu;3;67;Yes;240000
+Sant Martí;3;92;Yes;359000
+Sant Martí;5;206;Yes;874800
+Sarrià-Sant Gervasi;4;214;Yes;1750000
+Eixample;1;58;Yes;145000
+Les Corts;4;96;Yes;385000
+Horta-Guinardó;2;69;Yes;270000
+Sant Martí;3;94;Yes;295000
+Sant Martí;4;92;Yes;210000
+Eixample;3;105;Yes;499000
+Gràcia;3;76;Yes;295000
+Sarrià-Sant Gervasi;4;140;Yes;670000
+Eixample;4;93;Yes;345000
+Eixample;3;70;Yes;280000
+Horta-Guinardó;3;65;Yes;199000
+Ciutat Vella;3;78;No;266000
+Sant Martí;2;80;Yes;560000
+Horta-Guinardó;3;88;Yes;230000
+Eixample;3;128;Yes;850000
+Horta-Guinardó;2;85;No;210000
+Les Corts;4;86;Yes;420000
+Eixample;3;115;Yes;995000
+Sants-Montjuïc;3;75;Yes;215000
+Nou Barris;3;68;Yes;200000
+Les Corts;4;95;Yes;570000
+Eixample;3;118;Yes;610000
+Les Corts;4;131;Yes;449000
+Eixample;3;140;Yes;675000
+Sant Andreu;2;74;No;200000
+Les Corts;4;100;Yes;560000
+Gràcia;3;107;Yes;500000
+Sarrià-Sant Gervasi;2;101;Yes;800000
+Sant Andreu;3;75;Yes;199000
+Sant Andreu;4;119;Yes;279900
+Gràcia;4;200;No;770000
+Eixample;4;97;Yes;375000
+Ciutat Vella;3;145;No;450000
+Eixample;2;86;Yes;420000
+Ciutat Vella;3;89;Yes;450000
+Sarrià-Sant Gervasi;3;120;Yes;660000
+Ciutat Vella;1;29;No;119000
+Ciutat Vella;3;67;Yes;230000
+Sarrià-Sant Gervasi;3;85;Yes;445000
+Horta-Guinardó;2;58;Yes;284000
+Sants-Montjuïc;3;69;Yes;310000
+Sant Andreu;3;69;No;259000
+Sants-Montjuïc;3;62;Yes;215000
+Sant Martí;3;56;No;199000
+Eixample;1;53;Yes;260000
+Gràcia;3;220;No;950000
+Sants-Montjuïc;4;112;Yes;379000
+Ciutat Vella;4;143;No;410000
+Les Corts;2;95;Yes;530500
+Les Corts;2;100;Yes;630000
+Les Corts;2;102;Yes;550000
+Gràcia;2;88;Yes;646000
+Ciutat Vella;3;153;No;570000
+Les Corts;4;215;Yes;1050000
+Gràcia;2;88;No;440000
+Sarrià-Sant Gervasi;3;220;No;890000
+Eixample;1;46;Yes;297000
+Sarrià-Sant Gervasi;3;234;Yes;1100000
+Sants-Montjuïc;2;50;Yes;290000
+Sarrià-Sant Gervasi;4;149;Yes;960000
+Ciutat Vella;3;86;No;359000
+Ciutat Vella;2;81;No;440000
+Sarrià-Sant Gervasi;4;280;Yes;2750000
+Ciutat Vella;2;219;Yes;1280000
+Sarrià-Sant Gervasi;4;323;No;1890000
+Sant Martí;3;136;No;890000
+Ciutat Vella;2;103;Yes;680000
+Gràcia;4;120;No;499000
+Eixample;2;91;Yes;375000
+Sant Martí;1;56;Yes;432000
+Sant Martí;2;58;Yes;435000
+Sarrià-Sant Gervasi;6;546;No;1750000
+Ciutat Vella;2;318;Yes;2500000
+Sarrià-Sant Gervasi;3;265;No;2750000
+Sarrià-Sant Gervasi;6;380;No;1850000
+Sarrià-Sant Gervasi;5;376;No;1150000
+Les Corts;8;750;No;5800000
+Sarrià-Sant Gervasi;4;191;Yes;1175000
+Sarrià-Sant Gervasi;6;300;Yes;1550000
+Sants-Montjuïc;3;106;Yes;417000
+Sant Martí;3;147;Yes;960000
+Ciutat Vella;2;137;No;370000
+Sarrià-Sant Gervasi;4;256;Yes;1295000
+Les Corts;5;598;Yes;2490000
+Gràcia;1;95;Yes;575000
+Sants-Montjuïc;2;87;No;460000
+Sants-Montjuïc;2;100;Yes;649000
+Sarrià-Sant Gervasi;5;585;No;2350000
+Eixample;3;72;Yes;390000
+Sarrià-Sant Gervasi;4;555;Yes;2150000
+Sants-Montjuïc;2;50;No;189000
+Sants-Montjuïc;2;62;Yes;235000
+Nou Barris;2;56;Yes;295800
+Horta-Guinardó;4;197;No;480000
+Nou Barris;3;75;Yes;276000
+Gràcia;5;582;No;1690000
+Sant Andreu;2;80;Yes;340000
+Ciutat Vella;3;95;No;345000
+Eixample;3;90;Yes;350000
+Sants-Montjuïc;3;95;Yes;299000
+Eixample;2;80;Yes;255000
+Les Corts;3;131;Yes;564900
+Sants-Montjuïc;2;87;Yes;315000
+Eixample;4;82;Yes;310000
+Gràcia;4;95;Yes;359900
+Ciutat Vella;3;63;Yes;235000
+Sant Andreu;4;93;Yes;329000
+Eixample;4;117;Yes;280000
+Sants-Montjuïc;4;100;Yes;300000
+Sants-Montjuïc;4;93;Yes;335000
+Eixample;3;61;Yes;299000
+Horta-Guinardó;3;90;No;230000
+Horta-Guinardó;3;91;Yes;415000
+Sants-Montjuïc;1;41;No;215000
+Sarrià-Sant Gervasi;3;71;Yes;359000
+Sants-Montjuïc;1;47;No;280000
+Eixample;2;91;Yes;690000
+Gràcia;4;130;Yes;575000
+Sant Martí;3;82;Yes;239900
+Ciutat Vella;2;55;No;225000
+Eixample;2;81;Yes;420000
+Eixample;2;69;Yes;379000
+Sant Martí;3;130;Yes;435000
+Eixample;5;131;Yes;550000
+Les Corts;4;139;Yes;840000
+Eixample;3;73;Yes;300000
+Sants-Montjuïc;3;90;Yes;199000
+Horta-Guinardó;4;69;Yes;198000
+Sant Andreu;2;70;Yes;285000
+Sarrià-Sant Gervasi;3;250;Yes;1100000
+Sant Martí;3;131;Yes;260000
+Gràcia;3;107;Yes;495000
+Horta-Guinardó;3;46;No;195000
+Sarrià-Sant Gervasi;4;176;Yes;740000
+Sant Martí;3;135;Yes;575000
+Eixample;3;72;Yes;369000
+Gràcia;3;70;No;400000
+Ciutat Vella;4;221;Yes;1690000
+Sant Martí;3;72;No;295000
+Sants-Montjuïc;4;114;Yes;410000
+Sarrià-Sant Gervasi;5;251;Yes;1630000
+Eixample;3;121;Yes;595000
+Ciutat Vella;2;55;No;160000
+Ciutat Vella;4;133;Yes;495000
+Sant Martí;2;75;Yes;398000
+Ciutat Vella;1;90;Yes;800000
+Sant Martí;2;66;Yes;169000
+Sant Martí;3;105;Yes;695000
+Eixample;4;96;Yes;350000
+Sarrià-Sant Gervasi;4;290;Yes;1690000
+Sarrià-Sant Gervasi;5;264;Yes;3500000
+Sarrià-Sant Gervasi;3;82;Yes;550000
+Eixample;5;183;Yes;699000
+Eixample;3;91;Yes;375000
+Eixample;1;85;Yes;329000
+Sarrià-Sant Gervasi;2;198;Yes;1280000
+Ciutat Vella;3;83;No;395000
+Les Corts;5;314;Yes;2400000
+Sant Martí;3;115;Yes;1090000
+Les Corts;4;218;Yes;2250000
+Sarrià-Sant Gervasi;3;130;Yes;1290000
+Sants-Montjuïc;4;80;Yes;280000
+Les Corts;6;686;No;4600000
+Ciutat Vella;2;118;Yes;495000
+Gràcia;3;582;No;1690000
+Sarrià-Sant Gervasi;5;374;No;1950000
+Sarrià-Sant Gervasi;5;281;Yes;1500000
+Sarrià-Sant Gervasi;4;160;Yes;875000
+Ciutat Vella;2;35;No;190000
+Gràcia;2;49;Yes;245000
+Eixample;4;84;Yes;299000
+Sarrià-Sant Gervasi;5;412;No;2100000
+Nou Barris;2;55;No;170000
+Horta-Guinardó;1;40;Yes;198000
+Sant Martí;3;175;No;1130000
+Sant Martí;2;73;Yes;375000
+Sarrià-Sant Gervasi;7;500;Yes;2950000
+Sarrià-Sant Gervasi;6;355;Yes;2300000
+Sarrià-Sant Gervasi;5;257;Yes;1650000
+Sants-Montjuïc;4;334;No;797000
+Sarrià-Sant Gervasi;4;111;Yes;495000
+Eixample;3;147;Yes;1850000
+Eixample;3;180;Yes;765000
+Sarrià-Sant Gervasi;9;545;No;3900000
+Eixample;3;112;Yes;499000
+Eixample;3;123;Yes;1190000
+Eixample;2;80;Yes;650000
+Eixample;4;77;Yes;340000
+Sants-Montjuïc;3;150;Yes;239000
+Sant Martí;3;71;Yes;179000
+Sant Andreu;3;104;Yes;588000
+Sant Andreu;2;56;Yes;242000
+Sant Andreu;3;104;Yes;523000
+Sant Andreu;3;62;Yes;188000
+Sant Martí;3;77;Yes;325000
+Sarrià-Sant Gervasi;1;120;No;380000
+Eixample;4;600;Yes;12000000
+Nou Barris;2;49;Yes;167000
+Eixample;2;63;No;195000
+Les Corts;2;95;Yes;480000
+Sants-Montjuïc;3;75;No;250000
+Sants-Montjuïc;3;76;Yes;269000
+Sant Martí;4;75;Yes;195000
+Sant Martí;3;73;Yes;399000
+Sants-Montjuïc;2;60;Yes;260000
+Eixample;3;133;Yes;850000
+Gràcia;3;79;Yes;445000
+Ciutat Vella;1;40;No;170000
+Ciutat Vella;2;59;No;230000
+Les Corts;5;234;No;840000
+Ciutat Vella;2;61;No;227000
+Ciutat Vella;1;49;No;180000
+Sant Martí;3;93;Yes;375000
+Sant Martí;3;90;Yes;285000
+Eixample;4;109;Yes;460000
+Sants-Montjuïc;3;60;Yes;220000
+Eixample;2;156;Yes;1900000
+Eixample;2;149;Yes;1200000
+Eixample;2;149;Yes;1325000
+Eixample;3;113;Yes;415000
+Gràcia;4;93;Yes;350000
+Eixample;5;97;Yes;440000
+Sant Martí;3;85;No;290000
+Horta-Guinardó;6;132;Yes;389000
+Sant Andreu;4;101;Yes;298000
+Sants-Montjuïc;2;63;Yes;310000
+Sants-Montjuïc;3;91;Yes;430000
+Eixample;2;75;Yes;363400
+Eixample;3;88;Yes;445500
+Eixample;2;80;Yes;319000
+Sants-Montjuïc;3;91;Yes;340000
+Sant Martí;2;75;Yes;395000
+Eixample;3;109;Yes;445000
+Nou Barris;3;65;Yes;135000
+Sarrià-Sant Gervasi;5;220;Yes;1100000
+Ciutat Vella;2;85;No;234000
+Sant Martí;4;86;Yes;339000
+Eixample;3;87;Yes;365000
+Ciutat Vella;4;84;Yes;297069
+Eixample;3;88;Yes;399000
+Sants-Montjuïc;3;99;Yes;299800
+Sarrià-Sant Gervasi;4;274;Yes;839000
+Gràcia;3;137;Yes;575000
+Les Corts;2;95;Yes;479000
+Ciutat Vella;1;34;No;165000
+Sant Martí;2;70;Yes;420000
+Sants-Montjuïc;4;86;Yes;335000
+Sants-Montjuïc;3;79;Yes;253000
+Eixample;2;63;No;350000
+Gràcia;2;70;Yes;319000
+Sant Martí;3;74;Yes;260000
+Horta-Guinardó;3;58;Yes;196000
+Gràcia;2;64;Yes;275000
+Gràcia;1;56;No;320000
+Ciutat Vella;3;71;No;195000
+Sant Martí;3;67;No;289000
+Eixample;4;122;Yes;415000
+Sant Martí;3;91;Yes;290000
+Les Corts;5;210;Yes;1030000
+Sants-Montjuïc;3;62;Yes;250000
+Eixample;1;42;Yes;228000
+Ciutat Vella;3;117;Yes;840000
+Ciutat Vella;2;76;Yes;465000
+Ciutat Vella;2;151;Yes;565000
+Ciutat Vella;2;84;Yes;475000
+Eixample;2;68;Yes;470000
+Eixample;3;62;Yes;385000
+Ciutat Vella;2;75;Yes;319000
+Sarrià-Sant Gervasi;3;80;Yes;415000
+Eixample;4;230;Yes;2300000
+Eixample;2;117;Yes;595000
+Eixample;3;177;Yes;890000
+Sarrià-Sant Gervasi;7;391;Yes;1690000
+Eixample;2;75;No;298000
+Eixample;4;135;Yes;795000
+Gràcia;4;136;Yes;475000
+Sant Martí;3;141;Yes;830000
+Sant Martí;3;75;Yes;230000
+Eixample;3;132;Yes;1180000
+Eixample;1;86;Yes;870000
+Gràcia;1;51;No;350000
+Sant Martí;1;41;No;177000
+Ciutat Vella;2;299;Yes;3500000
+Eixample;3;139;Yes;1570000
+Horta-Guinardó;3;54;Yes;250000
+Eixample;3;85;Yes;380000
+Eixample;4;140;Yes;530000
+Sarrià-Sant Gervasi;4;129;Yes;685000
+Ciutat Vella;1;111;No;550000
+Nou Barris;3;66;Yes;295000
+Sarrià-Sant Gervasi;1;73;Yes;310000
+Sant Martí;2;83;Yes;235000
+Sants-Montjuïc;3;68;No;152000
+Sant Martí;3;76;Yes;169000
+Gràcia;2;68;Yes;245000
+Sants-Montjuïc;4;126;Yes;359000
+Ciutat Vella;2;75;Yes;280000
+Sarrià-Sant Gervasi;2;86;Yes;400000
+Ciutat Vella;2;64;Yes;200000
+Nou Barris;3;68;Yes;200000
+Sants-Montjuïc;4;110;Yes;360000
+Nou Barris;2;55;Yes;170000
+Les Corts;4;144;Yes;670000
+Sant Martí;2;84;Yes;425000
+Nou Barris;2;125;Yes;449000
+Sant Martí;3;179;Yes;538000
+Sarrià-Sant Gervasi;5;131;Yes;650000
+Nou Barris;3;68;No;141000
+Sant Martí;3;77;Yes;169000
+Eixample;2;96;Yes;439000
+Sant Andreu;3;76;Yes;218000
+Sant Andreu;4;89;Yes;264000
+Sant Martí;3;117;Yes;568000
+Sant Andreu;3;68;No;139000
+Sarrià-Sant Gervasi;5;300;Yes;3500000
+Sant Andreu;2;79;Yes;239000
+Sarrià-Sant Gervasi;2;90;Yes;800000
+Eixample;3;203;Yes;1790000
+Nou Barris;4;94;Yes;305000
+Sants-Montjuïc;2;95;No;367000
+Les Corts;3;94;Yes;425000
+Ciutat Vella;4;158;No;540000
+Sarrià-Sant Gervasi;4;353;Yes;3100000
+Les Corts;4;121;Yes;595000
+Eixample;4;73;Yes;267000
+Sarrià-Sant Gervasi;3;116;No;395000
+Les Corts;6;800;No;6500000
+Ciutat Vella;2;66;Yes;425000
+Sants-Montjuïc;2;70;No;460000
+Eixample;2;62;Yes;500000
+Sants-Montjuïc;2;70;Yes;445000
+Eixample;3;94;Yes;500000
+Ciutat Vella;1;49;No;197500
+Eixample;1;65;Yes;340000
+Sant Martí;2;110;Yes;644000
+Les Corts;5;147;Yes;695000
+Gràcia;2;89;Yes;470000
+Sarrià-Sant Gervasi;3;177;Yes;1000000
+Eixample;4;142;Yes;595000
+Horta-Guinardó;3;70;No;209000
+Eixample;4;201;Yes;1360000
+Eixample;2;89;Yes;400000
+Ciutat Vella;2;117;No;470000
+Ciutat Vella;2;90;Yes;445000
+Eixample;4;90;Yes;375000
+Eixample;2;120;Yes;795000
+Sants-Montjuïc;3;129;Yes;446000
+Eixample;4;70;Yes;255000
+Sant Andreu;2;159;Yes;399900
+Ciutat Vella;2;130;Yes;710000
+Eixample;3;92;Yes;360000
+Nou Barris;2;55;No;170000
+Eixample;2;75;Yes;435000
+Eixample;1;68;Yes;330000
+Ciutat Vella;3;60;Yes;249000
+Eixample;4;60;Yes;210000
+Les Corts;4;120;Yes;498000
+Gràcia;2;70;Yes;428000
+Sant Martí;4;106;Yes;545000
+Ciutat Vella;2;88;Yes;285000
+Sant Martí;4;170;No;453000
+Les Corts;4;108;Yes;430000
+Gràcia;2;63;Yes;265000
+Sant Andreu;3;110;Yes;309000
+Eixample;5;159;Yes;840000
+Eixample;3;96;Yes;342000
+Sants-Montjuïc;4;77;Yes;295000
+Nou Barris;3;55;No;87000
+Sant Martí;4;85;Yes;298000
+Nou Barris;3;70;Yes;140000
+Gràcia;2;63;Yes;295000
+Eixample;3;118;Yes;570000
+Eixample;4;200;Yes;1650000
+Sant Martí;4;91;Yes;285000
+Eixample;4;117;Yes;655000
+Eixample;2;121;Yes;1000000
+Eixample;3;152;Yes;1550000
+Eixample;2;73;Yes;395000
+Eixample;4;146;Yes;595000
+Horta-Guinardó;3;55;Yes;199000
+Gràcia;2;99;Yes;375000
+Sants-Montjuïc;3;111;Yes;550000
+Sant Martí;4;273;No;1130000
+Sants-Montjuïc;3;70;Yes;299000
+Sarrià-Sant Gervasi;2;91;Yes;585000
+Sant Martí;3;73;Yes;218000
+Ciutat Vella;2;53;No;235000
+Sarrià-Sant Gervasi;4;175;Yes;1050000
+Sant Martí;2;66;Yes;199000
+Ciutat Vella;3;166;Yes;1200000
+Ciutat Vella;4;172;Yes;1115000
+Ciutat Vella;2;72;Yes;590000
+Sant Martí;2;105;Yes;375000
+Sarrià-Sant Gervasi;5;185;Yes;950000
+Sant Martí;2;48;Yes;209000
+Les Corts;3;79;Yes;295000
+Sants-Montjuïc;3;79;Yes;235000
+Les Corts;4;120;Yes;595000
+Sants-Montjuïc;3;72;Yes;295000
+Gràcia;4;364;No;1149000
+Les Corts;4;104;Yes;530000
+Ciutat Vella;1;58;Yes;310000
+Sants-Montjuïc;2;70;Yes;331000
+Sarrià-Sant Gervasi;2;105;Yes;490000
+Sant Andreu;3;65;Yes;219000
+Les Corts;2;89;Yes;525000
+Gràcia;3;65;No;255000
+Eixample;4;70;Yes;259000
+Ciutat Vella;4;102;No;350000
+Eixample;3;126;Yes;698000
+Sarrià-Sant Gervasi;3;103;Yes;460000
+Les Corts;2;63;Yes;450000
+Gràcia;4;228;Yes;680000
+Les Corts;3;68;Yes;490000
+Gràcia;2;60;Yes;365000
+Sarrià-Sant Gervasi;2;90;Yes;478000
+Eixample;2;87;Yes;470000
+Eixample;2;84;Yes;630000
+Gràcia;1;51;Yes;315400
+Gràcia;1;53;Yes;342950
+Eixample;4;117;Yes;550000
+Eixample;2;71;Yes;540000
+Les Corts;3;82;Yes;359000
+Ciutat Vella;4;175;Yes;1145000
+Sants-Montjuïc;3;98;Yes;435000
+Eixample;5;214;Yes;3000000
+Les Corts;6;255;Yes;2275000
+Sants-Montjuïc;2;61;No;299500
+Les Corts;5;226;Yes;1140000
+Sant Martí;4;132;Yes;1980000
+Sant Andreu;4;80;Yes;225000
+Ciutat Vella;1;77;Yes;460000
+Gràcia;1;35;Yes;134000
+Ciutat Vella;2;106;Yes;600000
+Sants-Montjuïc;3;80;Yes;245000
+Ciutat Vella;4;95;Yes;380000
+Sarrià-Sant Gervasi;1;54;Yes;209000
+Sant Martí;4;101;Yes;230000
+Sarrià-Sant Gervasi;2;56;No;285000
+Gràcia;2;75;No;305000
+Sarrià-Sant Gervasi;2;95;Yes;510000
+Sarrià-Sant Gervasi;4;232;Yes;1750000
+Sant Andreu;2;50;Yes;255000
+Les Corts;2;110;Yes;335000
+Ciutat Vella;5;95;No;220000
+Les Corts;4;92;Yes;420708
+Horta-Guinardó;3;64;Yes;290000
+Sarrià-Sant Gervasi;5;331;Yes;1570000
+Sant Martí;3;71;Yes;188000
+Sant Martí;4;170;No;453000
+Nou Barris;3;77;No;139900
+Gràcia;2;85;No;410000
+Gràcia;3;123;Yes;375000
+Sarrià-Sant Gervasi;5;165;Yes;860000
+Ciutat Vella;3;85;No;260000
+Les Corts;4;83;Yes;350000
+Eixample;3;113;Yes;530000
+Eixample;2;83;No;250000
+Sarrià-Sant Gervasi;3;121;Yes;600000
+Sarrià-Sant Gervasi;4;120;Yes;509000
+Eixample;2;91;Yes;600000
+Eixample;4;160;Yes;760000
+Gràcia;2;108;Yes;530000
+Sarrià-Sant Gervasi;3;90;Yes;695000
+Sarrià-Sant Gervasi;3;118;Yes;921000
+Sarrià-Sant Gervasi;2;87;Yes;725000
+Sant Martí;2;81;Yes;411000
+Sarrià-Sant Gervasi;1;51;Yes;403000
+Sant Martí;1;89;Yes;577500
+Sant Martí;1;95;Yes;617000
+Sant Martí;1;63;Yes;378500
+Sant Martí;2;76;Yes;426000
+Sant Martí;3;96;Yes;473500
+Eixample;3;105;Yes;1269000
+Eixample;3;105;Yes;1075000
+Eixample;4;210;Yes;1879000
+Nou Barris;3;83;Yes;418200
+Sarrià-Sant Gervasi;3;124;Yes;795000
+Sarrià-Sant Gervasi;1;62;Yes;445000
+Sarrià-Sant Gervasi;1;62;Yes;420000
+Sant Martí;5;201;Yes;860000
+Sant Martí;5;206;Yes;874800
+Les Corts;2;102;Yes;550000
+Les Corts;2;95;Yes;530500
+Les Corts;2;100;Yes;630000
+Gràcia;2;88;Yes;646000
+Nou Barris;2;56;Yes;295800
+Eixample;2;150;Yes;2158000
+Eixample;2;85;Yes;858000
+Eixample;2;192;Yes;2188000
+Sarrià-Sant Gervasi;2;102;Yes;845000
+Sarrià-Sant Gervasi;2;106;Yes;880000
+Sarrià-Sant Gervasi;2;106;Yes;1035000
+Horta-Guinardó;3;116;Yes;435000
+Ciutat Vella;2;76;Yes;465000
+Ciutat Vella;2;151;Yes;565000
+Ciutat Vella;2;84;Yes;475000
+Sants-Montjuïc;1;79;Yes;355000
+Sants-Montjuïc;2;69;Yes;331000
+Sants-Montjuïc;2;69;Yes;337000
+Eixample;2;76;Yes;490000
+Eixample;2;76;Yes;505000
+Eixample;2;77;Yes;495000
+Eixample;1;50;Yes;295000
+Eixample;1;50;Yes;315000
+Eixample;2;68;Yes;375000
+Ciutat Vella;4;172;Yes;1115000
+Ciutat Vella;2;72;Yes;590000
+Ciutat Vella;3;166;Yes;1200000
+Gràcia;1;51;Yes;315400
+Gràcia;1;53;Yes;342950
+Eixample;2;60;Yes;370000
+Eixample;2;60;Yes;380000
+Eixample;2;60;Yes;365000
+Sant Martí;2;66;Yes;400000
+Sant Martí;3;96;Yes;560000
+Sant Martí;3;96;Yes;545000
+Sant Martí;3;124;Yes;575700
+Sant Martí;1;71;Yes;341000
+Sant Martí;2;122;Yes;548400
+Sarrià-Sant Gervasi;1;45;Yes;440000
+Sarrià-Sant Gervasi;1;50;Yes;520000
+Sarrià-Sant Gervasi;1;45;Yes;407000
+Eixample;4;159;Yes;820000
+Eixample;2;78;Yes;435000
+Eixample;3;149;Yes;745000
+Nou Barris;2;66;Yes;331500
+Ciutat Vella;1;50;Yes;322000
+Ciutat Vella;2;62;Yes;478000
+Ciutat Vella;1;59;Yes;352000
+Sarrià-Sant Gervasi;3;101;Yes;775000
+Sarrià-Sant Gervasi;2;95;Yes;820000
+Sarrià-Sant Gervasi;3;91;Yes;749000
+Gràcia;3;94;Yes;595000
+Gràcia;1;53;Yes;309000
+Gràcia;2;72;Yes;470000
+Eixample;1;55;Yes;367200
+Eixample;1;55;Yes;345600
+Eixample;1;55;Yes;356400
+Eixample;3;89;Yes;540000
+Eixample;3;89;Yes;530000
+Eixample;2;72;Yes;580000
+Eixample;3;111;Yes;1095000
+Eixample;3;105;Yes;1475000
+Sant Andreu;4;102;Yes;430000
+Sant Martí;1;67;Yes;359000
+Sarrià-Sant Gervasi;2;69;Yes;608000
+Sarrià-Sant Gervasi;2;70;Yes;599000
+Sarrià-Sant Gervasi;2;69;Yes;583000
+Horta-Guinardó;3;91;Yes;425000
+Horta-Guinardó;3;91;Yes;415000
+Sant Martí;2;86;Yes;469000
+Horta-Guinardó;3;114;Yes;430000
+Horta-Guinardó;3;116;Yes;415000
+Sants-Montjuïc;2;68;Yes;242400
+Sants-Montjuïc;1;50;Yes;180610
+Sants-Montjuïc;3;84;Yes;291700
+Sants-Montjuïc;2;72;Yes;335000
+Sant Andreu;2;56;Yes;258000
+Sant Andreu;2;56;Yes;262000
+Gràcia;4;99;Yes;395000
+Gràcia;3;86;Yes;355000
+Gràcia;1;50;Yes;250000
+Nou Barris;2;55;Yes;234000
+Nou Barris;2;62;Yes;253000
+Nou Barris;1;47;Yes;199000
+Sant Martí;3;96;Yes;610000
+Horta-Guinardó;3;83;Yes;455000
+Horta-Guinardó;3;81;Yes;430000
+Sants-Montjuïc;2;87;Yes;420000
+Sants-Montjuïc;2;69;Yes;335000
+Sants-Montjuïc;2;82;Yes;400000
+Gràcia;2;74;Yes;420000
+Gràcia;3;68;Yes;410000
+Gràcia;2;75;Yes;415000
+Sant Andreu;3;85;Yes;355000
+Sant Andreu;3;102;Yes;430000
+Nou Barris;4;101;Yes;350000
+Nou Barris;4;107;Yes;450000
+Nou Barris;2;52;Yes;270000
+Horta-Guinardó;2;64;Yes;375000
+Eixample;4;204;Yes;2975000
+Eixample;4;144;Yes;1980000
+Horta-Guinardó;2;100;Yes;570000
+Horta-Guinardó;4;121;Yes;625000
+Horta-Guinardó;4;121;Yes;660000
+Horta-Guinardó;3;113;Yes;600000
+Nou Barris;2;68;Yes;382500
+Nou Barris;3;81;Yes;433500
+Horta-Guinardó;2;100;Yes;475000
+Horta-Guinardó;2;100;Yes;515000
+Horta-Guinardó;3;113;Yes;515000
+Horta-Guinardó;4;121;Yes;595000
+Sarrià-Sant Gervasi;2;132;Yes;865000
+Les Corts;2;100;Yes;695000
+Sant Andreu;2;73;Yes;328000
+Sant Andreu;2;65;Yes;324000
+Sant Andreu;1;63;Yes;369000
+Sant Martí;2;84;Yes;425000
+Sant Martí;3;104;Yes;376000
+Sant Martí;3;99;Yes;480000
+Sant Martí;3;190;Yes;597000
+Les Corts;2;89;Yes;692000
+Les Corts;2;134;Yes;670000
+Nou Barris;2;66;Yes;336600
+Nou Barris;2;56;Yes;331500
+Eixample;1;134;Yes;495000
+Eixample;3;138;Yes;795000
+Eixample;3;189;Yes;1090000
+Sarrià-Sant Gervasi;2;158;Yes;900000
+Sarrià-Sant Gervasi;2;160;Yes;910000
+Eixample;1;128;Yes;780000
+Eixample;2;160;Yes;970000
+Eixample;2;195;Yes;2158000
+Eixample;2;145;Yes;2188000
+Eixample;3;158;Yes;1368000
+Sarrià-Sant Gervasi;3;134;Yes;1395000
+Sarrià-Sant Gervasi;3;138;Yes;1370000
+Sarrià-Sant Gervasi;2;115;Yes;1130000
+Sant Andreu;3;105;Yes;462000
+Sant Andreu;3;104;Yes;457000
+Sant Andreu;3;104;Yes;523000
+Sant Andreu;2;56;Yes;242000
+Sants-Montjuïc;3;109;Yes;467000
+Sant Martí;4;151;Yes;833900
+Ciutat Vella;2;128;Yes;595000
+Nou Barris;2;70;Yes;377400
+Horta-Guinardó;3;113;Yes;474000
+Horta-Guinardó;3;121;Yes;445000
+Sant Martí;4;100;Yes;533000
+Ciutat Vella;2;80;Yes;475000
+Horta-Guinardó;3;110;Yes;395000
+Ciutat Vella;2;71;Yes;485000
+Ciutat Vella;2;71;Yes;475000
+Ciutat Vella;2;150;Yes;565000
+Ciutat Vella;2;84;Yes;465000
+Horta-Guinardó;3;88;Yes;432500
+Horta-Guinardó;3;97;Yes;530000
+Horta-Guinardó;3;92;Yes;526500
+Horta-Guinardó;3;88;Yes;502500
+Sant Martí;4;95;Yes;499000
+Sant Martí;2;66;Yes;340000
+Sant Martí;2;67;Yes;315000
+Sant Andreu;1;51;Yes;279000
+Ciutat Vella;2;95;Yes;592000
+Ciutat Vella;2;95;Yes;591000
+Ciutat Vella;2;80;Yes;498000
+Ciutat Vella;2;92;Yes;474000
+Ciutat Vella;1;53;Yes;339000
+Ciutat Vella;3;77;Yes;416000
+Ciutat Vella;1;66;Yes;380000
+Ciutat Vella;1;51;Yes;322000
+Ciutat Vella;2;100;Yes;481000
+Sant Martí;2;148;Yes;698000
+Sant Martí;2;85;Yes;565000
+Sant Martí;2;85;Yes;535000
+Sant Martí;2;110;Yes;634000
+Sant Martí;2;110;Yes;644000
+Sant Martí;2;87;Yes;520000
+Sant Martí;2;85;Yes;555000
+Sants-Montjuïc;2;69;Yes;343000
+Sants-Montjuïc;2;88;Yes;399000
+Sants-Montjuïc;3;115;Yes;489000
+Sants-Montjuïc;2;81;Yes;375000
+Sants-Montjuïc;2;81;Yes;389000
+Sants-Montjuïc;4;128;Yes;545000
+Sants-Montjuïc;2;81;Yes;382000
+Eixample;2;75;Yes;510000
+Eixample;2;75;Yes;655000
+Eixample;2;75;Yes;650000
+Eixample;3;97;Yes;550000
+Eixample;3;97;Yes;540000
+Eixample;2;68;Yes;380000
+Horta-Guinardó;3;81;Yes;310000
+Ciutat Vella;4;215;Yes;1690000
+Ciutat Vella;2;106;Yes;790000
+Les Corts;2;95;Yes;550000
+Sants-Montjuïc;2;60;Yes;375000
+Sarrià-Sant Gervasi;4;150;Yes;1150000
+Eixample;2;60;Yes;400000
+Sarrià-Sant Gervasi;1;58;Yes;385000
+Sants-Montjuïc;3;83;Yes;437000
+Sants-Montjuïc;2;60;Yes;325000
+Sants-Montjuïc;3;78;Yes;360000
+Sants-Montjuïc;2;60;Yes;337000
+Eixample;2;100;Yes;720000
+Eixample;1;70;Yes;465000
+Eixample;1;64;Yes;425000
+Eixample;1;66;Yes;430000
+Eixample;1;59;Yes;385000
+Eixample;1;94;Yes;600000
+Eixample;1;86;Yes;545000
+Eixample;3;95;Yes;565000
+Eixample;2;81;Yes;595000
+Eixample;3;89;Yes;530000
+Eixample;3;89;Yes;540000
+Eixample;2;72;Yes;580000
+Sant Martí;2;65;Yes;415000
+Sant Martí;2;62;Yes;350000
+Sant Martí;2;72;Yes;475000
+Sant Martí;2;72;Yes;415000
+Sant Martí;2;62;Yes;375000
+Sant Martí;2;65;Yes;395000
+Sant Martí;3;80;Yes;425000
+Sant Martí;3;103;Yes;470000
+Sant Martí;3;104;Yes;496128
+Sant Martí;2;81;Yes;365000
+Sant Martí;4;112;Yes;594448
+Sant Martí;2;76;Yes;360000
+Sant Martí;1;70;Yes;268000
+Eixample;2;101;Yes;530000
+Les Corts;2;100;Yes;670000
+Les Corts;2;76;Yes;550000
+Les Corts;2;73;Yes;715000
+Les Corts;2;71;Yes;530500
+Les Corts;2;65;Yes;692000
+Les Corts;2;115;Yes;1600000
+Les Corts;2;71;Yes;550000
+Les Corts;2;102;Yes;683000
+Eixample;2;109;Yes;695000
+Eixample;2;101;Yes;695000
+Eixample;1;71;Yes;505000
+Eixample;2;100;Yes;660000
+Eixample;1;71;Yes;520000
+Eixample;2;101;Yes;715000
+Eixample;1;71;Yes;485000
+Gràcia;2;97;Yes;510000
+Gràcia;1;75;Yes;350000
+Sants-Montjuïc;2;88;Yes;394000
+Sarrià-Sant Gervasi;2;84;Yes;545000
+Sarrià-Sant Gervasi;2;84;Yes;530000
+Sarrià-Sant Gervasi;2;82;Yes;510000
+Eixample;3;120;Yes;628000
+Eixample;3;120;Yes;675000
+Eixample;3;120;Yes;660000
+Eixample;3;120;Yes;640000
+Gràcia;3;120;Yes;495000
+Sant Martí;2;56;Yes;326000
+Sant Martí;4;101;Yes;545000
+Sant Andreu;2;84;Yes;430000
+Sant Andreu;2;84;Yes;360000
+Sant Andreu;2;84;Yes;340000
+Sant Andreu;3;118;Yes;480000
+Sant Martí;3;96;Yes;535000
+Sant Martí;3;96;Yes;570000
+Sant Martí;3;94;Yes;537500
+Sant Martí;2;73;Yes;387125
+Sant Martí;1;66;Yes;390000
+Sant Martí;2;73;Yes;375250
+Sant Martí;3;94;Yes;555000
+Sant Martí;1;66;Yes;349125
+Sant Martí;1;66;Yes;358125
+Sant Martí;2;73;Yes;420000
+Sant Martí;1;66;Yes;415000
+Sant Martí;3;94;Yes;482125
+Sant Martí;3;94;Yes;473575
+Horta-Guinardó;3;98;Yes;398500
+Horta-Guinardó;1;103;Yes;262000
+Horta-Guinardó;2;83;Yes;351500
+Sant Martí;4;158;Yes;685500
+Sant Martí;3;94;Yes;474000
+Sant Martí;2;67;Yes;342000
+Sarrià-Sant Gervasi;3;105;Yes;1280000
+Sarrià-Sant Gervasi;2;62;Yes;583000
+Sarrià-Sant Gervasi;2;63;Yes;561000
+Sant Martí;3;101;Yes;459000
+Sant Martí;2;92;Yes;399000
+Sant Martí;4;130;Yes;570000
+Ciutat Vella;1;58;Yes;339000
+Ciutat Vella;2;60;Yes;364000
+Ciutat Vella;1;86;Yes;462000
+Sarrià-Sant Gervasi;2;57;Yes;795000
+Les Corts;2;185;Yes;1600000
+Les Corts;2;99;Yes;715000
+Gràcia;2;72;Yes;520000
+Gràcia;2;72;Yes;495000
+Gràcia;3;94;Yes;630000
+Gràcia;1;51;Yes;322000
+Gràcia;3;94;Yes;615000
+Gràcia;1;61;Yes;350000
+Eixample;2;64;Yes;435200
+Eixample;1;55;Yes;378000
+Eixample;2;64;Yes;448000
+Horta-Guinardó;2;53;Yes;255697
+Horta-Guinardó;2;53;Yes;255697
+Horta-Guinardó;2;53;Yes;241815
+Horta-Guinardó;2;53;Yes;247633
+Horta-Guinardó;2;53;Yes;246467
+Eixample;3;95;Yes;565000
+Eixample;2;81;Yes;595000
+Sants-Montjuïc;2;85;Yes;470000
+Sants-Montjuïc;2;100;Yes;595000
+Sants-Montjuïc;2;86;Yes;425000
+Sant Martí;2;78;Yes;420000
+Sant Martí;2;57;Yes;296000
+Sant Martí;1;46;Yes;264000
+Sant Martí;2;48;Yes;265000
+Sant Martí;2;55;Yes;256000
+Sant Martí;2;53;Yes;280000
+Sant Martí;2;77;Yes;295000
+Sant Martí;3;68;Yes;315000
+Sant Martí;4;99;Yes;620000
+Ciutat Vella;2;62;Yes;440000
+Horta-Guinardó;3;81;Yes;395000
+Horta-Guinardó;3;78;Yes;370000
+Horta-Guinardó;3;78;Yes;360000
+Les Corts;3;122;Yes;620000
+Les Corts;3;190;Yes;750000
+Les Corts;2;159;Yes;560000
+Les Corts;3;114;Yes;620000
+Les Corts;3;122;Yes;650000
+Les Corts;3;122;Yes;590000
+Ciutat Vella;3;131;Yes;830000
+Eixample;3;113;Yes;1325000
+Sant Andreu;3;85;Yes;395000
+Sant Andreu;3;84;Yes;385000
+Sant Andreu;4;128;Yes;580000
+Sant Andreu;3;84;Yes;390000
+Horta-Guinardó;3;113;Yes;285000
+Sant Martí;3;99;Yes;643496
+Sant Martí;3;118;Yes;680434
+Sant Martí;3;109;Yes;527258
+Sant Martí;3;112;Yes;695610
+Sant Martí;2;62;Yes;413729
+Sant Martí;2;68;Yes;409877
+Sant Martí;3;85;Yes;545713
+Sant Martí;2;62;Yes;560204
+Sant Martí;2;62;Yes;429209
+Sant Martí;2;62;Yes;387537
+Sarrià-Sant Gervasi;5;572;No;2985000
+Gràcia;3;97;Yes;506000
+Gràcia;3;92;Yes;453000
+Gràcia;3;97;Yes;523000
+Gràcia;3;175;Yes;826000
+Horta-Guinardó;2;76;Yes;282000
+Sants-Montjuïc;3;89;Yes;285000
+Sants-Montjuïc;2;70;Yes;245000
+Sants-Montjuïc;2;61;Yes;224000
+Sants-Montjuïc;4;102;Yes;456000
+Horta-Guinardó;3;79;Yes;288000
+Horta-Guinardó;2;50;Yes;220000
+Horta-Guinardó;3;62;Yes;235000
+Horta-Guinardó;3;63;Yes;268000
+Horta-Guinardó;2;56;Yes;238000
+Horta-Guinardó;4;88;Yes;298000
+Horta-Guinardó;2;56;Yes;216000
+Horta-Guinardó;3;62;Yes;258000
+Horta-Guinardó;2;56;Yes;220000
+Horta-Guinardó;3;86;Yes;269000
+Horta-Guinardó;2;75;Yes;283000
+Horta-Guinardó;3;100;Yes;435000
+Horta-Guinardó;1;50;Yes;269000
+Horta-Guinardó;1;50;Yes;259000
+Horta-Guinardó;3;100;Yes;450000
+Sarrià-Sant Gervasi;3;200;Yes;2360000
+Sarrià-Sant Gervasi;3;200;Yes;2360000
+Ciutat Vella;2;82;Yes;540000
+Ciutat Vella;2;82;Yes;525000
+Ciutat Vella;1;67;Yes;475000
+Ciutat Vella;2;82;Yes;500000
+Ciutat Vella;1;50;Yes;360000
+Ciutat Vella;1;50;Yes;335000
+Sant Andreu;2;77;Yes;345000
+Sant Andreu;2;77;Yes;425000
+Sant Andreu;2;77;Yes;355000
+Sant Andreu;2;77;Yes;340000
+Sant Andreu;2;77;Yes;340000
+Horta-Guinardó;2;100;Yes;485000
+Horta-Guinardó;2;94;Yes;465000
+Horta-Guinardó;2;105;Yes;367500
+Sarrià-Sant Gervasi;2;69;Yes;624000
+Sarrià-Sant Gervasi;2;73;Yes;648000
+Sarrià-Sant Gervasi;2;70;Yes;624000
+Sarrià-Sant Gervasi;2;69;Yes;616000
+Sarrià-Sant Gervasi;2;70;Yes;616000
+Sarrià-Sant Gervasi;2;73;Yes;639000
+Sarrià-Sant Gervasi;2;69;Yes;599000
+Sarrià-Sant Gervasi;2;70;Yes;607000
+Sarrià-Sant Gervasi;2;73;Yes;683000
+Sarrià-Sant Gervasi;2;69;Yes;591000
+Sant Martí;1;108;Yes;703000
+Sant Martí;1;164;Yes;986500
+Sant Martí;1;153;Yes;916000
+Sant Martí;1;138;Yes;826500
+Sant Martí;1;105;Yes;577000
+Sant Martí;1;76;Yes;496000
+Sant Martí;1;115;Yes;630000
+Sant Martí;1;110;Yes;717000
+Sant Martí;1;151;Yes;907500
+Sant Martí;1;118;Yes;648000
+Sant Martí;1;103;Yes;545000
+Sant Martí;1;63;Yes;410000
+Sant Martí;1;75;Yes;452500
+Sant Martí;4;114;Yes;596000
+Sant Martí;2;67;Yes;375000
+Sant Martí;3;95;Yes;499000
+Sant Martí;4;119;Yes;630000
+Sant Andreu;4;91;Yes;410000
+Sant Andreu;3;88;Yes;395000
+Sant Andreu;3;87;Yes;380000
+Sant Andreu;4;114;Yes;490000
+Sant Andreu;4;109;Yes;480000
+Sant Andreu;3;84;Yes;380000
+Sant Andreu;4;147;Yes;520000
+Sant Andreu;3;120;Yes;385000
+Sant Andreu;3;96;Yes;360000
+Sant Andreu;4;114;Yes;375000
+Sant Andreu;3;112;Yes;420000
+Horta-Guinardó;1;55;Yes;162000
+Sant Andreu;3;86;Yes;445000
+Sant Andreu;3;86;Yes;410000
+Sant Andreu;3;86;Yes;405000
+Sant Andreu;3;86;Yes;400000
+Sant Andreu;2;69;Yes;385000
+Sant Andreu;2;69;Yes;350000
+Sant Andreu;2;69;Yes;345000
+Sant Andreu;2;69;Yes;340000
+Eixample;3;148;Yes;745000
+Horta-Guinardó;3;112;Yes;495000
+Sant Martí;3;104;Yes;620000
+Sant Martí;3;104;Yes;645000
+Sant Martí;3;104;Yes;429000
+Sant Martí;3;91;Yes;409000
+Sant Martí;3;95;Yes;575000
+Sant Martí;3;95;Yes;457000
+Sant Martí;2;83;Yes;358000
+Sant Martí;2;82;Yes;398000
+Sant Martí;3;91;Yes;446000
+Sant Martí;3;91;Yes;455000
+Sant Martí;2;81;Yes;391000
+Sarrià-Sant Gervasi;1;78;Yes;495000
+Horta-Guinardó;3;115;Yes;450000
+Ciutat Vella;2;140;Yes;650000
+Ciutat Vella;2;100;Yes;450000
+Ciutat Vella;2;100;Yes;450000
+Sant Martí;3;113;Yes;750000
+Sant Martí;3;113;Yes;750000
+Sant Martí;3;106;Yes;690000
+Horta-Guinardó;2;53;Yes;252920
+Sants-Montjuïc;2;72;Yes;340000
+Sants-Montjuïc;3;92;Yes;435000
+Sants-Montjuïc;3;107;Yes;493718
+Sant Andreu;2;56;Yes;282000
+Sant Andreu;2;56;Yes;272000
+Sant Andreu;2;56;Yes;286000
+Sant Andreu;2;56;Yes;268000
+Sarrià-Sant Gervasi;2;145;Yes;1210000
+Sarrià-Sant Gervasi;2;198;Yes;1940000
+Sant Martí;3;92;Yes;606000
+Sant Martí;2;92;Yes;690000
+Sant Martí;2;63;Yes;296000
+Sant Martí;2;88;Yes;650000
+Sant Martí;2;76;Yes;398000
+Horta-Guinardó;2;61;Yes;328000
+Horta-Guinardó;2;61;Yes;298000
+Horta-Guinardó;3;85;Yes;408000
+Horta-Guinardó;2;58;Yes;398000
+Horta-Guinardó;2;61;Yes;348000
+Nou Barris;1;29;Yes;118000
+Horta-Guinardó;2;75;Yes;337000
+Horta-Guinardó;2;75;Yes;335000
+Horta-Guinardó;3;116;Yes;395000
+Sants-Montjuïc;4;118;Yes;502000
+Horta-Guinardó;2;74;Yes;296500
+Horta-Guinardó;4;230;Yes;599000
+Horta-Guinardó;1;52;Yes;201500
+Horta-Guinardó;1;62;Yes;225500
+Horta-Guinardó;1;62;Yes;235500
+Horta-Guinardó;1;52;Yes;209500
+Sant Martí;2;69;Yes;435000
+Sant Martí;2;110;Yes;795000
+Sant Martí;1;63;Yes;356000
+Sants-Montjuïc;2;76;Yes;340000
+Nou Barris;3;77;Yes;268000
+Nou Barris;3;87;Yes;312000
+Nou Barris;1;47;Yes;156000
+Nou Barris;3;73;Yes;358000
+Gràcia;3;72;Yes;365000
+Gràcia;4;103;Yes;465000
+Nou Barris;2;55;Yes;267000
+Nou Barris;2;61;Yes;274000
+Nou Barris;2;55;Yes;260000
+Nou Barris;2;74;Yes;347000
+Sant Andreu;3;90;Yes;418000
+Sant Andreu;2;143;Yes;455000
+Sant Andreu;3;98;Yes;467000
+Sant Andreu;3;94;Yes;458000
+Sant Martí;4;115;Yes;601500
+Sant Martí;2;70;Yes;285000
+Sarrià-Sant Gervasi;1;70;Yes;295000
+Gràcia;2;90;Yes;622250
+Gràcia;1;71;Yes;523450
+Sant Martí;3;73;Yes;462000
+Horta-Guinardó;4;187;Yes;778000
+Les Corts;3;120;Yes;820000
+Gràcia;2;75;Yes;425000
+Gràcia;2;75;Yes;450000
+Gràcia;2;74;Yes;445000
+Gràcia;2;75;Yes;440000
+Sant Martí;4;113;Yes;705000
+Horta-Guinardó;2;62;Yes;305000
+Horta-Guinardó;1;45;Yes;240000
+Horta-Guinardó;1;45;Yes;250000
+Horta-Guinardó;2;63;Yes;315000
+Horta-Guinardó;2;63;Yes;305000
+Sarrià-Sant Gervasi;3;90;Yes;650000
+Sarrià-Sant Gervasi;3;130;Yes;1125000
+Sarrià-Sant Gervasi;4;146;Yes;1195000
+Gràcia;3;92;Yes;442000
+Sant Martí;2;63;Yes;394000
+Sant Martí;2;70;Yes;371000
+Ciutat Vella;2;79;Yes;638000
+Ciutat Vella;2;69;Yes;571000
+Ciutat Vella;2;79;Yes;661000
+Ciutat Vella;2;59;Yes;510000
+Ciutat Vella;3;88;Yes;694000
+Ciutat Vella;2;79;Yes;483000
+Ciutat Vella;2;71;Yes;431000
+Ciutat Vella;2;82;Yes;498000
+Ciutat Vella;2;56;Yes;357000
+Ciutat Vella;2;90;Yes;533000
+Les Corts;2;72;Yes;510000
+Sarrià-Sant Gervasi;4;154;Yes;1253000
+Sarrià-Sant Gervasi;3;117;Yes;978000
+Sarrià-Sant Gervasi;2;86;Yes;545000
+Horta-Guinardó;2;68;Yes;320000
+Horta-Guinardó;4;130;Yes;584000
+Sant Martí;3;102;Yes;595000
+Sant Martí;2;52;Yes;305000
+Sant Martí;2;52;Yes;300000
+Sant Martí;2;52;Yes;305000
+Sant Martí;2;52;Yes;310000
+Sant Martí;2;52;Yes;315000
+Sant Martí;2;52;Yes;295000
+Les Corts;2;72;Yes;495000
+Les Corts;3;125;Yes;795000
+Eixample;2;129;Yes;758000
+Les Corts;4;127;Yes;977500
+Les Corts;2;81;Yes;634500
+Ciutat Vella;1;47;Yes;200000
+Ciutat Vella;1;72;Yes;300000
+Sant Martí;1;81;Yes;445500
+Horta-Guinardó;2;58;Yes;224000
+Les Corts;4;143;Yes;995000
+Eixample;4;92;Yes;460000
+Horta-Guinardó;6;174;No;299000
+Eixample;5;183;Yes;725000
+Eixample;6;183;Yes;725000
+Sant Martí;3;99;Yes;340000
+Eixample;4;196;Yes;595000
+Sarrià-Sant Gervasi;5;210;Yes;749000
+Les Corts;4;113;Yes;475000
+Eixample;5;192;Yes;990000
+Eixample;4;190;Yes;1175000
+Eixample;3;85;Yes;265000
+Eixample;3;92;Yes;395000
+Ciutat Vella;5;175;Yes;680000
+Sarrià-Sant Gervasi;5;143;Yes;638000
+Sarrià-Sant Gervasi;4;139;Yes;695000
+Eixample;4;110;No;550000
+Sants-Montjuïc;4;72;No;229000
+Nou Barris;3;71;Yes;230000
+Eixample;3;79;Yes;345000
+Eixample;3;110;Yes;525000
+Eixample;2;83;Yes;390000
+Ciutat Vella;4;100;Yes;350000
+Sarrià-Sant Gervasi;4;202;Yes;950000
+Sarrià-Sant Gervasi;5;247;Yes;1250000
+Eixample;4;170;Yes;730000
+Les Corts;3;62;Yes;385000
+Les Corts;3;73;Yes;430000
+Eixample;5;200;Yes;1200000
+Eixample;6;145;Yes;530000
+Les Corts;4;80;Yes;340000
+Les Corts;5;297;Yes;1550000
+Sarrià-Sant Gervasi;4;262;No;1350000
+Sarrià-Sant Gervasi;3;124;Yes;759000
+Horta-Guinardó;5;161;No;490000
+Sant Martí;3;77;Yes;255000
+Gràcia;2;74;No;325000
+Sant Martí;4;150;No;360000
+Eixample;7;212;Yes;1650000
+Sarrià-Sant Gervasi;5;285;Yes;1780000
+Sarrià-Sant Gervasi;5;200;Yes;895000
+Les Corts;6;800;No;6500000
+Les Corts;10;790;No;4600000
+Ciutat Vella;5;140;Yes;670000
+Eixample;6;155;Yes;755000
+Horta-Guinardó;3;81;No;192000
+Sant Martí;4;79;Yes;195000
+Sarrià-Sant Gervasi;7;435;Yes;1850000
+Horta-Guinardó;1;47;No;185000
+Sarrià-Sant Gervasi;3;143;Yes;730000
+Gràcia;3;72;No;240000
+Eixample;3;97;Yes;350000
+Gràcia;7;391;No;1050000
+Sant Andreu;3;64;Yes;186000
+Sarrià-Sant Gervasi;3;142;Yes;800000
+Sarrià-Sant Gervasi;3;118;Yes;670000
+Gràcia;3;91;Yes;389000
+Gràcia;3;83;Yes;420000
+Horta-Guinardó;5;192;Yes;450000
+Les Corts;5;279;Yes;1550000
+Sarrià-Sant Gervasi;2;200;Yes;1780000
+Gràcia;4;72;No;225000
+Sants-Montjuïc;3;61;Yes;175000
+Les Corts;5;660;No;6900000
+Sarrià-Sant Gervasi;7;730;No;4500000
+Sarrià-Sant Gervasi;6;512;No;3900000
+Sarrià-Sant Gervasi;5;358;No;1880000
+Sants-Montjuïc;3;62;Yes;190000
+Nou Barris;3;65;Yes;145000
+Sarrià-Sant Gervasi;5;240;Yes;1625000
+Les Corts;6;360;Yes;1800000
+Ciutat Vella;4;114;Yes;340000
+Gràcia;2;63;Yes;265000
+Eixample;4;77;Yes;255000
+Eixample;4;97;Yes;445000
+Les Corts;7;331;Yes;2500000
+Gràcia;3;68;Yes;149000
+Ciutat Vella;4;113;Yes;450000
+Eixample;4;70;Yes;255000
+Sant Andreu;4;95;Yes;295000
+Eixample;3;96;Yes;570000
+Sarrià-Sant Gervasi;3;98;Yes;410000
+Sants-Montjuïc;2;70;Yes;162000
+Eixample;8;630;Yes;2520000
+Eixample;3;90;Yes;340000
+Gràcia;4;89;Yes;315000
+Gràcia;3;83;Yes;335000
+Eixample;3;150;Yes;1495000
+Gràcia;1;54;Yes;280000
+Les Corts;8;447;Yes;2500000
+Horta-Guinardó;4;89;Yes;259500
+Sant Martí;3;185;No;475000
+Sant Martí;3;72;Yes;150000
+Sants-Montjuïc;3;68;No;152000
+Ciutat Vella;2;42;No;118000
+Sarrià-Sant Gervasi;5;215;Yes;930000
+Eixample;4;159;Yes;800000
+Sants-Montjuïc;3;93;Yes;300000
+Eixample;4;98;Yes;430000
+Eixample;4;99;Yes;359300
+Eixample;3;87;Yes;360000
+Ciutat Vella;5;110;Yes;358000
+Eixample;4;100;Yes;430000
+Eixample;3;95;Yes;360000
+Eixample;4;102;Yes;490000
+Ciutat Vella;3;62;Yes;205000
+Sarrià-Sant Gervasi;2;65;Yes;380000
+Sarrià-Sant Gervasi;3;114;Yes;500000
+Les Corts;5;202;Yes;1200000
+Sant Martí;3;76;Yes;169900
+Sant Andreu;3;70;Yes;215000
+Sants-Montjuïc;2;73;Yes;189000
+Sant Martí;4;100;Yes;259000
+Sarrià-Sant Gervasi;6;406;Yes;2400000
+Eixample;3;119;Yes;710000
+Sant Martí;3;70;Yes;169000
+Sant Andreu;3;71;No;165000
+Sant Andreu;3;65;Yes;205000
+Sarrià-Sant Gervasi;3;211;Yes;890000
+Eixample;3;124;Yes;455000
+Eixample;3;78;Yes;340000
+Eixample;4;124;Yes;450000
+Sarrià-Sant Gervasi;3;110;Yes;395000
+Eixample;3;87;Yes;385000
+Gràcia;7;420;No;1050000
+Sant Andreu;3;65;Yes;179000
+Sant Martí;4;78;Yes;325000
+Eixample;5;283;Yes;1050000
+Eixample;5;150;Yes;850000
+Eixample;4;250;Yes;2750000
+Eixample;6;185;Yes;780000
+Eixample;5;173;Yes;595000
+Sarrià-Sant Gervasi;5;123;Yes;450000
+Les Corts;5;165;Yes;830000
+Eixample;3;74;Yes;275000
+Eixample;4;158;Yes;555000
+Eixample;3;152;Yes;550000
+Gràcia;2;70;No;289000
+Eixample;5;158;Yes;550000
+Eixample;4;140;Yes;582000
+Eixample;2;77;No;199000
+Les Corts;5;280;Yes;2500000
+Eixample;4;60;Yes;210000
+Sarrià-Sant Gervasi;4;97;Yes;425000
+Sant Martí;4;76;Yes;183000
+Gràcia;4;117;No;495000
+Eixample;4;75;Yes;295000
+Sant Andreu;3;69;Yes;195000
+Eixample;3;107;Yes;399000
+Sants-Montjuïc;4;86;Yes;320000
+Sants-Montjuïc;2;58;No;195000
+Ciutat Vella;2;76;Yes;270000
+Les Corts;6;439;Yes;3950000
+Les Corts;7;484;Yes;2500000
+Eixample;4;124;Yes;540000
+Sants-Montjuïc;3;70;No;175000
+Eixample;3;80;Yes;349000
+Eixample;3;77;Yes;295000
+Eixample;3;123;Yes;595000
+Sant Andreu;3;65;Yes;179900
+Les Corts;3;69;Yes;425000
+Eixample;4;112;Yes;540000
+Ciutat Vella;4;80;No;219000
+Eixample;4;152;Yes;660000
+Eixample;1;42;Yes;260000
+Eixample;3;89;Yes;400000
+Eixample;3;140;Yes;620000
+Eixample;4;140;Yes;620000
+Gràcia;1;62;No;215000
+Sarrià-Sant Gervasi;5;306;Yes;1750000
+Eixample;2;52;No;290000
+Eixample;4;159;Yes;670000
+Les Corts;4;170;Yes;1250000
+Eixample;3;78;Yes;315000
+Eixample;2;79;Yes;299000
+Sarrià-Sant Gervasi;5;121;Yes;495000
+Ciutat Vella;1;30;No;100000
+Sarrià-Sant Gervasi;1;68;No;285000
+Sarrià-Sant Gervasi;4;135;Yes;695000
+Eixample;3;81;Yes;440000
+Sarrià-Sant Gervasi;3;376;No;1150000
+Sarrià-Sant Gervasi;4;115;Yes;445000
+Sant Andreu;3;65;Yes;179000
+Sarrià-Sant Gervasi;7;475;Yes;1850000
+Ciutat Vella;3;81;Yes;260000
+Sarrià-Sant Gervasi;5;305;Yes;1750000
+Eixample;2;175;Yes;1700000
+Les Corts;5;170;Yes;670000
+Sant Martí;2;63;Yes;199000
+Nou Barris;4;130;No;130000
+Eixample;3;83;Yes;259900
+Sants-Montjuïc;4;100;Yes;385000
+Gràcia;3;74;Yes;269000
+Sarrià-Sant Gervasi;1;33;No;190000
+Sant Martí;3;68;Yes;190000
+Les Corts;2;88;Yes;360000
+Les Corts;4;108;Yes;430000
+Sants-Montjuïc;2;90;Yes;299000
+Sarrià-Sant Gervasi;4;142;Yes;840000
+Sants-Montjuïc;3;90;Yes;288000
+Eixample;5;118;Yes;475000
+Sant Martí;2;70;Yes;199000
+Eixample;1;30;No;158000
+Ciutat Vella;2;119;Yes;375000
+Sarrià-Sant Gervasi;5;150;Yes;410000
+Horta-Guinardó;5;124;Yes;375000
+Sarrià-Sant Gervasi;4;101;Yes;475000
+Horta-Guinardó;4;104;Yes;285000
+Gràcia;3;87;Yes;420000
+Les Corts;2;62;Yes;400000
+Sarrià-Sant Gervasi;4;144;Yes;520000
+Eixample;5;159;Yes;680000
+Sarrià-Sant Gervasi;3;67;No;345000
+Ciutat Vella;3;95;Yes;235000
+Gràcia;3;65;No;220000
+Eixample;5;250;Yes;790000
+Sants-Montjuïc;3;71;Yes;230000
+Sant Martí;3;85;Yes;189000
+Sant Martí;4;76;Yes;183000
+Eixample;3;106;Yes;550000
+Sarrià-Sant Gervasi;5;180;Yes;700000
+Eixample;7;305;Yes;1050000
+Eixample;3;70;Yes;265000
+Sarrià-Sant Gervasi;5;224;Yes;890000
+Les Corts;5;140;Yes;1220000
+Sarrià-Sant Gervasi;9;490;No;3600000
+Sarrià-Sant Gervasi;5;173;Yes;795000
+Ciutat Vella;2;76;Yes;265000
+Horta-Guinardó;3;61;Yes;247000
+Gràcia;4;142;Yes;495000
+Eixample;5;183;Yes;699000
+Sarrià-Sant Gervasi;6;510;Yes;2028400
+Nou Barris;2;40;No;105000
+Eixample;4;125;Yes;689000
+Eixample;1;88;Yes;780000
+Nou Barris;3;65;Yes;189000
+Eixample;3;83;Yes;249000
+Eixample;5;132;Yes;499000
+Sant Martí;3;79;Yes;310000
+Eixample;2;120;Yes;415000
+Eixample;3;75;Yes;265000
+Sants-Montjuïc;3;71;Yes;232000
+Eixample;7;157;Yes;530000
+Eixample;2;71;Yes;299000
+Eixample;4;158;Yes;530000
+Sants-Montjuïc;3;87;Yes;360000
+Sarrià-Sant Gervasi;5;217;Yes;990000
+Sant Martí;3;63;Yes;230000
+Gràcia;1;52;No;195000
+Sarrià-Sant Gervasi;2;62;No;275000
+Sarrià-Sant Gervasi;5;130;Yes;495000
+Eixample;4;99;Yes;700000
+Eixample;3;77;Yes;440000
+Sarrià-Sant Gervasi;4;113;Yes;395000
+Eixample;6;185;Yes;850000
+Horta-Guinardó;4;98;Yes;240000
+Eixample;5;161;Yes;1150000
+Sant Andreu;3;65;Yes;180000
+Sant Andreu;3;94;Yes;240000
+Sant Martí;3;73;Yes;185000
+Sant Andreu;3;65;Yes;215000
+Sant Andreu;4;85;Yes;240000
+Eixample;4;148;Yes;389000
+Gràcia;8;420;No;1050000
+Sants-Montjuïc;2;55;No;150000
+Ciutat Vella;2;79;Yes;285000
+Les Corts;1;29;Yes;245000
+Sarrià-Sant Gervasi;3;95;Yes;525000
+Eixample;8;260;Yes;950000
+Gràcia;3;79;Yes;268600
+Sant Andreu;3;65;No;169000
+Sants-Montjuïc;4;77;Yes;295000
+Eixample;3;81;Yes;265000
+Ciutat Vella;2;95;Yes;306000
+Eixample;3;70;Yes;340000
+Eixample;5;159;Yes;680000
+Les Corts;5;177;Yes;830000
+Eixample;3;82;Yes;318000
+Sarrià-Sant Gervasi;4;173;Yes;795000
+Sants-Montjuïc;1;42;No;135000
+Eixample;5;160;Yes;560000
+Sants-Montjuïc;4;110;Yes;360000
+Sants-Montjuïc;3;65;Yes;175000
+Horta-Guinardó;3;128;No;530000
+Sant Martí;1;64;Yes;400000
+Sant Andreu;3;66;Yes;215000
+Les Corts;4;147;Yes;675000
+Les Corts;4;180;Yes;1100000
+Gràcia;1;62;No;215000
+Sarrià-Sant Gervasi;4;128;Yes;585000
+Eixample;3;66;Yes;295000
+Ciutat Vella;2;51;Yes;200000
+Eixample;5;109;No;480000
+Eixample;2;75;Yes;299000
+Sants-Montjuïc;3;140;Yes;640000
+Sant Andreu;3;66;Yes;199000
+Les Corts;4;157;Yes;1100000
+Sarrià-Sant Gervasi;5;273;Yes;1190000
+Horta-Guinardó;4;119;Yes;390000
+Sant Martí;3;71;Yes;172000
+Sarrià-Sant Gervasi;6;243;Yes;925000
+Sarrià-Sant Gervasi;5;320;Yes;1385000
+Sant Martí;4;150;Yes;219900
+Nou Barris;2;70;No;120000
+Horta-Guinardó;3;80;Yes;265000
+Eixample;3;84;Yes;280000
+Eixample;2;56;No;279000
+Sarrià-Sant Gervasi;6;250;Yes;950000
+Sant Andreu;3;82;Yes;228000
+Sant Andreu;3;82;Yes;228000
+Sants-Montjuïc;3;136;Yes;299000
+Eixample;3;133;Yes;485000
+Eixample;6;175;Yes;730000
+Sarrià-Sant Gervasi;5;167;Yes;750000
+Sarrià-Sant Gervasi;5;270;Yes;1300000
+Sarrià-Sant Gervasi;3;125;No;499000
+Ciutat Vella;1;36;No;200000
+Gràcia;4;137;Yes;497000
+Sants-Montjuïc;3;86;Yes;155000
+Horta-Guinardó;2;52;No;165000
+Sarrià-Sant Gervasi;5;148;Yes;695000
+Nou Barris;3;60;No;142000
+Sant Martí;2;61;Yes;159900
+Sarrià-Sant Gervasi;3;170;No;695000
+Sant Andreu;3;82;Yes;228000
+Eixample;2;66;Yes;265000
+Sants-Montjuïc;4;100;Yes;345000
+Sant Martí;3;63;Yes;230000
+Horta-Guinardó;3;75;No;145000
+Gràcia;4;118;Yes;410000
+Horta-Guinardó;4;77;Yes;249000
+Eixample;4;114;Yes;429000
+Nou Barris;2;60;No;69000
+Eixample;4;109;Yes;475000
+Eixample;5;146;Yes;670000
+Sant Martí;3;84;Yes;299000
+Sarrià-Sant Gervasi;4;165;Yes;650000
+Sarrià-Sant Gervasi;3;134;Yes;660000
+Sants-Montjuïc;3;70;Yes;219000
+Eixample;3;114;Yes;720000
+Ciutat Vella;1;38;No;109000
+Eixample;2;103;Yes;535000
+Les Corts;5;274;Yes;2000000
+Les Corts;3;103;Yes;680000
+Eixample;3;118;Yes;615000
+Sarrià-Sant Gervasi;3;103;Yes;680000
+Ciutat Vella;3;110;Yes;390000
+Horta-Guinardó;3;68;No;132000
+Eixample;4;82;Yes;280000
+Les Corts;3;110;Yes;450000
+Gràcia;3;88;Yes;350000
+Ciutat Vella;2;44;No;120000
+Sants-Montjuïc;3;67;Yes;380000
+Horta-Guinardó;4;160;Yes;400000
+Sants-Montjuïc;3;94;Yes;280000
+Sant Martí;3;120;Yes;370000
+Eixample;3;108;Yes;409000
+Sarrià-Sant Gervasi;2;97;Yes;390000
+Sant Martí;3;131;Yes;595000
+Les Corts;2;63;Yes;385000
+Sant Martí;4;102;Yes;265000
+Eixample;4;91;Yes;370000
+Sarrià-Sant Gervasi;6;250;Yes;950000
+Sarrià-Sant Gervasi;6;248;Yes;950000
+Eixample;3;84;Yes;280000
+Les Corts;4;110;Yes;540000
+Eixample;3;74;No;250000
+Sarrià-Sant Gervasi;7;339;Yes;1400000
+Sarrià-Sant Gervasi;3;83;Yes;325000
+Ciutat Vella;3;120;No;379000
+Ciutat Vella;2;61;Yes;195000
+Eixample;2;119;Yes;529000
+Sants-Montjuïc;3;80;Yes;230000
+Ciutat Vella;4;136;No;500000
+Gràcia;1;64;Yes;280250
+Sants-Montjuïc;3;77;Yes;185000
+Ciutat Vella;3;81;No;225000
+Eixample;1;63;Yes;365000
+Eixample;4;76;Yes;255000
+Ciutat Vella;3;64;No;135000
+Sants-Montjuïc;4;78;No;285000
+Les Corts;7;360;Yes;1680000
+Ciutat Vella;3;138;No;379000
+Sant Martí;4;76;Yes;183000
+Horta-Guinardó;2;55;Yes;149000
+Eixample;5;172;Yes;579000
+Eixample;2;80;Yes;230000
+Eixample;6;166;Yes;675000
+Les Corts;3;125;Yes;360000
+Sant Martí;3;83;Yes;315000
+Nou Barris;6;103;No;280000
+Ciutat Vella;1;34;No;158000
+Nou Barris;3;56;Yes;129000
+Sarrià-Sant Gervasi;4;96;Yes;420000
+Sants-Montjuïc;3;70;No;175000
+Les Corts;4;72;Yes;255000
+Les Corts;3;62;Yes;395000
+Ciutat Vella;4;116;Yes;450000
+Les Corts;3;140;Yes;540000
+Ciutat Vella;2;53;No;159000
+Sants-Montjuïc;1;20;Yes;89500
+Ciutat Vella;2;36;No;105000
+Ciutat Vella;2;70;Yes;380000
+Sarrià-Sant Gervasi;8;490;Yes;2500000
+Eixample;5;180;Yes;750000
+Sants-Montjuïc;3;61;Yes;210000
+Sant Andreu;3;90;Yes;250000
+Sant Martí;3;77;No;185000
+Horta-Guinardó;3;81;Yes;250000
+Les Corts;3;81;Yes;246000
+Sarrià-Sant Gervasi;5;282;Yes;2850000
+Ciutat Vella;4;112;Yes;365000
+Eixample;4;110;Yes;365000
+Sants-Montjuïc;3;64;Yes;260000
+Gràcia;5;180;Yes;599000
+Ciutat Vella;5;230;No;769000
+Sarrià-Sant Gervasi;3;177;No;395000
+Sant Martí;4;86;Yes;180000
+Sant Martí;4;80;Yes;180000
+Eixample;3;70;Yes;249000
+Eixample;4;191;Yes;750000
+Nou Barris;1;80;Yes;500000
+Les Corts;4;127;Yes;550000
+Eixample;3;104;Yes;445000
+Sarrià-Sant Gervasi;6;390;Yes;1850000
+Nou Barris;3;62;Yes;189000
+Gràcia;3;252;No;230000
+Eixample;3;58;Yes;350000
+Eixample;3;65;Yes;265000
+Sant Martí;4;79;Yes;195000
+Les Corts;2;101;Yes;367000
+Eixample;4;149;Yes;495000
+Gràcia;2;64;Yes;280000
+Eixample;4;83;Yes;360000
+Sant Martí;3;60;Yes;176000
+Sants-Montjuïc;3;110;No;175000
+Sarrià-Sant Gervasi;5;180;Yes;850000
+Horta-Guinardó;3;67;Yes;245000
+Nou Barris;3;58;Yes;165000
+Sarrià-Sant Gervasi;3;177;Yes;1250000
+Sants-Montjuïc;3;59;No;185000
+Les Corts;4;130;Yes;525000
+Sarrià-Sant Gervasi;3;121;Yes;720000
+Eixample;3;68;Yes;280000
+Ciutat Vella;2;45;No;180000
+Sarrià-Sant Gervasi;5;200;Yes;999000
+Gràcia;3;74;Yes;249000
+Nou Barris;3;66;Yes;169000
+Sant Andreu;3;70;No;220000
+Eixample;3;104;Yes;349000
+Sant Martí;4;86;Yes;199900
+Sant Martí;3;61;Yes;300000
+Sant Andreu;4;78;Yes;245000
+Gràcia;5;96;No;370000
+Horta-Guinardó;3;79;Yes;260000
+Ciutat Vella;2;50;Yes;200000
+Sant Martí;3;75;Yes;210000
+Eixample;3;106;Yes;550000
+Sant Martí;4;102;Yes;265000
+Sants-Montjuïc;3;60;Yes;175000
+Eixample;4;75;Yes;255000
+Sant Andreu;4;85;Yes;270000
+Eixample;2;78;Yes;315000
+Sants-Montjuïc;5;103;No;249000
+Nou Barris;3;58;Yes;168000
+Sarrià-Sant Gervasi;2;70;No;235000
+Sants-Montjuïc;4;75;Yes;279000
+Sants-Montjuïc;4;120;Yes;388000
+Eixample;2;120;Yes;695000
+Horta-Guinardó;3;60;No;129000
+Sarrià-Sant Gervasi;1;95;Yes;199000
+Eixample;3;66;Yes;270000
+Sarrià-Sant Gervasi;4;100;Yes;390000
+Sants-Montjuïc;3;76;Yes;220000
+Ciutat Vella;2;44;No;120000
+Sant Martí;3;73;Yes;160000
+Ciutat Vella;3;79;No;280000
+Eixample;2;94;Yes;525000
+Sarrià-Sant Gervasi;5;144;Yes;770000
+Sarrià-Sant Gervasi;5;144;Yes;720000
+Sarrià-Sant Gervasi;5;280;Yes;1260000
+Sarrià-Sant Gervasi;3;146;Yes;1450000
+Sarrià-Sant Gervasi;5;314;Yes;1750000
+Sant Martí;4;125;Yes;275000
+Les Corts;8;836;No;4600000
+Les Corts;4;500;No;3400000
+Sant Martí;2;61;Yes;159900
+Sant Andreu;3;57;Yes;114900
+Sants-Montjuïc;4;80;Yes;165000
+Horta-Guinardó;3;66;Yes;175000
+Horta-Guinardó;3;90;Yes;400000
+Sants-Montjuïc;5;140;Yes;380000
+Eixample;4;124;Yes;390000
+Sarrià-Sant Gervasi;4;130;Yes;625000
+Ciutat Vella;2;45;Yes;178000
+Ciutat Vella;2;50;Yes;178000
+Ciutat Vella;2;100;Yes;230000
+Ciutat Vella;2;75;Yes;230000
+Eixample;1;73;Yes;470000
+Eixample;2;79;Yes;450000
+Eixample;2;79;Yes;460000
+Les Corts;3;73;Yes;355000
+Les Corts;3;73;Yes;435000
+Sant Andreu;3;88;Yes;300000
+Ciutat Vella;4;85;No;283000
+Eixample;4;90;Yes;350000
+Sarrià-Sant Gervasi;3;173;No;330000
+Horta-Guinardó;2;75;No;135000
+Sant Martí;1;58;No;176000
+Eixample;2;84;No;295000
+Ciutat Vella;3;78;No;158000
+Eixample;4;200;Yes;1200000
+Eixample;2;65;Yes;195000
+Sant Andreu;2;75;Yes;280000
+Horta-Guinardó;3;70;No;176000
+Gràcia;1;33;Yes;215000
+Sants-Montjuïc;1;30;No;135000
+Nou Barris;3;74;Yes;129999
+Eixample;3;86;Yes;295000
+Sants-Montjuïc;3;87;Yes;199000
+Nou Barris;3;79;Yes;142900
+Sarrià-Sant Gervasi;4;101;Yes;475000
+Sarrià-Sant Gervasi;5;140;Yes;990000
+Sants-Montjuïc;2;75;No;200000
+Sarrià-Sant Gervasi;6;355;Yes;2300000
+Ciutat Vella;1;40;Yes;195000
+Sant Martí;2;60;Yes;120000
+Ciutat Vella;11;536;Yes;1850000
+Ciutat Vella;3;52;No;165000
+Eixample;2;51;Yes;215000
+Sant Martí;4;131;Yes;199900
+Sants-Montjuïc;3;75;Yes;235000
+Ciutat Vella;3;85;No;216000
+Eixample;4;108;Yes;550000
+Sants-Montjuïc;3;53;Yes;244500
+Eixample;4;80;Yes;305000
+Sant Andreu;3;70;Yes;199000
+Horta-Guinardó;2;76;Yes;200500
+Sant Martí;3;70;Yes;135000
+Eixample;3;107;Yes;435000
+Ciutat Vella;3;47;No;135000
+Horta-Guinardó;3;68;Yes;125000
+Gràcia;4;70;Yes;330000
+Horta-Guinardó;3;70;Yes;155000
+Ciutat Vella;3;119;No;395000
+Ciutat Vella;3;80;No;335000
+Eixample;4;111;No;380000
+Eixample;4;100;Yes;475000
+Eixample;4;140;Yes;860000
+Ciutat Vella;5;185;No;700000
+Ciutat Vella;2;66;Yes;340000
+Sant Martí;1;53;No;235000
+Ciutat Vella;2;45;No;93000
+Les Corts;4;103;Yes;395000
+Ciutat Vella;2;53;No;141500
+Horta-Guinardó;3;60;Yes;206000
+Sant Andreu;3;81;Yes;235000
+Sarrià-Sant Gervasi;4;111;Yes;422500
+Eixample;4;90;Yes;390000
+Sant Martí;2;51;Yes;195000
+Sant Martí;3;75;Yes;210000
+Sant Martí;3;80;Yes;265000
+Sants-Montjuïc;4;161;No;325000
+Sarrià-Sant Gervasi;2;66;Yes;399000
+Gràcia;3;66;No;320000
+Les Corts;4;143;Yes;795000
+Horta-Guinardó;3;80;Yes;200000
+Sants-Montjuïc;2;98;No;275000
+Sarrià-Sant Gervasi;5;230;Yes;890000
+Sarrià-Sant Gervasi;5;200;Yes;1350000
+Sarrià-Sant Gervasi;5;280;Yes;1880000
+Sarrià-Sant Gervasi;5;150;Yes;640000
+Sants-Montjuïc;2;53;No;225000
+Horta-Guinardó;3;58;Yes;225000
+Eixample;4;100;Yes;420000
+Sarrià-Sant Gervasi;2;60;Yes;150000
+Ciutat Vella;2;61;No;290000
+Eixample;5;160;Yes;675000
+Sants-Montjuïc;4;95;Yes;320000
+Eixample;2;56;No;195000
+Sarrià-Sant Gervasi;4;137;Yes;790000
+Horta-Guinardó;6;160;No;499999
+Sant Martí;3;80;Yes;155000
+Eixample;6;185;Yes;770000
+Eixample;2;65;Yes;295000
+Sant Martí;3;70;Yes;270000
+Sants-Montjuïc;3;70;No;190000
+Sarrià-Sant Gervasi;5;87;Yes;417000
+Sant Martí;3;94;Yes;215000
+Sants-Montjuïc;4;110;Yes;336000
+Eixample;4;85;Yes;330000
+Eixample;4;95;Yes;400000
+Nou Barris;3;65;Yes;157500
+Sarrià-Sant Gervasi;5;195;Yes;980000
+Ciutat Vella;3;85;No;315000
+Sant Martí;3;85;Yes;269000
+Eixample;9;165;Yes;680000
+Gràcia;4;160;Yes;450000
+Horta-Guinardó;3;60;Yes;240000
+Sarrià-Sant Gervasi;5;126;Yes;570000
+Sants-Montjuïc;1;73;No;240000
+Horta-Guinardó;8;296;No;630000
+Sants-Montjuïc;3;75;Yes;235000
+Gràcia;3;70;No;350000
+Nou Barris;3;80;Yes;240000
+Nou Barris;3;100;Yes;190000
+Horta-Guinardó;4;75;No;210000
+Eixample;3;80;Yes;495000
+Sants-Montjuïc;1;20;No;100000
+Sant Martí;2;71;Yes;220000
+Sarrià-Sant Gervasi;5;256;Yes;1750000
+Les Corts;7;739;No;3390000
+Eixample;3;130;No;520000
+Eixample;3;142;Yes;790000
+Sants-Montjuïc;3;68;Yes;193000
+Eixample;4;134;Yes;445000
+Sarrià-Sant Gervasi;6;400;No;2475000
+Eixample;4;137;Yes;795000
+Sant Martí;2;66;Yes;199000
+Sarrià-Sant Gervasi;4;124;Yes;450000
+Eixample;6;191;Yes;1300000
+Sarrià-Sant Gervasi;4;162;Yes;730000
+Gràcia;3;118;Yes;550000
+Sants-Montjuïc;4;145;Yes;360000
+Eixample;3;138;Yes;760000
+Sarrià-Sant Gervasi;4;170;Yes;1200000
+Nou Barris;3;65;Yes;179900
+Ciutat Vella;3;62;Yes;235000
+Eixample;4;112;Yes;415000
+Horta-Guinardó;5;128;No;490000
+Les Corts;7;250;Yes;1250000
+Les Corts;1;63;No;165000
+Horta-Guinardó;2;69;Yes;201700
+Sant Andreu;3;107;Yes;315000
+Nou Barris;3;60;No;142000
+Eixample;3;88;Yes;260000
+Sant Martí;8;690;No;1250000
+Sant Martí;4;75;Yes;210000
+Eixample;3;94;Yes;275000
+Sant Andreu;3;75;Yes;200000
+Ciutat Vella;3;60;No;157900
+Gràcia;3;118;Yes;550000
+Sarrià-Sant Gervasi;4;143;Yes;680000
+Sants-Montjuïc;3;77;No;235000
+Eixample;5;181;Yes;660000
+Sarrià-Sant Gervasi;4;116;Yes;680000
+Nou Barris;3;56;Yes;129000
+Ciutat Vella;3;114;No;335000
+Eixample;4;100;Yes;340000
+Nou Barris;3;65;Yes;179000
+Sant Martí;3;76;Yes;169000
+Eixample;4;100;Yes;420000
+Les Corts;4;102;Yes;399000
+Eixample;5;154;Yes;590000
+Sant Andreu;4;74;Yes;205000
+Sarrià-Sant Gervasi;5;150;Yes;585000
+Horta-Guinardó;4;155;Yes;400000
+Sarrià-Sant Gervasi;6;274;Yes;1190000
+Sants-Montjuïc;4;85;Yes;330000
+Eixample;4;101;Yes;365000
+Ciutat Vella;3;86;No;350000
+Eixample;1;71;Yes;189000
+Eixample;2;44;Yes;185000
+Sants-Montjuïc;3;60;Yes;249000
+Ciutat Vella;1;30;No;115000
+Sarrià-Sant Gervasi;4;111;Yes;422500
+Sant Martí;3;50;Yes;225000
+Eixample;3;121;Yes;790000
+Eixample;4;140;Yes;545000
+Sants-Montjuïc;3;100;Yes;430000
+Sant Andreu;3;75;Yes;120000
+Les Corts;3;65;Yes;395000
+Eixample;6;338;Yes;1060000
+Sants-Montjuïc;1;42;No;125000
+Sarrià-Sant Gervasi;4;174;Yes;680000
+Ciutat Vella;3;59;No;178500
+Horta-Guinardó;4;95;Yes;340000
+Sarrià-Sant Gervasi;3;170;Yes;980000
+Eixample;4;100;Yes;325000
+Eixample;4;88;No;425000
+Sarrià-Sant Gervasi;3;73;No;554000
+Gràcia;4;95;Yes;368600
+Nou Barris;4;75;Yes;190000
+Nou Barris;2;50;Yes;149000
+Eixample;2;43;No;179000
+Sant Martí;2;51;Yes;249000
+Eixample;5;160;Yes;619000
+Eixample;2;130;Yes;620000
+Eixample;3;130;Yes;650000
+Eixample;2;190;Yes;650000
+Sants-Montjuïc;4;93;Yes;330000
+Sant Martí;3;60;Yes;180000
+Sants-Montjuïc;2;90;Yes;288000
+Sant Andreu;3;66;Yes;195000
+Horta-Guinardó;4;98;Yes;245000
+Eixample;1;60;Yes;260000
+Gràcia;3;110;Yes;370000
+Gràcia;5;230;Yes;1150000
+Sarrià-Sant Gervasi;5;231;Yes;1150000
+Sarrià-Sant Gervasi;7;300;Yes;1000000
+Sarrià-Sant Gervasi;3;100;Yes;450000
+Sant Martí;3;49;Yes;155000
+Sant Martí;4;88;Yes;300000
+Sant Martí;4;120;Yes;370000
+Sant Martí;2;69;Yes;220000
+Sarrià-Sant Gervasi;4;100;Yes;375000
+Sant Martí;3;75;No;279000
+Sant Martí;4;134;Yes;675000
+Les Corts;3;148;Yes;718500
+Gràcia;4;132;Yes;330000
+Eixample;2;141;Yes;597500
+Sant Martí;3;69;Yes;300000
+Les Corts;3;95;Yes;395000
+Ciutat Vella;2;73;No;199000
+Horta-Guinardó;10;297;No;795000
+Sarrià-Sant Gervasi;4;185;Yes;1390000
+Horta-Guinardó;4;140;No;520000
+Gràcia;4;294;No;1800000
+Horta-Guinardó;6;224;No;720000
+Eixample;3;83;Yes;280000
+Eixample;5;129;Yes;475000
+Sarrià-Sant Gervasi;4;174;Yes;900000
+Sarrià-Sant Gervasi;4;120;Yes;415000
+Eixample;4;92;Yes;395000
+Sant Martí;3;91;Yes;189000
+Sarrià-Sant Gervasi;1;43;Yes;245000
+Ciutat Vella;2;35;No;160000
+Eixample;3;75;Yes;180000
+Sant Andreu;3;66;Yes;195000
+Sants-Montjuïc;4;90;Yes;225000
+Ciutat Vella;3;59;Yes;140000
+Les Corts;3;101;Yes;450000
+Gràcia;1;62;No;210000
+Sarrià-Sant Gervasi;7;566;No;2900000
+Ciutat Vella;1;51;No;150000
+Sant Martí;3;88;Yes;320000
+Sants-Montjuïc;3;74;Yes;225000
+Eixample;4;125;Yes;598000
+Eixample;3;93;Yes;540000
+Les Corts;2;80;Yes;295000
+Horta-Guinardó;3;60;No;135000
+Horta-Guinardó;5;124;Yes;375000
+Gràcia;1;52;Yes;295000
+Ciutat Vella;2;158;No;560000
+Sant Martí;4;79;Yes;195000
+Sarrià-Sant Gervasi;4;329;Yes;1350000
+Eixample;3;122;Yes;475000
+Eixample;10;262;Yes;978000
+Eixample;3;81;Yes;299000
+Les Corts;3;86;Yes;310000
+Eixample;3;130;Yes;520000
+Gràcia;2;95;No;370000
+Sarrià-Sant Gervasi;3;121;Yes;550000
+Sarrià-Sant Gervasi;5;160;Yes;650000
+Eixample;5;158;Yes;530000
+Gràcia;4;85;Yes;320000
+Gràcia;4;85;Yes;319000
+Gràcia;4;92;Yes;390000
+Horta-Guinardó;3;85;Yes;319000
+Gràcia;2;107;Yes;650000
+Eixample;3;56;Yes;194000
+Sants-Montjuïc;4;127;Yes;540000
+Sarrià-Sant Gervasi;5;285;Yes;1260000
+Horta-Guinardó;2;42;No;79000
+Ciutat Vella;3;77;No;195000
+Eixample;4;185;Yes;365000
+Les Corts;4;78;Yes;219000
+Sarrià-Sant Gervasi;4;125;Yes;495000
+Sarrià-Sant Gervasi;5;165;Yes;655000
+Eixample;3;108;Yes;409000
+Eixample;5;157;Yes;530000
+Les Corts;3;80;Yes;395000
+Eixample;3;180;Yes;1200000
+Les Corts;3;70;Yes;360000
+Eixample;3;70;Yes;255000
+Gràcia;2;70;No;239000
+Eixample;2;56;Yes;209000
+Eixample;5;155;Yes;595000
+Gràcia;3;78;Yes;255000
+Nou Barris;4;137;No;265000
+Eixample;2;58;Yes;205000
+Sant Martí;3;74;Yes;233000
+Sant Andreu;3;79;Yes;219000
+Sant Martí;4;96;Yes;325000
+Sarrià-Sant Gervasi;2;114;Yes;500000
+Ciutat Vella;5;100;Yes;358000
+Les Corts;6;289;Yes;1200000
+Gràcia;4;88;Yes;350000
+Eixample;3;69;Yes;340000
+Sarrià-Sant Gervasi;3;93;No;375000
+Les Corts;7;716;No;3390000
+Sants-Montjuïc;4;97;Yes;340000
+Les Corts;5;145;Yes;1220000
+Sants-Montjuïc;3;120;Yes;463000
+Les Corts;5;227;No;1095000
+Horta-Guinardó;3;55;No;130000
+Sarrià-Sant Gervasi;3;143;Yes;900000
+Sarrià-Sant Gervasi;7;319;Yes;1350000
+Gràcia;4;196;Yes;595000
+Sarrià-Sant Gervasi;3;121;Yes;562000
+Eixample;5;106;Yes;370000
+Sarrià-Sant Gervasi;5;246;Yes;990000
+Sant Andreu;3;70;Yes;199000
+Ciutat Vella;2;39;No;130000
+Eixample;2;93;Yes;450000
+Sarrià-Sant Gervasi;3;120;Yes;445000
+Sant Andreu;4;102;Yes;255000
+Sants-Montjuïc;2;87;Yes;299000
+Eixample;2;47;Yes;210000
+Eixample;2;47;Yes;210000
+Eixample;3;110;No;250000
+Sants-Montjuïc;2;83;Yes;255000
+Sants-Montjuïc;3;72;Yes;260000
+Sarrià-Sant Gervasi;3;120;Yes;495000
+Gràcia;4;88;Yes;375000
+Les Corts;3;76;Yes;430000
+Gràcia;2;74;No;325000
+Gràcia;3;69;Yes;240000
+Sarrià-Sant Gervasi;5;258;Yes;1050000
+Eixample;2;81;No;490000
+Gràcia;3;72;Yes;265000
+Sarrià-Sant Gervasi;10;690;No;3950000
+Ciutat Vella;2;55;No;155000
+Eixample;3;70;Yes;365000
+Eixample;4;90;No;239000
+Sants-Montjuïc;3;64;Yes;220000
+Ciutat Vella;3;58;No;140000
+Eixample;3;129;Yes;599000
+Sarrià-Sant Gervasi;4;120;Yes;595000
+Ciutat Vella;4;114;No;335000
+Les Corts;4;95;Yes;430000
+Eixample;4;117;Yes;410000
+Eixample;4;134;No;395000
+Nou Barris;2;76;No;125000
+Les Corts;4;125;Yes;550000
+Eixample;7;228;Yes;2200000
+Eixample;6;200;Yes;710000
+Sarrià-Sant Gervasi;3;150;Yes;550000
+Sarrià-Sant Gervasi;5;150;Yes;410000
+Sants-Montjuïc;3;64;Yes;190000
+Eixample;4;140;Yes;550000
+Horta-Guinardó;3;145;No;259000
+Sarrià-Sant Gervasi;3;90;Yes;410000
+Sant Martí;3;84;No;330000
+Sarrià-Sant Gervasi;7;391;Yes;1690000
+Eixample;3;129;Yes;550000
+Gràcia;2;80;Yes;320000
+Sarrià-Sant Gervasi;5;320;Yes;1750000
+Eixample;6;158;Yes;680000
+Eixample;6;153;Yes;650000
+Sant Andreu;3;64;Yes;179900
+Eixample;7;184;Yes;780000
+Eixample;4;176;Yes;750000
+Eixample;8;261;Yes;978000
+Gràcia;5;317;No;699000
+Sant Martí;5;192;No;549000
+Eixample;5;141;Yes;622000
+Sants-Montjuïc;3;47;No;199900
+Eixample;3;90;Yes;400000
+Gràcia;4;118;Yes;550000
+Sarrià-Sant Gervasi;3;132;Yes;498000
+Ciutat Vella;3;85;No;239000
+Eixample;3;82;Yes;350000
+Eixample;3;87;Yes;570000
+Ciutat Vella;4;212;No;850000
+Eixample;3;130;Yes;520000
+Ciutat Vella;6;175;Yes;635000
+Les Corts;3;58;Yes;450000
+Les Corts;4;136;Yes;890000
+Sarrià-Sant Gervasi;4;121;Yes;465000
+Nou Barris;3;70;Yes;155000
+Gràcia;4;136;Yes;475000
+Sarrià-Sant Gervasi;5;145;Yes;790000
+Sarrià-Sant Gervasi;4;188;Yes;599000
+Eixample;3;87;Yes;330000
+Sant Andreu;3;65;Yes;185000
+Horta-Guinardó;10;297;No;795000
+Sarrià-Sant Gervasi;4;123;Yes;690000
+Horta-Guinardó;5;142;No;450000
+Ciutat Vella;5;139;Yes;657000
+Sarrià-Sant Gervasi;5;335;No;2850000
+Sarrià-Sant Gervasi;4;137;Yes;550000
+Les Corts;3;65;Yes;385000
+Sarrià-Sant Gervasi;7;650;No;2300000
+Ciutat Vella;3;235;No;712500
+Sarrià-Sant Gervasi;6;274;Yes;1670000
+Sant Martí;3;65;No;210000
+Eixample;6;196;Yes;900000
+Sant Martí;2;50;No;175000
+Sarrià-Sant Gervasi;2;143;Yes;900000
+Gràcia;3;80;Yes;310000
+Eixample;4;90;Yes;325000
+Ciutat Vella;2;55;No;175000
+Eixample;4;97;Yes;367000
+Eixample;2;86;Yes;302000
+Les Corts;3;129;Yes;718500
+Ciutat Vella;3;73;Yes;290000
+Eixample;3;104;Yes;345000
+Ciutat Vella;3;80;No;210000
+Ciutat Vella;4;204;Yes;780000
+Sarrià-Sant Gervasi;5;217;No;990000
+Eixample;4;157;Yes;545000
+Ciutat Vella;4;114;Yes;340000
+Eixample;1;85;Yes;460000
+Nou Barris;2;76;No;125000
+Eixample;3;80;Yes;295000
+Eixample;3;116;Yes;550000
+Les Corts;3;73;Yes;435000
+Ciutat Vella;2;150;Yes;830000
+Ciutat Vella;3;114;No;350000
+Les Corts;3;73;Yes;460000
+Sants-Montjuïc;4;85;Yes;310000
+Sarrià-Sant Gervasi;6;257;Yes;800000
+Ciutat Vella;6;549;Yes;1950000
+Sant Martí;4;99;Yes;378000
+Sarrià-Sant Gervasi;3;100;Yes;550000
+Sarrià-Sant Gervasi;4;120;Yes;650000
+Les Corts;3;74;Yes;430000
+Les Corts;2;73;Yes;460000
+Eixample;2;81;No;480000
+Sarrià-Sant Gervasi;5;123;Yes;740000
+Sarrià-Sant Gervasi;7;250;Yes;1000000
+Eixample;5;220;Yes;620000
+Nou Barris;1;74;No;87000
+Sant Andreu;1;74;Yes;156000
+Sants-Montjuïc;4;120;Yes;391000
+Sants-Montjuïc;4;77;No;285000
+Sarrià-Sant Gervasi;4;110;Yes;495000
+Sant Andreu;3;69;Yes;186000
+Gràcia;4;66;No;229000
+Eixample;3;46;No;185000
+Nou Barris;3;54;Yes;125000
+Eixample;4;130;Yes;699000
+Sant Andreu;3;104;Yes;295000
+Eixample;3;87;Yes;570000
+Ciutat Vella;4;212;Yes;850000
+Sarrià-Sant Gervasi;5;154;No;460000
+Sant Martí;2;80;Yes;325000
+Eixample;5;250;Yes;790000
+Eixample;2;35;Yes;190000
+Sant Martí;3;90;Yes;250000
+Eixample;4;142;Yes;750000
+Horta-Guinardó;3;67;Yes;155000
+Les Corts;4;146;Yes;520000
+Eixample;6;337;Yes;1060000
+Horta-Guinardó;3;55;No;149000
+Sant Martí;1;154;No;390000
+Eixample;5;141;Yes;670000
+Sant Andreu;7;200;No;279900
+Eixample;4;132;Yes;598000
+Les Corts;4;73;Yes;350000
+Sants-Montjuïc;1;20;No;90000
+Ciutat Vella;2;85;Yes;480000
+Ciutat Vella;1;54;No;142500
+Ciutat Vella;2;70;Yes;280000
+Ciutat Vella;1;61;Yes;250000
+Eixample;3;76;Yes;570000
+Les Corts;4;178;Yes;1150000
+Eixample;4;89;Yes;350000
+Eixample;4;124;Yes;390000
+Sarrià-Sant Gervasi;5;185;Yes;1390000
+Sant Martí;3;67;Yes;205000
+Horta-Guinardó;4;123;Yes;270000
+Eixample;4;210;Yes;1195000
+Eixample;5;136;Yes;470000
+Eixample;3;110;Yes;469000
+Ciutat Vella;2;40;No;96000
+Ciutat Vella;2;50;Yes;200000
+Les Corts;8;447;Yes;2100000
+Sant Martí;3;69;Yes;299000
+Sarrià-Sant Gervasi;4;91;Yes;520000
+Sant Andreu;3;74;Yes;279000
+Ciutat Vella;4;94;No;325000
+Eixample;3;85;Yes;470000
+Eixample;5;157;Yes;505000
+Eixample;3;79;Yes;330000
+Eixample;3;65;Yes;300000
+Eixample;3;133;Yes;900000
+Ciutat Vella;4;94;No;325000
+Sarrià-Sant Gervasi;3;121;Yes;365000
+Les Corts;6;300;Yes;1500000
+Eixample;6;216;Yes;899000
+Sant Andreu;3;64;Yes;199900
+Eixample;3;112;Yes;390000
+Eixample;7;155;Yes;550000
+Gràcia;4;70;Yes;255000
+Les Corts;3;74;Yes;435000
+Sants-Montjuïc;4;86;Yes;300000
+Sarrià-Sant Gervasi;5;168;Yes;750000
+Eixample;4;224;Yes;798000
+Les Corts;3;106;Yes;520000
+Sant Martí;4;110;Yes;235000
+Sant Andreu;3;74;Yes;161500
+Sarrià-Sant Gervasi;6;285;Yes;1780000
+Sarrià-Sant Gervasi;4;130;Yes;580000
+Sant Martí;4;74;Yes;241000
+Sarrià-Sant Gervasi;4;98;Yes;365000
+Eixample;5;117;Yes;499000
+Sants-Montjuïc;3;92;Yes;285000
+Eixample;2;105;Yes;400000
+Eixample;3;70;Yes;340000
+Sant Martí;3;67;Yes;199000
+Les Corts;3;80;Yes;240000
+Sant Martí;3;90;Yes;315000
+Les Corts;3;73;Yes;435000
+Les Corts;6;181;Yes;928800
+Eixample;5;250;Yes;1150000
+Eixample;3;79;Yes;450000
+Eixample;2;77;Yes;450000
+Les Corts;3;73;Yes;430000
+Sants-Montjuïc;4;83;Yes;270000
+Eixample;3;79;Yes;440000
+Eixample;4;196;Yes;595000
+Eixample;2;88;Yes;240000
+Ciutat Vella;3;82;No;248000
+Eixample;4;98;Yes;340000
+Sants-Montjuïc;3;68;No;152000
+Sant Martí;2;50;No;260000
+Nou Barris;3;65;Yes;189000
+Sant Martí;3;66;Yes;214900
+Eixample;4;134;Yes;490000
+Sants-Montjuïc;3;68;Yes;179000
+Sants-Montjuïc;3;75;Yes;195000
+Sarrià-Sant Gervasi;4;118;Yes;560000
+Sant Martí;4;75;Yes;183000
+Sant Andreu;4;89;Yes;260000
+Eixample;4;350;No;390000
+Ciutat Vella;4;240;Yes;1190000
+Gràcia;3;84;Yes;399000
+Les Corts;5;148;Yes;590000
+Sant Martí;4;93;Yes;278000
+Eixample;5;188;Yes;580000
+Sant Martí;3;70;Yes;230000
+Sants-Montjuïc;3;78;No;177000
+Sants-Montjuïc;2;51;No;150000
+Sants-Montjuïc;3;86;Yes;200000
+Les Corts;3;69;Yes;435000
+Gràcia;2;59;Yes;198000
+Sants-Montjuïc;5;110;Yes;540000
+Les Corts;3;69;Yes;430000
+Les Corts;3;70;Yes;415000
+Sarrià-Sant Gervasi;3;73;Yes;375000
+Eixample;4;130;Yes;480000
+Eixample;2;80;Yes;455000
+Sarrià-Sant Gervasi;4;140;Yes;790000
+Sarrià-Sant Gervasi;2;95;Yes;340000
+Ciutat Vella;3;130;No;450000
+Eixample;4;80;Yes;325000
+Sarrià-Sant Gervasi;5;145;Yes;790000
+Sarrià-Sant Gervasi;5;145;Yes;790000
+Nou Barris;3;55;Yes;189000
+Eixample;5;113;Yes;460000
+Eixample;4;89;Yes;385000
+Ciutat Vella;3;50;No;184000
+Sants-Montjuïc;2;72;No;174000
+Gràcia;3;52;No;228000
+Eixample;3;95;Yes;410000
+Eixample;7;200;Yes;680000
+Sarrià-Sant Gervasi;3;77;No;365000
+Nou Barris;1;51;Yes;118000
+Les Corts;2;49;Yes;210000
+Nou Barris;2;53;No;49000
+Ciutat Vella;2;55;No;215000
+Sants-Montjuïc;3;77;Yes;224000
+Gràcia;2;74;No;349000
+Horta-Guinardó;5;161;No;490000
+Sants-Montjuïc;4;95;Yes;280000
+Ciutat Vella;1;77;No;250000
+Les Corts;3;74;Yes;435000
+Sarrià-Sant Gervasi;7;387;Yes;1850000
+Les Corts;3;70;Yes;395000
+Eixample;5;172;No;695000
+Eixample;4;159;Yes;530000
+Sarrià-Sant Gervasi;4;152;Yes;575000
+Sarrià-Sant Gervasi;5;291;Yes;1190000
+Ciutat Vella;3;131;Yes;619000
+Eixample;5;140;Yes;620000
+Sant Martí;4;79;Yes;195000
+Sants-Montjuïc;4;131;Yes;315000
+Sant Martí;2;78;No;185000
+Gràcia;2;108;Yes;195000
+Gràcia;4;93;Yes;370000
+Sants-Montjuïc;3;85;Yes;275000
+Sarrià-Sant Gervasi;5;247;Yes;1250000
+Ciutat Vella;2;71;No;175000
+Sants-Montjuïc;5;110;Yes;350000
+Sarrià-Sant Gervasi;4;90;Yes;415000
+Sarrià-Sant Gervasi;4;90;Yes;415000
+Sarrià-Sant Gervasi;2;60;Yes;315000
+Sarrià-Sant Gervasi;2;60;Yes;315000
+Sarrià-Sant Gervasi;2;60;Yes;315000
+Sant Martí;4;100;Yes;420000
+Sarrià-Sant Gervasi;4;100;Yes;395000
+Sarrià-Sant Gervasi;4;100;Yes;395000
+Sants-Montjuïc;4;73;No;95000
+Sarrià-Sant Gervasi;5;500;No;1150000
+Les Corts;3;87;Yes;360000
+Sarrià-Sant Gervasi;6;339;Yes;1350000
+Sarrià-Sant Gervasi;10;327;No;2450000
+Sarrià-Sant Gervasi;4;225;Yes;1350000
+Horta-Guinardó;3;88;Yes;285000
+Sarrià-Sant Gervasi;1;83;Yes;460000
+Sarrià-Sant Gervasi;6;338;Yes;1380000
+Eixample;5;250;Yes;1100000
+Sarrià-Sant Gervasi;4;93;Yes;460000
+Sarrià-Sant Gervasi;5;372;Yes;1880000
+Ciutat Vella;3;76;No;325000
+Sant Martí;3;72;Yes;165000
+Sant Martí;4;70;Yes;290000
+Ciutat Vella;2;65;No;185000
+Eixample;2;135;Yes;650000
+Eixample;2;70;Yes;190000
+Horta-Guinardó;3;89;Yes;280000
+Gràcia;5;132;Yes;330000
+Sarrià-Sant Gervasi;4;144;Yes;520000
+Sarrià-Sant Gervasi;4;160;Yes;980000
+Ciutat Vella;2;70;Yes;380000
+Eixample;3;76;Yes;335000
+Sarrià-Sant Gervasi;4;183;Yes;1070000
+Sant Andreu;3;88;Yes;230000
+Nou Barris;3;68;Yes;198000
+Sant Martí;3;60;Yes;245000
+Eixample;3;67;No;219000
+Ciutat Vella;2;63;No;198000
+Sant Andreu;3;66;No;195000
+Sant Martí;4;67;No;195000
+Eixample;4;93;Yes;390000
+Ciutat Vella;1;36;No;135000
+Gràcia;4;68;No;190000
+Les Corts;3;63;Yes;415000
+Sants-Montjuïc;3;76;Yes;360000
+Ciutat Vella;3;66;Yes;210000
+Eixample;3;50;Yes;210000
+Sant Martí;3;75;Yes;195000
+Ciutat Vella;2;89;Yes;480000
+Eixample;3;85;Yes;379000
+Sarrià-Sant Gervasi;5;168;Yes;640000
+Ciutat Vella;4;129;Yes;419000
+Eixample;4;79;Yes;255000
+Sarrià-Sant Gervasi;6;258;Yes;1100000
+Sants-Montjuïc;1;68;No;280000
+Ciutat Vella;1;42;No;112000
+Sant Andreu;3;59;Yes;189000
+Eixample;5;150;Yes;540000
+Eixample;4;115;Yes;550000
+Gràcia;2;85;No;185000
+Eixample;4;75;Yes;325000
+Sarrià-Sant Gervasi;2;150;No;900000
+Ciutat Vella;4;137;Yes;480000
+Les Corts;6;159;Yes;928800
+Eixample;5;135;Yes;450000
+Ciutat Vella;1;50;No;210000
+Eixample;3;89;Yes;275000
+Eixample;3;70;Yes;258000
+Eixample;3;67;Yes;252000
+Sant Martí;2;56;No;160000
+Horta-Guinardó;2;100;No;250000
+Sarrià-Sant Gervasi;4;114;Yes;460000
+Sant Martí;4;69;Yes;279000
+Sarrià-Sant Gervasi;5;126;Yes;480000
+Gràcia;2;105;Yes;470000
+Sarrià-Sant Gervasi;3;92;Yes;290000
+Sarrià-Sant Gervasi;4;179;Yes;780000
+Horta-Guinardó;6;184;No;399000
+Sant Martí;2;55;No;120000
+Sants-Montjuïc;3;83;Yes;288000
+Eixample;3;128;Yes;600000
+Eixample;3;70;Yes;250000
+Eixample;3;70;Yes;193000
+Ciutat Vella;2;79;No;155000
+Ciutat Vella;2;77;No;175000
+Ciutat Vella;2;45;No;80000
+Ciutat Vella;3;50;No;118000
+Les Corts;3;75;Yes;295000
+Sants-Montjuïc;3;137;Yes;640000
+Ciutat Vella;5;132;Yes;500000
+Horta-Guinardó;3;53;Yes;131000
+Eixample;4;89;Yes;380000
+Ciutat Vella;3;50;No;107000
+Sarrià-Sant Gervasi;2;88;Yes;410000
+Horta-Guinardó;2;70;Yes;168000
+Horta-Guinardó;5;330;No;490000
+Les Corts;3;63;Yes;360000
+Les Corts;9;605;No;4500000
+Sarrià-Sant Gervasi;3;115;Yes;530000
+Sarrià-Sant Gervasi;5;339;Yes;1600000
+Gràcia;3;86;Yes;300000
+Sant Martí;4;86;Yes;280000
+Ciutat Vella;4;63;No;149000
+Eixample;8;241;Yes;980000
+Nou Barris;1;40;No;76000
+Sant Martí;3;93;Yes;296640
+Sant Martí;3;70;Yes;215000
+Sant Martí;3;136;Yes;690000
+Sant Martí;4;80;Yes;325000
+Eixample;5;160;Yes;690000
+Sant Andreu;3;60;Yes;195000
+Sarrià-Sant Gervasi;6;374;Yes;1880000
+Eixample;6;116;Yes;550000
+Eixample;4;90;Yes;432000
+Sant Andreu;5;153;Yes;369000
+Sant Andreu;3;103;No;230000
+Sant Martí;2;56;Yes;251000
+Eixample;5;157;Yes;532000
+Eixample;6;180;Yes;1570000
+Nou Barris;3;86;Yes;189900
+Sant Andreu;3;89;Yes;228000
+Sant Martí;4;100;Yes;292000
+Sarrià-Sant Gervasi;5;131;Yes;450000
+Eixample;4;156;Yes;525000
+Eixample;6;304;Yes;1050000
+Eixample;4;90;Yes;370000
+Ciutat Vella;3;93;No;230000
+Eixample;3;110;Yes;465000
+Nou Barris;2;61;No;103000
+Gràcia;3;66;Yes;137000
+Eixample;3;100;Yes;469000
+Eixample;4;104;Yes;320000
+Les Corts;3;90;Yes;395000
+Sant Andreu;4;83;Yes;237000
+Eixample;4;65;Yes;350000
+Ciutat Vella;1;35;No;129000
+Ciutat Vella;3;65;No;225000
+Sants-Montjuïc;5;150;Yes;380000
+Ciutat Vella;2;59;No;215000
+Sant Martí;4;102;Yes;255000
+Les Corts;3;72;Yes;280000
+Les Corts;4;105;Yes;395000
+Ciutat Vella;3;95;Yes;350000
+Sarrià-Sant Gervasi;5;139;Yes;495000
+Sant Martí;3;68;Yes;215000
+Ciutat Vella;2;110;No;329000
+Sants-Montjuïc;2;76;Yes;170000
+Ciutat Vella;9;250;No;679000
+Eixample;4;87;Yes;399500
+Ciutat Vella;2;70;Yes;220000
+Sant Martí;2;63;Yes;168000
+Sants-Montjuïc;4;126;Yes;359000
+Eixample;5;162;Yes;752000
+Eixample;3;225;Yes;800000
+Eixample;4;130;Yes;530000
+Gràcia;4;72;No;230000
+Sarrià-Sant Gervasi;4;100;Yes;395000
+Eixample;4;159;Yes;789000
+Eixample;1;47;Yes;149000
+Ciutat Vella;5;264;Yes;1105300
+Sants-Montjuïc;4;97;Yes;330000
+Les Corts;2;73;Yes;435000
+Sarrià-Sant Gervasi;6;144;Yes;900000
+Eixample;4;197;Yes;990000
+Gràcia;2;71;Yes;255000
+Nou Barris;4;127;Yes;200000
+Sarrià-Sant Gervasi;4;85;Yes;415000
+Eixample;3;90;Yes;325000
+Nou Barris;2;43;Yes;147500
+Sants-Montjuïc;3;71;Yes;265000
+Les Corts;3;598;Yes;2490000
+Ciutat Vella;5;180;Yes;799000
+Sant Martí;5;253;No;655000
+Eixample;2;83;Yes;455000
+Ciutat Vella;4;103;No;190000
+Sant Martí;4;80;Yes;295000
+Eixample;3;53;No;180000
+Sarrià-Sant Gervasi;6;170;Yes;820000
+Sant Martí;3;74;Yes;214900
+Sant Andreu;4;74;Yes;205000
+Sants-Montjuïc;3;60;Yes;180000
+Sarrià-Sant Gervasi;4;183;Yes;900001
+Ciutat Vella;2;60;Yes;220000
+Horta-Guinardó;3;70;Yes;198000
+Sants-Montjuïc;4;60;No;137000
+Gràcia;3;90;No;270000
+Sarrià-Sant Gervasi;5;169;Yes;642000
+Sant Andreu;4;83;Yes;215000
+Eixample;6;305;Yes;1050000
+Les Corts;3;79;Yes;279000
+Les Corts;3;93;Yes;395000
+Gràcia;3;90;Yes;270000
+Eixample;2;100;Yes;190000
+Gràcia;3;95;Yes;380000
+Les Corts;4;97;Yes;399000
+Eixample;3;140;Yes;439000
+Eixample;3;82;Yes;340000
+Horta-Guinardó;3;115;Yes;270000
+Eixample;4;109;Yes;360000
+Sants-Montjuïc;4;95;Yes;225000
+Sarrià-Sant Gervasi;3;200;Yes;1200000
+Gràcia;3;80;Yes;269000
+Sants-Montjuïc;2;37;Yes;165000
+Eixample;4;95;Yes;298000
+Eixample;4;110;Yes;530000
+Nou Barris;4;87;Yes;189000
+Sants-Montjuïc;2;62;No;159000
+Sarrià-Sant Gervasi;4;108;Yes;370000
+Sarrià-Sant Gervasi;5;270;Yes;1250000
+Les Corts;4;99;Yes;320000
+Nou Barris;3;160;No;150000
+Horta-Guinardó;2;74;No;149000
+Gràcia;4;165;Yes;559000
+Sant Andreu;3;68;Yes;230000
+Horta-Guinardó;3;64;No;155000
+Eixample;3;94;Yes;470000
+Eixample;5;185;Yes;699000
+Sants-Montjuïc;1;66;No;169000
+Eixample;4;110;Yes;435000
+Sarrià-Sant Gervasi;5;185;Yes;1390000
+Eixample;2;73;Yes;470000
+Nou Barris;3;60;No;119500
+Sants-Montjuïc;2;53;No;137000
+Ciutat Vella;2;60;No;169000
+Sant Martí;2;52;No;95000
+Sarrià-Sant Gervasi;3;80;Yes;420000
+Gràcia;2;65;Yes;280000
+Sants-Montjuïc;3;87;No;289000
+Eixample;3;79;Yes;440000
+Les Corts;3;73;Yes;425000
+Eixample;3;79;Yes;450000
+Sarrià-Sant Gervasi;4;160;Yes;750000
+Sant Martí;2;51;Yes;210000
+Eixample;4;120;Yes;500000
+Eixample;3;96;Yes;419000
+Sarrià-Sant Gervasi;7;743;Yes;4500000
+Eixample;3;90;No;385000
+Sarrià-Sant Gervasi;2;95;Yes;595000
+Gràcia;1;64;Yes;295000
+Ciutat Vella;3;99;No;420000
+Les Corts;4;127;Yes;545000
+Sant Martí;3;64;No;170000
+Ciutat Vella;4;70;No;178800
