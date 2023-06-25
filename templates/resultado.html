@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Resultado de compra</title>
+  <style>
+    body {
+      background-color: #5a7e7e; /* Cambia el color de fondo a azul claro (aguamarina) */
+      font-family: Arial, sans-serif;
+    }
+    
+    h1 {
+      text-align: center;
+      color: #203333; /* Cambia el color del texto a aguamarina */
+    }
+    
+    .resultado {
+      text-align: center;
+      font-size: 24px;
+      margin-top: 20px;
+      border: 2px solid black; /* Agrega un borde negro */
+      padding: 10px; /* Agrega espacio interno */
+      color: black; /* Cambia el color del texto a negro */
+      background-color: #00FFFF; /* Cambia el fondo a aguamarina */
+    }
+    
+    .leyenda {
+      text-align: center;
+      font-size: 18px;
+      margin-top: 20px;
+      color: #64e6e6; /* Cambia el color del texto a aguamarina */
+    }
+    
+    .buena-compra {
+      color: green;
+    }
+    
+    .mala-compra {
+      color: rgb(4, 71, 60);
+    }
+  </style>
+</head>
+<body>
+  {% block content %}
+    <h1>Resultado</h1>
+    
+    <div class="resultado">
+      {% if resultado == "Buena compra" %}
+        <span class="Buena compra">{{ resultado }}</span>
+      {% else %}
+        <span class="mala-compra">{{ resultado }}</span>
+      {% endif %}
+    </div>
+    
+    <!-- <div class="leyenda">
+        <p>Esta es una {{ resultado|lower }} porque...</p>
+        {% if resultado == "Buena compra" %}
+          
+          <p>El precio, tamaño, disponibilidad de ascensor, número de habitaciones, distrito y vecindario cumplen con las características que se buscaban. Además, ofrece otras ventajas adicionales que la hacen una excelente elección.</p>
+        {% else %}
+
+        <p>El precio, tamaño, disponibilidad de ascensor, número de habitaciones, distrito y vecindario cumplen con las características que se buscaban, lo que puede afectar positivamente la comodidad, conveniencia y valor de la propiedad.</p>
+        {% endif %}
+
+      </div> -->
+    {% endblock %}
+</body>
+</html>
+

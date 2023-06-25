@@ -1,0 +1,3266 @@
+district;neighborhood;rooms;area_m2;lift;prices;compra;eurometro
+Gràcia;el Coll;3;252;0;230000;0;912
+Nou Barris;la Prosperitat;2;53;0;49000;0;924
+Nou Barris;Can Peguera;3;160;0;150000;0;937
+Nou Barris;Verdun;4;130;0;130000;0;1000
+Eixample;la Sagrada Família;4;350;0;390000;0;1114
+Nou Barris;la Trinitat Nova;2;60;0;69000;0;1150
+Nou Barris;la Prosperitat;1;74;0;87000;1;1175
+Sants-Montjuïc;Sants - Badal;4;73;0;95000;0;1301
+Sant Andreu;el Bon Pastor;7;200;0;279900;0;1399
+Sant Martí;la Verneda i la Pau;4;150;1;219900;1;1466
+Horta-Guinardó;Horta;5;330;0;490000;0;1484
+Sant Martí;la Verneda i la Pau;4;131;1;199900;1;1525
+Nou Barris;Ciutat Meridiana;4;127;1;200000;1;1574
+Nou Barris;la Trinitat Nova;3;55;0;87000;0;1581
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;110;0;175000;0;1590
+Sants-Montjuïc;Sants;3;150;0;239000;0;1593
+Sants-Montjuïc;Sants;3;150;1;239000;1;1593
+Sant Andreu;el Bon Pastor;3;75;1;120000;1;1600
+Horta-Guinardó;la Font d'en Fargues;4;275;1;450000;1;1636
+Nou Barris;la Trinitat Nova;2;76;0;125000;0;1644
+Nou Barris;la Trinitat Nova;2;76;0;125000;0;1644
+Nou Barris;les Roquetes;2;61;0;103000;0;1688
+Nou Barris;la Trinitat Nova;3;104;0;176000;0;1692
+Nou Barris;la Trinitat Nova;2;70;0;120000;0;1714
+Horta-Guinardó;la Font d'en Fargues;6;174;0;299000;0;1718
+Nou Barris;la Trinitat Nova;3;74;1;129999;1;1756
+Sant Martí;la Verneda i la Pau;3;76;1;135000;1;1776
+Ciutat Vella;el Raval;2;45;0;80000;0;1777
+Horta-Guinardó;la Font d'en Fargues;3;145;0;259000;0;1786
+Horta-Guinardó;el Carmel;2;75;0;135000;0;1800
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;86;1;155000;1;1802
+Gràcia;Vallcarca i els Penitents;2;108;1;195000;1;1805
+Nou Barris;la Trinitat Nova;3;79;1;142900;1;1808
+Sant Martí;el Poblenou;8;690;0;1250000;0;1811
+Nou Barris;la Prosperitat;3;77;0;139900;0;1816
+Nou Barris;la Prosperitat;3;77;0;139900;0;1816
+Sant Martí;el Besòs i el Maresme;2;52;0;95000;0;1826
+Nou Barris;la Trinitat Nova;3;65;0;119000;0;1830
+Horta-Guinardó;el Carmel;3;68;1;125000;1;1838
+Ciutat Vella;el Raval;4;103;0;190000;0;1844
+Horta-Guinardó;Sant Genís dels Agudells;2;42;0;79000;0;1880
+Sant Martí;la Verneda i la Pau;3;79;0;150000;0;1898
+Nou Barris;Can Peguera;1;40;0;76000;1;1900
+Nou Barris;Canyelles;3;100;1;190000;1;1900
+Eixample;la Sagrada Família;2;100;1;190000;1;1900
+Sant Martí;el Besòs i el Maresme;2;52;0;99000;0;1903
+Sant Martí;el Besòs i el Maresme;2;52;0;99000;0;1903
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;3;173;0;330000;0;1907
+Sant Martí;el Besòs i el Maresme;3;70;1;135000;1;1928
+Horta-Guinardó;la Font d'en Fargues;3;75;0;145000;0;1933
+Nou Barris;Vilapicina i la Torre Llobeta;4;137;0;265000;0;1934
+Sant Martí;Sant Martí de Provençals;3;80;1;155000;1;1937
+Horta-Guinardó;Sant Genís dels Agudells;3;68;0;132000;0;1941
+Ciutat Vella;el Raval;2;79;0;155000;0;1962
+Eixample;Sant Antoni;4;185;1;365000;1;1972
+Sant Martí;el Parc i la Llacuna del Poblenou;3;131;1;260000;1;1984
+Nou Barris;les Roquetes;3;60;0;119500;0;1991
+Sant Martí;el Besòs i el Maresme;2;60;1;120000;1;2000
+Nou Barris;la Trinitat Nova;3;70;1;140000;1;2000
+Horta-Guinardó;el Guinardó;2;74;0;149000;0;2013
+Sant Andreu;el Bon Pastor;3;57;1;114900;1;2015
+Sants-Montjuïc;Sants;4;161;0;325000;0;2018
+Sant Martí;el Besòs i el Maresme;2;49;0;99000;0;2020
+Ciutat Vella;el Raval;3;78;0;158000;0;2025
+Sant Andreu;el Bon Pastor;3;68;0;139000;0;2044
+Horta-Guinardó;la Teixonera;3;61;0;125000;0;2049
+Sants-Montjuïc;la Marina de Port;4;80;1;165000;1;2062
+Ciutat Vella;el Raval;2;45;0;93000;0;2066
+Nou Barris;Verdun;3;68;0;141000;0;2073
+Gràcia;Vallcarca i els Penitents;3;66;1;137000;1;2075
+Nou Barris;Ciutat Meridiana;3;65;1;135000;1;2076
+Sant Martí;la Verneda i la Pau;3;91;1;189000;1;2076
+Sant Martí;la Verneda i la Pau;3;91;1;189000;1;2076
+Sant Andreu;el Bon Pastor;2;62;0;129000;0;2080
+Sant Martí;el Besòs i el Maresme;3;72;1;150000;1;2083
+Sant Martí;la Verneda i la Pau;4;86;1;180000;1;2093
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;1;95;1;199000;1;2094
+Sant Andreu;el Bon Pastor;3;64;0;134900;0;2107
+Sant Andreu;la Sagrera;1;74;1;156000;1;2108
+Ciutat Vella;el Raval;3;64;0;135000;0;2109
+Eixample;la Dreta de l'Eixample;4;800;1;1700000;1;2125
+Eixample;la Sagrada Família;4;800;1;1700000;1;2125
+Horta-Guinardó;Horta;8;296;0;630000;0;2128
+Sant Martí;Provençals del Poblenou;4;110;1;235000;1;2136
+Ciutat Vella;el Raval;3;50;0;107000;0;2140
+Horta-Guinardó;la Teixonera;3;60;0;129000;0;2150
+Horta-Guinardó;la Vall d'Hebron;6;184;0;399000;0;2168
+Sants-Montjuïc;la Font de la Guatlla;1;53;1;115000;1;2169
+Nou Barris;la Guineueta;4;87;1;189000;1;2172
+Gràcia;el Camp d'en Grassot i Gràcia Nova;2;85;0;185000;0;2176
+Sant Martí;el Besòs i el Maresme;2;55;0;120000;0;2181
+Sant Andreu;el Bon Pastor;3;74;1;161500;1;2182
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;5;380;0;830000;0;2184
+Gràcia;el Coll;3;68;1;149000;1;2191
+Sant Martí;la Verneda i la Pau;3;73;1;160000;1;2191
+Sant Martí;la Verneda i la Pau;3;77;1;169000;1;2194
+Horta-Guinardó;Sant Genís dels Agudells;4;123;1;270000;1;2195
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;136;1;299000;1;2198
+Sant Martí;Provençals del Poblenou;4;125;1;275000;1;2200
+Gràcia;Vallcarca i els Penitents;5;317;0;699000;0;2205
+Nou Barris;Can Peguera;3;86;1;189900;1;2208
+Sants-Montjuïc;la Marina de Port;3;90;1;199000;1;2211
+Horta-Guinardó;el Carmel;3;70;1;155000;1;2214
+Nou Barris;Vilapicina i la Torre Llobeta;3;70;1;155000;1;2214
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;4;304;0;675000;0;2220
+Sant Martí;la Verneda i la Pau;3;85;1;189000;1;2223
+Sant Martí;la Verneda i la Pau;3;76;1;169000;1;2223
+Sant Martí;Sant Martí de Provençals;3;76;1;169000;1;2223
+Nou Barris;Porta;3;65;1;145000;1;2230
+Sarrià-Sant Gervasi;Sarrià;3;177;0;395000;0;2231
+Sant Andreu;Sant Andreu;3;103;0;230000;0;2233
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;68;0;152000;0;2235
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;68;0;152000;0;2235
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;68;0;152000;0;2235
+Sant Martí;Sant Martí de Provençals;3;76;1;169900;1;2235
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;76;1;170000;1;2236
+Nou Barris;Canyelles;3;96;1;215000;1;2239
+Nou Barris;la Prosperitat;3;62;0;139000;0;2241
+Horta-Guinardó;el Carmel;3;60;0;135000;0;2250
+Sant Martí;la Verneda i la Pau;4;80;1;180000;1;2250
+Sants-Montjuïc;Sants;3;78;0;177000;0;2269
+Ciutat Vella;el Raval;2;77;0;175000;0;2272
+Eixample;la Nova Esquerra de l'Eixample;3;110;0;250000;0;2272
+Sant Martí;la Verneda i la Pau;4;101;1;230000;1;2277
+Sant Andreu;el Bon Pastor;3;78;0;178000;0;2282
+Sant Martí;la Verneda i la Pau;3;92;1;210000;1;2282
+Sant Martí;la Verneda i la Pau;4;92;1;210000;1;2282
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;4;60;0;137000;0;2283
+Nou Barris;les Roquetes;3;105;0;240000;0;2285
+Sant Martí;Sant Martí de Provençals;3;94;1;215000;1;2287
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;87;1;199000;1;2287
+Sant Martí;la Verneda i la Pau;3;72;1;165000;1;2291
+Ciutat Vella;el Raval;2;100;1;230000;1;2300
+Sarrià-Sant Gervasi;Sarrià;5;500;0;1150000;0;2300
+Nou Barris;la Guineueta;3;56;1;129000;1;2303
+Nou Barris;la Guineueta;3;56;1;129000;1;2303
+Horta-Guinardó;la Teixonera;2;158;1;365000;1;2310
+Horta-Guinardó;el Carmel;3;67;1;155000;1;2313
+Nou Barris;Canyelles;1;51;1;118000;1;2313
+Sants-Montjuïc;Hostafrancs;2;70;1;162000;1;2314
+Nou Barris;Can Peguera;3;54;1;125000;1;2314
+Ciutat Vella;el Raval;5;95;0;220000;0;2315
+Sant Andreu;Sant Andreu;3;71;0;165000;0;2323
+Sant Martí;Sant Martí de Provençals;4;86;1;199900;1;2324
+Sants-Montjuïc;la Marina de Port;3;86;1;200000;1;2325
+Horta-Guinardó;la Font d'en Fargues;2;64;0;149000;0;2328
+Gràcia;el Camp d'en Grassot i Gràcia Nova;4;77;1;180000;1;2337
+Horta-Guinardó;Horta;5;192;1;450000;1;2343
+Horta-Guinardó;Can Baró;3;115;1;270000;1;2347
+Sant Andreu;Sant Andreu;4;119;1;279900;1;2352
+Ciutat Vella;el Raval;3;50;0;118000;0;2360
+Horta-Guinardó;el Carmel;3;55;0;130000;0;2363
+Ciutat Vella;el Raval;4;63;0;149000;0;2365
+Nou Barris;la Prosperitat;3;60;0;142000;0;2366
+Nou Barris;la Prosperitat;3;60;0;142000;0;2366
+Sant Martí;la Verneda i la Pau;3;76;1;180000;1;2368
+Sants-Montjuïc;la Marina de Port;4;95;1;225000;1;2368
+Horta-Guinardó;el Guinardó;3;81;0;192000;0;2370
+Sant Martí;el Clot;2;78;0;185000;0;2371
+Ciutat Vella;el Raval;3;59;1;140000;1;2372
+Sant Andreu;la Sagrera;2;65;1;155000;1;2384
+Sants-Montjuïc;Sants;4;334;0;797000;0;2386
+Eixample;la Dreta de l'Eixample;4;117;1;280000;1;2393
+Ciutat Vella;el Raval;2;40;0;96000;0;2400
+Horta-Guinardó;el Guinardó;2;70;1;168000;1;2400
+Eixample;el Fort Pienc;3;75;1;180000;1;2400
+Sant Martí;el Poblenou;4;150;0;360000;0;2400
+Sants-Montjuïc;la Bordeta;3;77;1;185000;1;2402
+Sant Martí;el Clot;3;77;0;185000;0;2402
+Sants-Montjuïc;la Marina de Port;4;131;1;315000;1;2404
+Sant Martí;la Verneda i la Pau;4;76;1;183000;1;2407
+Sant Martí;Sant Martí de Provençals;4;76;1;183000;1;2407
+Sant Martí;la Verneda i la Pau;4;76;1;183000;1;2407
+Sants-Montjuïc;la Marina de Port;3;83;1;200000;1;2409
+Sant Andreu;Sant Andreu;5;153;1;369000;1;2411
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;58;0;140000;0;2413
+Sant Martí;la Verneda i la Pau;3;70;1;169000;1;2414
+Sants-Montjuïc;Hostafrancs;2;72;0;174000;0;2416
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;5;103;0;249000;0;2417
+Horta-Guinardó;el Guinardó;3;64;0;155000;0;2421
+Sant Martí;el Besòs i el Maresme;3;71;1;172000;1;2422
+Nou Barris;Porta;3;65;1;157500;1;2423
+Nou Barris;Verdun;2;55;1;133900;1;2434
+Horta-Guinardó;Horta;4;197;0;480000;0;2436
+Sant Martí;la Verneda i la Pau;4;75;1;183000;1;2440
+Horta-Guinardó;el Guinardó;4;98;1;240000;1;2448
+Horta-Guinardó;la Teixonera;3;81;0;199000;0;2456
+Ciutat Vella;el Raval;2;71;0;175000;0;2464
+Sant Martí;Provençals del Poblenou;4;79;1;195000;1;2468
+Sant Martí;Provençals del Poblenou;4;79;1;195000;1;2468
+Sant Martí;Provençals del Poblenou;4;79;1;195000;1;2468
+Sant Martí;Provençals del Poblenou;4;79;1;195000;1;2468
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;4;79;1;195000;1;2468
+Sant Martí;el Besòs i el Maresme;4;79;1;195000;1;2468
+Horta-Guinardó;el Guinardó;2;85;0;210000;0;2470
+Horta-Guinardó;el Carmel;3;53;1;131000;1;2471
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;93;0;230000;0;2473
+Ciutat Vella;la Barceloneta;3;95;1;235000;1;2473
+Sants-Montjuïc;la Marina de Port;4;145;1;360000;1;2482
+Eixample;la Sagrada Família;2;76;0;189000;0;2486
+Nou Barris;Verdun;3;60;1;149500;1;2491
+Nou Barris;Verdun;3;60;1;149500;1;2491
+Nou Barris;Porta;3;72;0;179500;0;2493
+Eixample;la Nova Esquerra de l'Eixample;1;58;1;145000;1;2500
+Sarrià-Sant Gervasi;el Putxet i el Farró;2;60;1;150000;1;2500
+Sants-Montjuïc;Sants - Badal;3;70;0;175000;0;2500
+Sants-Montjuïc;Sants;3;70;0;175000;0;2500
+Sant Martí;Sant Martí de Provençals;3;74;0;185000;0;2500
+Horta-Guinardó;el Carmel;3;80;1;200000;1;2500
+Sants-Montjuïc;la Marina de Port;4;90;1;225000;1;2500
+Horta-Guinardó;el Guinardó;4;98;1;245000;1;2500
+Horta-Guinardó;Horta;2;100;0;250000;0;2500
+Sant Andreu;la Sagrera;4;102;1;255000;1;2500
+Sant Martí;el Camp de l'Arpa del Clot;4;102;1;255000;1;2500
+Gràcia;el Camp d'en Grassot i Gràcia Nova;4;132;1;330000;1;2500
+Gràcia;el Camp d'en Grassot i Gràcia Nova;5;132;1;330000;1;2500
+Horta-Guinardó;el Baix Guinardó;4;160;1;400000;1;2500
+Gràcia;Vallcarca i els Penitents;7;420;0;1050000;0;2500
+Gràcia;Vallcarca i els Penitents;8;420;0;1050000;0;2500
+Horta-Guinardó;la Teixonera;3;70;0;176000;0;2514
+Sant Andreu;Sant Andreu;2;159;1;399900;1;2515
+Sant Martí;el Besòs i el Maresme;3;71;1;179000;1;2521
+Horta-Guinardó;Horta;3;113;1;285000;1;2522
+Sant Martí;Sant Martí de Provençals;3;67;1;169000;1;2522
+Sant Andreu;Navas;3;79;1;199500;1;2525
+Horta-Guinardó;la Teixonera;3;79;0;199520;0;2525
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;2;138;0;349000;0;2528
+Ciutat Vella;el Raval;3;77;0;195000;0;2532
+Sant Martí;el Camp de l'Arpa del Clot;1;154;0;390000;0;2532
+Nou Barris;Porta;4;75;1;190000;1;2533
+Sants-Montjuïc;la Font de la Guatlla;5;150;1;380000;1;2533
+Sant Martí;la Verneda i la Pau;3;73;1;185000;1;2534
+Sants-Montjuïc;la Marina de Port;4;110;1;279000;1;2536
+Ciutat Vella;el Raval;3;85;0;216000;0;2541
+Sants-Montjuïc;la Marina de Port;3;94;1;239000;1;2542
+Horta-Guinardó;el Guinardó;1;103;1;262000;0;2543
+Nou Barris;Porta;3;69;1;176000;1;2550
+Sant Andreu;Navas;3;94;1;240000;1;2553
+Ciutat Vella;el Raval;4;70;0;178800;0;2554
+Horta-Guinardó;la Teixonera;3;90;0;230000;0;2555
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;1;66;0;169000;0;2560
+Sant Martí;el Besòs i el Maresme;2;66;1;169000;1;2560
+Nou Barris;la Prosperitat;3;66;1;169000;1;2560
+Sant Andreu;Navas;3;89;1;228000;1;2561
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;62;0;159000;0;2564
+Sant Martí;el Poblenou;3;185;0;475000;0;2567
+Sant Martí;la Verneda i la Pau;1;70;1;180000;0;2571
+Sants-Montjuïc;la Marina de Port;3;101;0;260000;0;2574
+Horta-Guinardó;el Baix Guinardó;4;155;1;400000;1;2580
+Eixample;Sant Antoni;2;77;0;199000;0;2584
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;53;0;137000;0;2584
+Ciutat Vella;el Barri Gòtic;4;114;0;295000;0;2587
+Sant Martí;el Camp de l'Arpa del Clot;5;253;0;655000;0;2588
+Sants-Montjuïc;Hostafrancs;2;73;1;189000;1;2589
+Sant Martí;Sant Martí de Provençals;4;100;1;259000;1;2590
+Sant Andreu;la Sagrera;4;83;1;215000;1;2590
+Sant Martí;el Camp de l'Arpa del Clot;4;102;1;265000;1;2598
+Sant Martí;el Camp de l'Arpa del Clot;4;102;1;265000;1;2598
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;65;0;169000;0;2600
+Sant Andreu;Sant Andreu;3;65;0;169000;0;2600
+Sant Martí;Provençals del Poblenou;4;75;1;195000;1;2600
+Sants-Montjuïc;la Marina de Port;3;75;1;195000;1;2600
+Sant Martí;el Camp de l'Arpa del Clot;3;75;1;195000;1;2600
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;6;519;0;1350000;0;2601
+Horta-Guinardó;Can Baró;4;230;1;599000;1;2604
+Horta-Guinardó;el Guinardó;2;65;0;169800;0;2612
+Horta-Guinardó;el Guinardó;3;65;0;169800;0;2612
+Horta-Guinardó;el Baix Guinardó;3;88;1;230000;1;2613
+Sant Andreu;el Congrés i els Indians;3;88;1;230000;1;2613
+Horta-Guinardó;Horta;3;65;0;170000;0;2615
+Les Corts;la Maternitat i Sant Ramon;1;63;0;165000;0;2619
+Sant Martí;Sant Martí de Provençals;2;61;1;159900;1;2621
+Sant Martí;la Verneda i la Pau;2;61;1;159900;1;2621
+Nou Barris;Verdun;2;40;0;105000;0;2625
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;80;0;210000;0;2625
+Eixample;la Sagrada Família;4;148;1;389000;1;2628
+Ciutat Vella;el Raval;2;76;0;200000;0;2631
+Ciutat Vella;el Raval;3;60;0;157900;0;2631
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;68;1;179000;1;2632
+Horta-Guinardó;el Carmel;2;76;1;200500;1;2638
+Ciutat Vella;el Raval;1;54;0;142500;0;2638
+Sants-Montjuïc;la Bordeta;3;89;1;235000;1;2640
+Sant Martí;la Verneda i la Pau;4;87;1;230000;1;2643
+Sant Martí;Provençals del Poblenou;3;71;1;188000;1;2647
+Horta-Guinardó;Sant Genís dels Agudells;3;66;1;175000;1;2651
+Sant Andreu;Sant Andreu;3;75;1;199000;1;2653
+Eixample;la Sagrada Família;4;90;0;239000;0;2655
+Sant Martí;el Parc i la Llacuna del Poblenou;3;64;0;170000;0;2656
+Eixample;la Nova Esquerra de l'Eixample;1;71;1;189000;0;2661
+Sant Martí;la Verneda i la Pau;4;92;1;245000;1;2663
+Sant Martí;el Camp de l'Arpa del Clot;4;170;0;453000;0;2664
+Sant Martí;el Camp de l'Arpa del Clot;4;170;0;453000;0;2664
+Sant Martí;el Camp de l'Arpa del Clot;4;170;0;453000;0;2664
+Sant Martí;el Camp de l'Arpa del Clot;4;170;0;453000;0;2664
+Ciutat Vella;el Raval;1;42;0;112000;0;2666
+Gràcia;el Camp d'en Grassot i Gràcia Nova;2;60;0;160000;0;2666
+Ciutat Vella;el Raval;3;60;1;160000;1;2666
+Sant Martí;el Clot;2;63;1;168000;1;2666
+Sants-Montjuïc;Sants - Badal;2;75;0;200000;0;2666
+Sant Andreu;la Sagrera;3;75;1;200000;1;2666
+Ciutat Vella;el Raval;2;53;0;141500;0;2669
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;4;243;0;650000;0;2674
+Horta-Guinardó;Sant Genís dels Agudells;10;297;0;795000;0;2676
+Horta-Guinardó;Horta;10;297;0;795000;0;2676
+Sant Martí;el Clot;3;81;1;217000;1;2679
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;2;130;0;349000;0;2684
+Gràcia;Vallcarca i els Penitents;7;391;0;1050000;0;2685
+Sants-Montjuïc;Sants - Badal;3;65;1;175000;1;2692
+Sant Andreu;Sant Andreu;3;69;1;186000;1;2695
+Horta-Guinardó;el Carmel;3;50;1;135000;1;2700
+Sant Martí;la Verneda i la Pau;4;100;1;270000;1;2700
+Sant Martí;Sant Martí de Provençals;4;100;1;270000;1;2700
+Ciutat Vella;el Raval;2;137;0;370000;0;2700
+Sant Andreu;Navas;2;74;0;200000;0;2702
+Horta-Guinardó;el Guinardó;2;55;1;149000;1;2709
+Horta-Guinardó;el Carmel;3;55;0;149000;0;2709
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;70;0;190000;0;2714
+Eixample;l'Antiga Esquerra de l'Eixample;2;70;1;190000;1;2714
+Sants-Montjuïc;la Font de la Guatlla;5;140;1;380000;1;2714
+Ciutat Vella;el Raval;9;250;0;679000;0;2716
+Nou Barris;Vilapicina i la Torre Llobeta;6;103;0;280000;0;2718
+Ciutat Vella;el Raval;2;73;0;199000;0;2726
+Ciutat Vella;el Raval;2;44;0;120000;0;2727
+Ciutat Vella;el Raval;2;44;0;120000;0;2727
+Sants-Montjuïc;Sants - Badal;2;55;0;150000;0;2727
+Eixample;la Sagrada Família;2;88;1;240000;1;2727
+Sarrià-Sant Gervasi;el Putxet i el Farró;5;150;1;410000;1;2733
+Sarrià-Sant Gervasi;el Putxet i el Farró;5;150;1;410000;1;2733
+Sant Martí;el Besòs i el Maresme;4;91;1;249000;1;2736
+Ciutat Vella;el Barri Gòtic;4;80;0;219000;0;2737
+Horta-Guinardó;el Guinardó;4;104;1;285000;1;2740
+Ciutat Vella;el Barri Gòtic;3;138;0;379000;0;2746
+Ciutat Vella;el Raval;3;71;0;195000;0;2746
+Sarrià-Sant Gervasi;Sarrià;5;600;0;1648000;0;2746
+Sants-Montjuïc;Sants - Badal;3;60;1;165000;1;2750
+Ciutat Vella;el Raval;2;85;0;234000;0;2752
+Sant Andreu;el Congrés i els Indians;3;65;1;179000;1;2753
+Sant Andreu;el Congrés i els Indians;3;65;1;179000;1;2753
+Nou Barris;Vilapicina i la Torre Llobeta;3;65;1;179000;1;2753
+Eixample;la Sagrada Família;3;70;1;193000;1;2757
+Ciutat Vella;el Raval;3;108;0;298000;0;2759
+Sant Andreu;el Congrés i els Indians;3;65;1;179900;1;2767
+Nou Barris;Vilapicina i la Torre Llobeta;3;65;1;179900;1;2767
+Sant Andreu;Navas;3;65;1;180000;1;2769
+Sant Andreu;la Sagrera;4;74;1;205000;1;2770
+Sant Andreu;la Sagrera;4;74;1;205000;1;2770
+Sant Andreu;Navas;3;79;1;219000;1;2772
+Sant Martí;el Besòs i el Maresme;2;81;0;225000;0;2777
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;81;0;225000;0;2777
+Sant Andreu;Navas;3;90;1;250000;1;2777
+Sant Martí;Provençals del Poblenou;3;90;1;250000;1;2777
+Sant Andreu;Navas;3;82;1;228000;1;2780
+Sant Andreu;Navas;3;82;1;228000;1;2780
+Sant Andreu;Navas;3;82;1;228000;1;2780
+Eixample;la Nova Esquerra de l'Eixample;4;197;1;550000;1;2791
+Sant Andreu;la Sagrera;3;82;1;229000;1;2792
+Sant Martí;Provençals del Poblenou;3;68;1;190000;1;2794
+Gràcia;el Coll;4;68;0;190000;0;2794
+Sant Martí;Sant Martí de Provençals;3;75;1;210000;1;2800
+Sant Martí;Sant Martí de Provençals;3;75;1;210000;1;2800
+Horta-Guinardó;Horta;4;75;0;210000;0;2800
+Sant Martí;el Parc i la Llacuna del Poblenou;4;75;1;210000;1;2800
+Sants-Montjuïc;Sants;2;98;0;275000;0;2806
+Les Corts;la Maternitat i Sant Ramon;4;78;1;219000;1;2807
+Sant Andreu;el Bon Pastor;3;110;1;309000;1;2809
+Ciutat Vella;el Raval;2;42;0;118000;0;2809
+Sant Andreu;el Congrés i els Indians;3;64;1;179900;1;2810
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;85;0;239000;0;2811
+Sant Andreu;Sant Andreu;4;80;1;225000;1;2812
+Gràcia;la Salut;4;160;1;450000;1;2812
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;6;480;0;1350000;0;2812
+Ciutat Vella;el Barri Gòtic;2;60;0;169000;0;2816
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;55;0;155000;0;2818
+Eixample;la Sagrada Família;5;220;1;620000;1;2818
+Sants-Montjuïc;la Bordeta;3;106;1;299000;1;2820
+Sant Andreu;el Congrés i els Indians;3;73;1;206000;1;2821
+Sant Martí;el Camp de l'Arpa del Clot;3;68;1;192000;1;2823
+Sant Andreu;el Congrés i els Indians;4;85;1;240000;1;2823
+Eixample;la Sagrada Família;1;85;1;240000;0;2823
+Sant Andreu;Sant Andreu;3;69;1;195000;1;2826
+Horta-Guinardó;Horta;4;70;1;198000;1;2828
+Horta-Guinardó;Horta;3;70;1;198000;1;2828
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;159;0;450000;0;2830
+Sant Martí;Sant Martí de Provençals;2;83;1;235000;1;2831
+Sant Andreu;el Congrés i els Indians;3;104;1;295000;1;2836
+Sants-Montjuïc;la Bordeta;3;68;1;193000;1;2838
+Sants-Montjuïc;la Marina de Port;3;81;1;230000;1;2839
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;5;220;0;625000;0;2840
+Sant Martí;el Camp de l'Arpa del Clot;2;70;1;199000;1;2842
+Sant Andreu;Sant Andreu;3;70;1;199000;1;2842
+Sant Andreu;Sant Andreu;3;70;1;199000;1;2842
+Nou Barris;Vilapicina i la Torre Llobeta;3;58;1;165000;1;2844
+Nou Barris;Porta;3;65;1;185000;1;2846
+Sant Andreu;Sant Andreu;3;65;1;185000;1;2846
+Ciutat Vella;el Raval;2;65;0;185000;0;2846
+Sants-Montjuïc;Sants;4;126;1;359000;1;2849
+Sants-Montjuïc;Sants;4;126;1;359000;1;2849
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;4;228;1;650000;1;2850
+Sant Andreu;la Sagrera;4;83;1;237000;1;2855
+Sant Martí;el Poblenou;2;56;0;160000;0;2857
+Sant Martí;Provençals del Poblenou;4;91;1;260000;1;2857
+Sant Martí;el Poblenou;5;192;0;549000;0;2859
+Sants-Montjuïc;la Bordeta;3;75;1;215000;1;2866
+Horta-Guinardó;el Guinardó;2;75;1;215000;1;2866
+Sants-Montjuïc;Hostafrancs;3;75;1;215000;1;2866
+Ciutat Vella;el Raval;4;143;0;410000;0;2867
+Ciutat Vella;el Raval;1;38;0;109000;0;2868
+Sant Andreu;Sant Andreu;3;76;1;218000;1;2868
+Sants-Montjuïc;Sants - Badal;3;61;1;175000;1;2868
+Horta-Guinardó;Horta;4;69;1;198000;1;2869
+Ciutat Vella;el Raval;3;47;0;135000;0;2872
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;80;1;230000;1;2875
+Eixample;Sant Antoni;2;80;1;230000;1;2875
+Sant Martí;Sant Martí de Provençals;4;83;1;239000;1;2879
+Les Corts;la Maternitat i Sant Ramon;3;125;1;360000;1;2880
+Les Corts;la Maternitat i Sant Ramon;3;170;1;490000;1;2882
+Sants-Montjuïc;la Bordeta;4;239;0;690000;0;2887
+Sant Andreu;el Congrés i els Indians;2;64;1;185000;1;2890
+Horta-Guinardó;el Carmel;2;55;1;159000;1;2890
+Sant Andreu;la Sagrera;3;57;1;165000;1;2894
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;76;1;220000;1;2894
+Nou Barris;la Prosperitat;3;58;1;168000;1;2896
+Sant Andreu;la Sagrera;3;81;1;235000;1;2901
+Gràcia;el Camp d'en Grassot i Gràcia Nova;5;582;0;1690000;0;2903
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;582;0;1690000;0;2903
+Sant Martí;el Camp de l'Arpa del Clot;3;74;1;214900;1;2904
+Sant Andreu;Sant Andreu;3;64;1;186000;1;2906
+Nou Barris;Vilapicina i la Torre Llobeta;3;65;1;189000;1;2907
+Nou Barris;Porta;3;65;1;189000;1;2907
+Ciutat Vella;el Raval;2;55;0;160000;0;2909
+Sants-Montjuïc;la Marina de Port;3;77;1;224000;1;2909
+Sant Martí;el Camp de l'Arpa del Clot;4;67;0;195000;0;2910
+Nou Barris;Porta;3;68;1;198000;1;2911
+Horta-Guinardó;el Guinardó;4;89;1;259500;1;2915
+Ciutat Vella;el Raval;2;36;0;105000;0;2916
+Sants-Montjuïc;Sants - Badal;3;60;1;175000;1;2916
+Sants-Montjuïc;Sants - Badal;3;60;1;175000;1;2916
+Sants-Montjuïc;Sants;3;84;0;245000;0;2916
+Sant Martí;el Camp de l'Arpa del Clot;4;100;1;292000;1;2920
+Sant Andreu;la Sagrera;4;89;1;260000;1;2921
+Sant Andreu;el Congrés i els Indians;3;65;1;190000;1;2923
+Horta-Guinardó;Horta;2;69;1;201700;1;2923
+Sants-Montjuïc;Sants;3;92;1;269000;1;2923
+Eixample;el Fort Pienc;3;94;1;275000;1;2925
+Sant Martí;el Clot;3;82;1;239900;1;2925
+Sant Martí;la Verneda i la Pau;3;60;1;176000;1;2933
+Ciutat Vella;el Barri Gòtic;3;114;0;335000;0;2938
+Ciutat Vella;el Barri Gòtic;3;114;0;335000;0;2938
+Ciutat Vella;el Barri Gòtic;4;114;0;335000;0;2938
+Ciutat Vella;el Raval;1;51;0;150000;0;2941
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;51;0;150000;0;2941
+Nou Barris;Porta;3;68;1;200000;1;2941
+Nou Barris;Porta;3;68;1;200000;1;2941
+Sant Andreu;la Sagrera;3;107;1;315000;1;2943
+Eixample;l'Antiga Esquerra de l'Eixample;3;180;1;530000;1;2944
+Horta-Guinardó;Horta;1;55;1;162000;0;2945
+Horta-Guinardó;el Baix Guinardó;6;132;1;389000;1;2946
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;4;95;1;280000;1;2947
+Eixample;la Sagrada Família;4;134;0;395000;0;2947
+Sant Andreu;el Congrés i els Indians;4;101;1;298000;1;2950
+Sant Andreu;Sant Andreu;3;66;1;195000;1;2954
+Sant Andreu;Sant Andreu;3;66;1;195000;1;2954
+Sant Andreu;Sant Andreu;3;66;0;195000;0;2954
+Eixample;Sant Antoni;3;88;1;260000;1;2954
+Horta-Guinardó;el Carmel;3;69;1;204000;1;2956
+Sant Andreu;el Congrés i els Indians;4;89;1;264000;1;2966
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;64;1;190000;1;2968
+Sant Martí;el Camp de l'Arpa del Clot;3;67;1;199000;1;2970
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;79;1;235000;1;2974
+Sants-Montjuïc;Sants;1;42;0;125000;0;2976
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;94;1;280000;1;2978
+Nou Barris;Porta;2;50;1;149000;1;2980
+Ciutat Vella;el Barri Gòtic;4;114;1;340000;1;2982
+Ciutat Vella;el Barri Gòtic;4;114;1;340000;1;2982
+Gràcia;Vallcarca i els Penitents;4;228;1;680000;1;2982
+Sant Martí;el Clot;1;60;1;179000;0;2983
+Horta-Guinardó;Horta;3;70;0;209000;0;2985
+Sant Martí;Provençals del Poblenou;3;73;1;218000;1;2986
+Sant Martí;Provençals del Poblenou;3;73;1;218000;1;2986
+Sant Martí;Sant Martí de Provençals;3;73;1;218000;1;2986
+Sarrià-Sant Gervasi;el Putxet i el Farró;5;154;0;460000;0;2987
+Sant Martí;Sant Martí de Provençals;4;93;1;278000;1;2989
+Ciutat Vella;el Barri Gòtic;2;110;0;329000;0;2990
+Ciutat Vella;el Raval;3;49;0;147000;0;3000
+Ciutat Vella;el Raval;2;53;0;159000;0;3000
+Sant Martí;la Verneda i la Pau;3;60;1;180000;1;3000
+Sants-Montjuïc;Hostafrancs;3;60;1;180000;1;3000
+Ciutat Vella;el Raval;2;65;1;195000;1;3000
+Sant Andreu;la Sagrera;3;65;0;195000;0;3000
+Eixample;l'Antiga Esquerra de l'Eixample;2;65;1;195000;1;3000
+Nou Barris;la Guineueta;3;80;1;240000;1;3000
+Les Corts;la Maternitat i Sant Ramon;3;80;1;240000;1;3000
+Eixample;el Fort Pienc;3;83;1;249000;1;3000
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;90;0;270000;0;3000
+Gràcia;la Salut;3;90;1;270000;1;3000
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;4;100;1;300000;1;3000
+Eixample;la Sagrada Família;5;123;1;369000;1;3000
+Sant Martí;el Clot;3;179;1;538000;1;3005
+Gràcia;el Camp d'en Grassot i Gràcia Nova;4;116;1;349000;1;3008
+Sants-Montjuïc;Sants - Badal;3;83;1;250000;1;3012
+Eixample;la Sagrada Família;2;83;0;250000;0;3012
+Sant Martí;el Camp de l'Arpa del Clot;2;66;1;199000;1;3015
+Sant Andreu;Sant Andreu;3;66;1;199000;1;3015
+Sant Martí;el Camp de l'Arpa del Clot;2;66;1;199000;1;3015
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;121;1;365000;1;3016
+Sants-Montjuïc;la Marina de Port;3;59;1;178000;1;3016
+Horta-Guinardó;el Guinardó;1;56;1;169000;0;3017
+Sants-Montjuïc;Sants;4;480;0;1450000;0;3020
+Horta-Guinardó;el Baix Guinardó;5;124;1;375000;1;3024
+Horta-Guinardó;el Baix Guinardó;5;124;1;375000;1;3024
+Ciutat Vella;el Barri Gòtic;3;82;0;248000;0;3024
+Sant Andreu;el Congrés i els Indians;2;79;1;239000;1;3025
+Ciutat Vella;el Raval;3;59;0;178500;0;3025
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;99;1;299800;1;3028
+Horta-Guinardó;Sant Genís dels Agudells;3;66;1;199900;1;3028
+Sant Martí;el Camp de l'Arpa del Clot;2;66;0;200000;0;3030
+Gràcia;la Salut;2;94;1;285000;1;3031
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;235;0;712500;0;3031
+Sant Andreu;la Sagrera;3;62;1;188000;1;3032
+Sant Martí;el Poblenou;1;58;0;176000;0;3034
+Eixample;la Dreta de l'Eixample;4;196;1;595000;1;3035
+Gràcia;la Vila de Gràcia;4;196;1;595000;1;3035
+Eixample;la Dreta de l'Eixample;4;196;1;595000;1;3035
+Les Corts;les Corts;3;81;1;246000;1;3037
+Sants-Montjuïc;la Bordeta;3;74;1;225000;1;3040
+Horta-Guinardó;la Font d'en Fargues;5;161;0;490000;0;3043
+Horta-Guinardó;Horta;5;161;0;490000;0;3043
+Horta-Guinardó;Horta;5;161;0;490000;0;3043
+Les Corts;la Maternitat i Sant Ramon;2;110;1;335000;1;3045
+Horta-Guinardó;el Guinardó;4;105;1;320000;1;3047
+Nou Barris;Vilapicina i la Torre Llobeta;3;62;1;189000;1;3048
+Gràcia;el Coll;3;123;1;375000;1;3048
+Sant Martí;el Clot;3;78;1;238000;1;3051
+Sants-Montjuïc;la Bordeta;3;77;0;235000;0;3051
+Sants-Montjuïc;la Bordeta;4;110;1;336000;1;3054
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;5;162;0;495000;0;3055
+Eixample;Sant Antoni;2;88;1;269000;1;3056
+Sarrià-Sant Gervasi;Sarrià;5;376;0;1150000;0;3058
+Sarrià-Sant Gervasi;Sarrià;3;376;0;1150000;0;3058
+Ciutat Vella;el Raval;3;85;0;260000;0;3058
+Eixample;la Sagrada Família;4;101;1;309000;1;3059
+Sant Martí;el Camp de l'Arpa del Clot;3;67;1;205000;1;3059
+Sant Martí;el Camp de l'Arpa del Clot;3;67;1;205000;1;3059
+Horta-Guinardó;Horta;3;65;1;199000;1;3061
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;274;1;839000;1;3062
+Eixample;la Dreta de l'Eixample;3;80;1;245000;1;3062
+Sants-Montjuïc;la Marina de Port;3;80;1;245000;1;3062
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;62;1;190000;1;3064
+Sant Martí;el Camp de l'Arpa del Clot;3;75;1;230000;1;3066
+Sant Martí;el Camp de l'Arpa del Clot;3;75;1;230000;1;3066
+Ciutat Vella;el Raval;2;75;1;230000;1;3066
+Ciutat Vella;el Barri Gòtic;3;114;0;350000;0;3070
+Sants-Montjuïc;Hostafrancs;3;70;1;215000;1;3071
+Sant Andreu;la Sagrera;3;70;1;215000;1;3071
+Sant Martí;el Camp de l'Arpa del Clot;3;70;1;215000;1;3071
+Sants-Montjuïc;Hostafrancs;2;83;1;255000;1;3072
+Eixample;el Fort Pienc;4;104;1;320000;1;3076
+Sant Martí;el Parc i la Llacuna del Poblenou;3;120;1;370000;1;3083
+Sant Martí;el Parc i la Llacuna del Poblenou;4;120;1;370000;1;3083
+Eixample;Sant Antoni;5;188;1;580000;1;3085
+Horta-Guinardó;Horta;3;81;1;250000;1;3086
+Sarrià-Sant Gervasi;el Putxet i el Farró;5;311;0;960000;0;3086
+Eixample;el Fort Pienc;3;89;1;275000;1;3089
+Nou Barris;Porta;2;55;0;170000;0;3090
+Nou Barris;Porta;2;55;1;170000;1;3090
+Nou Barris;Porta;2;55;0;170000;0;3090
+Eixample;la Nova Esquerra de l'Eixample;2;63;0;195000;0;3095
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;92;1;285000;1;3097
+Sant Martí;el Poblenou;2;71;1;220000;1;3098
+Sant Martí;el Camp de l'Arpa del Clot;3;58;0;180000;0;3103
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;145;0;450000;0;3103
+Sant Andreu;Navas;4;95;1;295000;1;3105
+Sants-Montjuïc;la Bordeta;4;90;1;279500;1;3105
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;6;257;1;800000;1;3112
+Les Corts;la Maternitat i Sant Ramon;3;85;1;265000;1;3117
+Eixample;l'Antiga Esquerra de l'Eixample;3;85;1;265000;1;3117
+Sant Andreu;Sant Andreu;3;64;1;199900;1;3123
+Horta-Guinardó;Horta;6;160;0;499999;0;3124
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;64;1;200000;1;3125
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;64;1;200000;1;3125
+Gràcia;la Vila de Gràcia;4;72;0;225000;0;3125
+Ciutat Vella;el Raval;3;80;0;250000;0;3125
+Sant Martí;el Clot;5;120;1;375000;1;3125
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;1;80;1;250000;0;3125
+Horta-Guinardó;el Carmel;3;86;1;269000;1;3127
+Sants-Montjuïc;Hostafrancs;3;70;1;219000;1;3128
+Sants-Montjuïc;la Font de la Guatlla;3;70;1;219000;1;3128
+Eixample;el Fort Pienc;3;83;1;259900;1;3131
+Sant Martí;Provençals del Poblenou;4;91;1;285000;1;3131
+Sant Martí;Sant Martí de Provençals;2;75;1;235000;1;3133
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;75;1;235000;1;3133
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;75;1;235000;1;3133
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;59;0;185000;0;3135
+Eixample;l'Antiga Esquerra de l'Eixample;3;140;1;439000;1;3135
+Eixample;la Dreta de l'Eixample;6;338;1;1060000;1;3136
+Sant Andreu;Sant Andreu;3;95;1;298000;1;3136
+Eixample;el Fort Pienc;4;95;1;298000;1;3136
+Sant Martí;Provençals del Poblenou;3;73;1;229000;1;3136
+Sant Martí;el Clot;3;94;1;295000;1;3138
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;86;0;270000;0;3139
+Sant Andreu;la Sagrera;4;78;1;245000;1;3141
+Sant Martí;el Clot;3;190;1;597000;1;3142
+Ciutat Vella;el Raval;2;63;0;198000;0;3142
+Sant Andreu;el Congrés i els Indians;3;70;0;220000;0;3142
+Ciutat Vella;el Raval;2;70;1;220000;1;3142
+Ciutat Vella;el Raval;2;62;1;195000;1;3145
+Eixample;la Nova Esquerra de l'Eixample;4;124;1;390000;1;3145
+Eixample;la Sagrada Família;4;124;1;390000;1;3145
+Eixample;la Dreta de l'Eixample;6;337;1;1060000;1;3145
+Horta-Guinardó;el Baix Guinardó;3;89;1;280000;1;3146
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;95;1;299000;1;3147
+Sant Martí;Provençals del Poblenou;3;74;1;233000;1;3148
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;119;1;375000;1;3151
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;92;1;290000;1;3152
+Sant Andreu;la Sagrera;3;65;1;205000;1;3153
+Gràcia;Vallcarca i els Penitents;4;364;0;1149000;0;3156
+Gràcia;Vallcarca i els Penitents;4;364;0;1149000;0;3156
+Ciutat Vella;el Barri Gòtic;3;120;0;379000;0;3158
+Sant Martí;el Camp de l'Arpa del Clot;2;63;1;199000;1;3158
+Eixample;la Nova Esquerra de l'Eixample;5;250;1;790000;1;3160
+Eixample;la Nova Esquerra de l'Eixample;5;250;1;790000;1;3160
+Sant Martí;el Camp de l'Arpa del Clot;3;68;1;215000;1;3161
+Sant Martí;el Poblenou;3;49;1;155000;1;3163
+Sant Martí;el Camp de l'Arpa del Clot;3;85;1;269000;1;3164
+Sant Martí;Sant Martí de Provençals;3;90;1;285000;1;3166
+Sarrià-Sant Gervasi;les Tres Torres;1;120;0;380000;0;3166
+Horta-Guinardó;el Carmel;5;142;0;450000;0;3169
+Eixample;Sant Antoni;1;47;1;149000;0;3170
+Eixample;la Nova Esquerra de l'Eixample;1;82;1;260000;0;3170
+Horta-Guinardó;Horta;3;63;1;199900;1;3173
+Horta-Guinardó;el Carmel;2;52;0;165000;0;3173
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;52;0;165000;0;3173
+Sant Andreu;la Sagrera;4;85;1;270000;1;3176
+Horta-Guinardó;Can Baró;4;250;0;795000;0;3180
+Sants-Montjuïc;Sants;4;72;0;229000;0;3180
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;55;0;175000;0;3181
+Ciutat Vella;el Raval;3;66;1;210000;1;3181
+Sants-Montjuïc;Sants;3;77;0;245000;0;3181
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;5;110;1;350000;1;3181
+Sant Andreu;el Congrés i els Indians;2;143;1;455000;1;3181
+Sarrià-Sant Gervasi;el Putxet i el Farró;5;311;0;990000;0;3183
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;4;188;1;599000;1;3186
+Sant Martí;el Clot;2;75;1;239000;1;3186
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;3;91;1;290000;1;3186
+Eixample;la Sagrada Família;2;80;1;255000;1;3187
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;2;69;1;220000;1;3188
+Sant Martí;el Camp de l'Arpa del Clot;3;93;1;296640;1;3189
+Gràcia;la Vila de Gràcia;4;72;0;230000;0;3194
+Ciutat Vella;el Raval;2;61;1;195000;1;3196
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;90;1;288000;1;3200
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;90;1;288000;1;3200
+Eixample;la Sagrada Família;3;100;0;320000;0;3200
+Sants-Montjuïc;la Marina de Port;3;89;1;285000;1;3202
+Sants-Montjuïc;la Marina de Port;3;79;1;253000;1;3202
+Sant Andreu;el Congrés i els Indians;3;59;1;189000;1;3203
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;6;546;0;1750000;0;3205
+Sant Andreu;Sant Andreu;3;120;1;385000;1;3208
+Ciutat Vella;el Raval;3;81;1;260000;1;3209
+Sants-Montjuïc;Sants;1;42;0;135000;0;3214
+Horta-Guinardó;la Font d'en Fargues;6;224;0;720000;0;3214
+Sants-Montjuïc;la Marina de Port;3;93;1;299000;1;3215
+Eixample;la Dreta de l'Eixample;5;157;1;505000;1;3216
+Ciutat Vella;el Barri Gòtic;2;95;1;306000;1;3221
+Sants-Montjuïc;Sants;3;93;1;300000;1;3225
+Eixample;la Sagrada Família;4;79;1;255000;1;3227
+Sant Martí;el Camp de l'Arpa del Clot;3;65;0;210000;0;3230
+Les Corts;les Corts;4;99;1;320000;1;3232
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;4;120;1;388000;1;3233
+Horta-Guinardó;el Guinardó;4;77;1;249000;1;3233
+Sants-Montjuïc;Sants;3;85;1;275000;1;3235
+Ciutat Vella;el Raval;2;88;1;285000;1;3238
+Horta-Guinardó;la Font d'en Fargues;3;88;1;285000;1;3238
+Nou Barris;Porta;3;71;1;230000;1;3239
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;71;1;230000;1;3239
+Gràcia;la Vila de Gràcia;2;192;1;622000;1;3239
+Nou Barris;la Guineueta;4;94;1;305000;1;3244
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;1;77;0;250000;0;3246
+Ciutat Vella;el Barri Gòtic;4;129;1;419000;1;3248
+Sant Andreu;Sant Andreu;3;60;1;195000;1;3250
+Eixample;el Fort Pienc;4;100;1;325000;1;3250
+Horta-Guinardó;el Guinardó;3;83;1;270000;1;3253
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;4;83;1;270000;1;3253
+Ciutat Vella;el Raval;5;110;1;358000;1;3254
+Sant Martí;Sant Martí de Provençals;4;86;1;280000;1;3255
+Sant Martí;el Camp de l'Arpa del Clot;3;66;1;214900;1;3256
+Sant Martí;el Parc i la Llacuna del Poblenou;4;74;1;241000;1;3256
+Sant Andreu;Sant Andreu;3;66;1;215000;1;3257
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;4;120;1;391000;1;3258
+Ciutat Vella;el Barri Gòtic;4;112;1;365000;1;3258
+Sants-Montjuïc;la Bordeta;3;71;1;232000;1;3267
+Eixample;la Nova Esquerra de l'Eixample;3;67;0;219000;0;3268
+Les Corts;la Maternitat i Sant Ramon;4;78;1;255000;1;3269
+Gràcia;la Salut;3;78;1;255000;1;3269
+Eixample;Sant Antoni;3;81;1;265000;1;3271
+Sants-Montjuïc;la Marina de Port;3;110;1;360000;1;3272
+Sants-Montjuïc;la Font de la Guatlla;4;110;1;360000;1;3272
+Sants-Montjuïc;la Marina de Port;3;110;1;360000;1;3272
+Sants-Montjuïc;la Marina de Port;4;110;1;360000;1;3272
+Sants-Montjuïc;la Marina de Port;4;110;1;360000;1;3272
+Horta-Guinardó;el Guinardó;4;119;1;390000;1;3277
+Sant Martí;el Poblenou;3;195;1;640000;1;3282
+Sants-Montjuïc;Sants - Badal;3;70;1;230000;1;3285
+Sant Martí;el Camp de l'Arpa del Clot;3;70;1;230000;1;3285
+Sants-Montjuïc;Sants;1;73;0;240000;0;3287
+Sant Andreu;Sant Andreu;4;114;1;375000;1;3289
+Horta-Guinardó;el Guinardó;3;79;1;260000;1;3291
+Ciutat Vella;el Raval;2;150;1;495000;1;3300
+Eixample;la Sagrada Família;4;109;1;360000;1;3302
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;69;0;228000;0;3304
+Ciutat Vella;el Raval;3;62;1;205000;1;3306
+Sant Andreu;la Sagrera;3;65;1;215000;1;3307
+Eixample;la Sagrada Família;4;77;1;255000;1;3311
+Sant Martí;el Clot;3;77;1;255000;1;3311
+Eixample;la Sagrada Família;4;77;1;255000;1;3311
+Horta-Guinardó;el Baix Guinardó;3;80;1;265000;1;3312
+Sant Martí;el Clot;3;80;1;265000;1;3312
+Eixample;la Nova Esquerra de l'Eixample;3;104;1;345000;1;3317
+Eixample;Sant Antoni;4;110;1;365000;1;3318
+Nou Barris;Vilapicina i la Torre Llobeta;1;47;1;156000;0;3319
+Ciutat Vella;el Barri Gòtic;3;119;0;395000;0;3319
+Eixample;l'Antiga Esquerra de l'Eixample;4;134;1;445000;1;3320
+Sants-Montjuïc;Sants - Badal;3;87;0;289000;0;3321
+Eixample;Sant Antoni;4;149;1;495000;1;3322
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;90;1;299000;1;3322
+Gràcia;la Salut;5;180;1;599000;1;3327
+Ciutat Vella;el Raval;4;85;0;283000;0;3329
+Ciutat Vella;el Raval;1;30;0;100000;0;3333
+Horta-Guinardó;Sant Genís dels Agudells;1;66;1;220000;0;3333
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;39;0;130000;0;3333
+Nou Barris;Vilapicina i la Torre Llobeta;3;72;1;240000;1;3333
+Gràcia;la Vila de Gràcia;3;72;0;240000;0;3333
+Sants-Montjuïc;Sants - Badal;3;75;0;250000;0;3333
+Sant Martí;la Verneda i la Pau;4;81;1;270000;1;3333
+Eixample;Sant Antoni;3;84;1;280000;1;3333
+Eixample;Sant Antoni;3;84;1;280000;1;3333
+Eixample;el Fort Pienc;5;135;1;450000;1;3333
+Eixample;l'Antiga Esquerra de l'Eixample;4;159;1;530000;1;3333
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;7;300;1;1000000;1;3333
+Ciutat Vella;el Barri Gòtic;5;230;0;769000;0;3343
+Eixample;la Nova Esquerra de l'Eixample;3;113;1;378000;1;3345
+Sant Martí;el Camp de l'Arpa del Clot;3;130;1;435000;1;3346
+Horta-Guinardó;Horta;3;118;1;395000;1;3347
+Eixample;el Fort Pienc;3;100;1;335000;1;3350
+Ciutat Vella;el Barri Gòtic;2;134;1;449000;1;3350
+Sants-Montjuïc;Hostafrancs;4;88;1;295000;1;3352
+Eixample;l'Antiga Esquerra de l'Eixample;4;158;1;530000;1;3354
+Eixample;l'Antiga Esquerra de l'Eixample;5;158;1;530000;1;3354
+Eixample;la Sagrada Família;4;76;1;255000;1;3355
+Eixample;Sant Antoni;3;104;1;349000;1;3355
+Gràcia;el Camp d'en Grassot i Gràcia Nova;2;59;1;198000;1;3355
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;73;0;245000;0;3356
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;2;70;0;235000;0;3357
+Sants-Montjuïc;Sants;2;58;0;195000;0;3362
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;80;1;269000;1;3362
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;110;1;370000;1;3363
+Gràcia;la Salut;3;74;1;249000;1;3364
+Eixample;la Nova Esquerra de l'Eixample;4;156;1;525000;1;3365
+Eixample;Sant Antoni;5;172;1;579000;1;3366
+Sants-Montjuïc;Hostafrancs;4;95;1;320000;1;3368
+Sant Andreu;el Congrés i els Indians;3;65;1;219000;1;3369
+Eixample;la Sagrada Família;3;83;1;280000;1;3373
+Eixample;el Fort Pienc;7;157;1;530000;1;3375
+Eixample;el Fort Pienc;5;157;1;530000;1;3375
+Eixample;la Nova Esquerra de l'Eixample;1;77;1;260000;0;3376
+Eixample;la Sagrada Família;3;74;0;250000;0;3378
+Horta-Guinardó;la Teixonera;3;58;1;196000;1;3379
+Sant Andreu;Navas;3;68;1;230000;1;3382
+Sant Martí;el Camp de l'Arpa del Clot;4;102;1;345000;1;3382
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;4;112;1;379000;1;3383
+Gràcia;la Vila de Gràcia;3;65;0;220000;0;3384
+Sant Martí;el Clot;4;96;1;325000;1;3385
+Horta-Guinardó;el Carmel;4;88;1;298000;1;3386
+Gràcia;Vallcarca i els Penitents;1;62;0;210000;0;3387
+Gràcia;la Vila de Gràcia;4;165;1;559000;1;3387
+Eixample;la Sagrada Família;1;59;1;199900;0;3388
+Eixample;el Fort Pienc;5;157;1;532000;1;3388
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;94;0;319000;0;3393
+Eixample;la Sagrada Família;3;53;0;180000;0;3396
+Eixample;la Sagrada Família;4;75;1;255000;1;3400
+Gràcia;la Vila de Gràcia;3;79;1;268600;1;3400
+Eixample;Sant Antoni;4;100;1;340000;1;3400
+Eixample;la Dreta de l'Eixample;7;200;1;680000;1;3400
+Eixample;la Sagrada Família;4;122;1;415000;1;3401
+Sants-Montjuïc;la Bordeta;4;97;1;330000;1;3402
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;3;116;0;395000;0;3405
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;3;116;0;395000;0;3405
+Horta-Guinardó;el Carmel;3;116;1;395000;1;3405
+Nou Barris;Vilapicina i la Torre Llobeta;2;49;1;167000;1;3408
+Sant Andreu;Sant Andreu;3;88;1;300000;1;3409
+Sant Martí;el Camp de l'Arpa del Clot;4;88;1;300000;1;3409
+Ciutat Vella;el Barri Gòtic;3;78;0;266000;0;3410
+Sant Martí;el Parc i la Llacuna del Poblenou;3;85;0;290000;0;3411
+Horta-Guinardó;Can Baró;3;70;1;239000;1;3414
+Sants-Montjuïc;Sants - Badal;2;70;1;239000;1;3414
+Gràcia;la Vila de Gràcia;2;70;0;239000;0;3414
+Eixample;la Sagrada Família;4;82;1;280000;1;3414
+Ciutat Vella;el Barri Gòtic;4;158;0;540000;0;3417
+Eixample;la Dreta de l'Eixample;2;190;1;650000;1;3421
+Eixample;la Dreta de l'Eixample;7;336;1;1150000;1;3422
+Eixample;l'Antiga Esquerra de l'Eixample;4;111;0;380000;0;3423
+Sarrià-Sant Gervasi;Sarrià;4;108;1;370000;1;3425
+Les Corts;les Corts;4;131;1;449000;1;3427
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;68;0;233150;0;3428
+Nou Barris;Porta;2;43;1;147500;1;3430
+Eixample;el Fort Pienc;3;86;1;295000;1;3430
+Ciutat Vella;el Barri Gòtic;4;102;0;350000;0;3431
+Sant Martí;el Camp de l'Arpa del Clot;3;67;1;230000;1;3432
+Ciutat Vella;el Raval;3;67;1;230000;1;3432
+Horta-Guinardó;Can Baró;3;60;1;206000;1;3433
+Sant Martí;el Camp de l'Arpa del Clot;3;99;1;340000;1;3434
+Sarrià-Sant Gervasi;Sarrià;5;131;1;450000;1;3435
+Nou Barris;Porta;3;55;1;189000;1;3436
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;87;1;299000;1;3436
+Sants-Montjuïc;la Marina de Port;3;64;1;220000;1;3437
+Sants-Montjuïc;Hostafrancs;3;64;1;220000;1;3437
+Eixample;la Dreta de l'Eixample;5;173;1;595000;1;3439
+Sants-Montjuïc;la Font de la Guatlla;3;61;1;210000;1;3442
+Eixample;la Dreta de l'Eixample;7;305;1;1050000;1;3442
+Eixample;la Dreta de l'Eixample;6;305;1;1050000;1;3442
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;4;100;1;345000;1;3450
+Nou Barris;Porta;2;71;0;245000;0;3450
+Ciutat Vella;el Barri Gòtic;11;536;1;1850000;1;3451
+Sant Martí;el Clot;3;84;0;290000;0;3452
+Sants-Montjuïc;Sants;4;420;0;1450000;0;3452
+Eixample;la Dreta de l'Eixample;6;304;1;1050000;1;3453
+Eixample;l'Antiga Esquerra de l'Eixample;5;136;1;470000;1;3455
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;129;1;446000;1;3457
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;4;94;0;325000;0;3457
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;4;94;0;325000;0;3457
+Eixample;la Sagrada Família;2;120;1;415000;1;3458
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;120;1;415000;1;3458
+Sant Andreu;Navas;3;65;1;225000;1;3461
+Sant Martí;el Camp de l'Arpa del Clot;3;65;1;225000;1;3461
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;65;0;225000;0;3461
+Eixample;la Dreta de l'Eixample;2;130;1;450000;1;3461
+Ciutat Vella;el Raval;3;130;0;450000;0;3461
+Eixample;la Sagrada Família;3;56;1;194000;1;3464
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;86;0;298000;0;3465
+Nou Barris;Porta;4;101;1;350000;1;3465
+Sants-Montjuïc;la Bordeta;2;92;1;319000;1;3467
+Gràcia;Vallcarca i els Penitents;1;62;0;215000;0;3467
+Gràcia;Vallcarca i els Penitents;1;62;0;215000;0;3467
+Sants-Montjuïc;la Font de la Guatlla;3;62;1;215000;1;3467
+Eixample;Sant Antoni;4;98;1;340000;1;3469
+Gràcia;la Vila de Gràcia;4;66;0;229000;0;3469
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;83;1;288000;1;3469
+Eixample;l'Antiga Esquerra de l'Eixample;4;157;1;545000;1;3471
+Eixample;la Nova Esquerra de l'Eixample;3;108;1;375000;1;3472
+Sants-Montjuïc;la Marina de Port;3;84;1;291700;1;3472
+Gràcia;el Camp d'en Grassot i Gràcia Nova;4;118;1;410000;1;3474
+Sants-Montjuïc;la Marina de Port;3;86;1;299000;1;3476
+Gràcia;la Vila de Gràcia;3;69;1;240000;1;3478
+Gràcia;la Vila de Gràcia;3;69;1;240000;1;3478
+Nou Barris;Vilapicina i la Torre Llobeta;3;77;1;268000;1;3480
+Eixample;l'Antiga Esquerra de l'Eixample;5;158;1;550000;1;3481
+Eixample;l'Antiga Esquerra de l'Eixample;2;56;0;195000;0;3482
+Eixample;la Nova Esquerra de l'Eixample;3;112;1;390000;1;3482
+Gràcia;la Vila de Gràcia;4;142;1;495000;1;3485
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;109;1;380000;1;3486
+Ciutat Vella;el Raval;2;76;1;265000;1;3486
+Sants-Montjuïc;Sants;4;86;1;300000;1;3488
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;86;1;300000;1;3488
+Horta-Guinardó;Horta;3;53;1;185000;1;3490
+Eixample;la Nova Esquerra de l'Eixample;5;106;1;370000;1;3490
+Gràcia;el Camp d'en Grassot i Gràcia Nova;4;136;1;475000;1;3492
+Gràcia;el Camp d'en Grassot i Gràcia Nova;4;136;1;475000;1;3492
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;97;1;339000;1;3494
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;113;1;395000;1;3495
+Sant Martí;el Camp de l'Arpa del Clot;2;50;0;175000;0;3500
+Eixample;el Fort Pienc;4;60;1;210000;1;3500
+Eixample;el Fort Pienc;4;60;1;210000;1;3500
+Eixample;el Fort Pienc;4;60;1;210000;1;3500
+Sants-Montjuïc;la Marina de Port;2;70;1;245000;1;3500
+Sants-Montjuïc;Hostafrancs;4;80;1;280000;1;3500
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;3;90;1;315000;0;3500
+Eixample;la Nova Esquerra de l'Eixample;4;100;1;350000;0;3500
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;4;100;1;350000;0;3500
+Horta-Guinardó;Can Baró;2;105;1;367500;0;3500
+Eixample;la Dreta de l'Eixample;5;160;1;560000;0;3500
+Ciutat Vella;el Barri Gòtic;4;137;1;480000;0;3503
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;117;1;410000;0;3504
+Eixample;la Dreta de l'Eixample;4;117;1;410000;0;3504
+Sants-Montjuïc;la Bordeta;4;97;1;340000;0;3505
+Sant Martí;el Camp de l'Arpa del Clot;4;85;1;298000;0;3505
+Eixample;la Dreta de l'Eixample;2;86;1;302000;0;3511
+Eixample;Sant Antoni;2;84;0;295000;0;3511
+Eixample;la Nova Esquerra de l'Eixample;4;158;1;555000;0;3512
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;3;74;1;260000;0;3513
+Les Corts;les Corts;2;159;1;560000;0;3522
+Sant Andreu;Navas;4;87;1;307000;0;3528
+Les Corts;la Maternitat i Sant Ramon;3;79;1;279000;0;3531
+Eixample;la Nova Esquerra de l'Eixample;3;75;1;265000;0;3533
+Eixample;el Fort Pienc;7;150;1;530000;0;3533
+Eixample;l'Antiga Esquerra de l'Eixample;2;58;1;205000;0;3534
+Eixample;Sant Antoni;4;140;1;495000;0;3535
+Ciutat Vella;el Raval;4;84;1;297069;0;3536
+Sant Andreu;Sant Andreu;4;147;1;520000;0;3537
+Sant Andreu;Navas;4;93;1;329000;0;3537
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;7;650;0;2300000;0;3538
+Gràcia;la Salut;4;89;1;315000;0;3539
+Horta-Guinardó;el Guinardó;3;76;1;269000;0;3539
+Sants-Montjuïc;Hostafrancs;3;76;1;269000;0;3539
+Les Corts;la Maternitat i Sant Ramon;4;72;1;255000;0;3541
+Ciutat Vella;el Barri Gòtic;3;79;0;280000;0;3544
+Ciutat Vella;el Barri Gòtic;2;158;0;560000;0;3544
+Ciutat Vella;el Raval;3;110;1;390000;0;3545
+Sant Andreu;el Congrés i els Indians;3;62;1;220000;0;3548
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;4;93;1;330000;0;3548
+Eixample;la Nova Esquerra de l'Eixample;7;155;1;550000;0;3548
+Eixample;la Nova Esquerra de l'Eixample;6;200;1;710000;0;3550
+Ciutat Vella;el Barri Gòtic;6;549;1;1950000;0;3551
+Ciutat Vella;el Raval;2;76;1;270000;0;3552
+Sant Martí;Provençals del Poblenou;3;56;0;199000;0;3553
+Eixample;l'Antiga Esquerra de l'Eixample;3;225;1;800000;0;3555
+Eixample;Sant Antoni;3;70;1;249000;0;3557
+Eixample;Sant Antoni;4;84;1;299000;0;3559
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;4;84;0;299000;0;3559
+Eixample;la Sagrada Família;4;84;1;299000;0;3559
+Sant Martí;Provençals del Poblenou;3;84;1;299000;0;3559
+Ciutat Vella;el Raval;2;50;1;178000;0;3560
+Sarrià-Sant Gervasi;el Putxet i el Farró;5;139;1;495000;0;3561
+Les Corts;les Corts;4;146;1;520000;0;3561
+Eixample;la Sagrada Família;3;96;1;342000;0;3562
+Eixample;l'Antiga Esquerra de l'Eixample;4;224;1;798000;0;3562
+Sants-Montjuïc;la Marina de Port;2;68;1;242400;0;3564
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;210;1;749000;0;3566
+Eixample;la Sagrada Família;4;123;1;439000;0;3569
+Ciutat Vella;el Raval;2;56;0;200000;0;3571
+Eixample;la Sagrada Família;3;70;1;250000;0;3571
+Sant Martí;el Poblenou;2;105;1;375000;0;3571
+Horta-Guinardó;la Font d'en Fargues;3;116;1;415000;0;3577
+Horta-Guinardó;el Baix Guinardó;4;95;1;340000;0;3578
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;95;1;340000;0;3578
+Ciutat Vella;el Raval;5;100;1;358000;0;3580
+Sant Andreu;Navas;3;67;1;240000;0;3582
+Eixample;el Fort Pienc;4;103;1;369000;0;3582
+Sant Andreu;el Bon Pastor;3;130;1;466000;0;3584
+Nou Barris;Vilapicina i la Torre Llobeta;3;87;1;312000;0;3586
+Eixample;Sant Antoni;1;46;1;165000;0;3586
+Les Corts;la Maternitat i Sant Ramon;5;234;0;840000;0;3589
+Eixample;la Sagrada Família;2;110;0;395000;0;3590
+Horta-Guinardó;el Guinardó;3;110;1;395000;0;3590
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;110;1;395000;0;3590
+Gràcia;la Vila de Gràcia;2;71;1;255000;0;3591
+Nou Barris;Porta;2;125;1;449000;0;3592
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;4;114;1;410000;0;3596
+Ciutat Vella;el Raval;2;45;0;162000;0;3600
+Eixample;la Sagrada Família;5;150;1;540000;0;3600
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;118;1;425000;0;3601
+Sants-Montjuïc;la Font de la Guatlla;4;93;1;335000;0;3602
+Gràcia;la Vila de Gràcia;2;68;1;245000;0;3602
+Les Corts;les Corts;3;86;1;310000;0;3604
+Ciutat Vella;el Raval;2;79;1;285000;0;3607
+Eixample;l'Antiga Esquerra de l'Eixample;3;97;1;350000;0;3608
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;72;1;260000;0;3611
+Eixample;el Fort Pienc;4;90;1;325000;0;3611
+Eixample;l'Antiga Esquerra de l'Eixample;3;90;1;325000;0;3611
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;144;1;520000;0;3611
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;144;1;520000;0;3611
+Sants-Montjuïc;la Marina de Port;1;50;1;180610;0;3612
+Eixample;Sant Antoni;4;101;1;365000;0;3613
+Sant Martí;el Clot;3;104;1;376000;0;3615
+Horta-Guinardó;el Baix Guinardó;3;55;1;199000;0;3618
+Eixample;la Nova Esquerra de l'Eixample;3;152;1;550000;0;3618
+Sants-Montjuïc;Sants;2;87;1;315000;0;3620
+Les Corts;la Maternitat i Sant Ramon;4;80;1;290000;0;3625
+Sant Andreu;Navas;4;91;1;330000;0;3626
+Gràcia;el Camp d'en Grassot i Gràcia Nova;4;137;1;497000;0;3627
+Ciutat Vella;el Raval;6;175;1;635000;0;3628
+Eixample;Sant Antoni;4;124;1;450000;0;3629
+Sarrià-Sant Gervasi;Sarrià;4;124;1;450000;0;3629
+Eixample;la Nova Esquerra de l'Eixample;4;99;1;359300;0;3629
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;95;0;345000;0;3631
+Eixample;la Dreta de l'Eixample;5;150;1;545000;0;3633
+Les Corts;la Maternitat i Sant Ramon;2;101;1;367000;0;3633
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;74;1;269000;0;3635
+Sant Martí;el Camp de l'Arpa del Clot;3;88;1;320000;0;3636
+Eixample;la Nova Esquerra de l'Eixample;3;99;1;360000;0;3636
+Horta-Guinardó;Can Baró;1;62;1;225500;0;3637
+Sant Martí;el Camp de l'Arpa del Clot;3;103;1;375000;0;3640
+Eixample;la Sagrada Família;4;70;1;255000;0;3642
+Eixample;la Sagrada Família;4;70;1;255000;0;3642
+Eixample;la Sagrada Família;3;70;1;255000;0;3642
+Gràcia;el Camp d'en Grassot i Gràcia Nova;4;70;1;255000;0;3642
+Sant Martí;el Poblenou;3;129;1;470000;0;3643
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;59;0;215000;0;3644
+Sants-Montjuïc;la Marina de Port;5;295;0;1075000;0;3644
+Horta-Guinardó;el Carmel;3;79;1;288000;0;3645
+Eixample;la Nova Esquerra de l'Eixample;4;96;1;350000;0;3645
+Eixample;Sant Antoni;5;181;1;660000;0;3646
+Eixample;la Dreta de l'Eixample;3;133;1;485000;0;3646
+Sants-Montjuïc;Sants;4;85;1;310000;0;3647
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;207;1;755000;0;3647
+Sant Martí;el Camp de l'Arpa del Clot;3;63;1;230000;0;3650
+Sant Martí;el Camp de l'Arpa del Clot;3;63;1;230000;0;3650
+Sants-Montjuïc;Sants;4;78;0;285000;0;3653
+Eixample;la Dreta de l'Eixample;8;260;1;950000;0;3653
+Eixample;el Fort Pienc;6;145;1;530000;0;3655
+Eixample;la Nova Esquerra de l'Eixample;3;90;1;329000;0;3655
+Sant Martí;el Clot;4;93;1;340000;0;3655
+Gràcia;el Camp d'en Grassot i Gràcia Nova;4;93;1;340000;0;3655
+Horta-Guinardó;el Guinardó;3;67;1;245000;0;3656
+Eixample;la Nova Esquerra de l'Eixample;4;134;1;490000;0;3656
+Sant Andreu;la Sagrera;3;70;1;256000;0;3657
+Eixample;la Sagrada Família;4;73;1;267000;0;3657
+Ciutat Vella;el Raval;1;38;0;139000;0;3657
+Sarrià-Sant Gervasi;el Putxet i el Farró;5;123;1;450000;0;3658
+Sants-Montjuïc;Sants;3;68;1;249000;0;3661
+Horta-Guinardó;el Guinardó;2;71;1;260000;0;3661
+Sants-Montjuïc;Sants;3;60;1;220000;0;3666
+Sants-Montjuïc;la Bordeta;3;60;1;220000;0;3666
+Ciutat Vella;el Raval;2;60;1;220000;0;3666
+Sant Martí;el Poblenou;3;90;1;330000;0;3666
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;150;1;550000;0;3666
+Eixample;Sant Antoni;3;124;1;455000;0;3669
+Sants-Montjuïc;la Marina de Port;2;61;1;224000;0;3672
+Eixample;la Dreta de l'Eixample;3;113;1;415000;0;3672
+Ciutat Vella;el Raval;1;49;0;180000;0;3673
+Eixample;la Nova Esquerra de l'Eixample;4;98;1;360000;0;3673
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;95;1;349000;0;3673
+Ciutat Vella;el Barri Gòtic;4;136;0;500000;0;3676
+Horta-Guinardó;la Font d'en Fargues;3;121;1;445000;0;3677
+Ciutat Vella;el Raval;3;50;0;184000;0;3680
+Nou Barris;Vilapicina i la Torre Llobeta;3;75;1;276000;0;3680
+Nou Barris;Vilapicina i la Torre Llobeta;3;125;1;460000;0;3680
+Eixample;la Sagrada Família;3;125;1;460000;0;3680
+Horta-Guinardó;la Font d'en Fargues;4;122;0;449000;0;3680
+Gràcia;Vallcarca i els Penitents;3;72;1;265000;0;3680
+Eixample;la Dreta de l'Eixample;5;129;1;475000;0;3682
+Sants-Montjuïc;Sants;3;76;1;280000;0;3684
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;95;1;350000;0;3684
+Ciutat Vella;la Barceloneta;1;35;0;129000;0;3685
+Eixample;el Fort Pienc;3;70;1;258000;0;3685
+Les Corts;les Corts;2;80;1;295000;0;3687
+Eixample;la Nova Esquerra de l'Eixample;3;80;1;295000;0;3687
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;4;80;1;295000;0;3687
+Horta-Guinardó;el Baix Guinardó;3;122;1;450000;0;3688
+Eixample;el Fort Pienc;3;100;1;369000;0;3690
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;81;1;299000;0;3691
+Eixample;la Nova Esquerra de l'Eixample;3;81;1;299000;0;3691
+Eixample;l'Antiga Esquerra de l'Eixample;4;130;1;480000;0;3692
+Eixample;la Sagrada Família;1;134;1;495000;0;3694
+Sant Andreu;Sant Andreu;2;73;1;270000;0;3698
+Ciutat Vella;el Raval;1;50;0;185000;0;3700
+Ciutat Vella;el Raval;1;50;0;185000;0;3700
+Eixample;la Sagrada Família;4;70;1;259000;0;3700
+Sant Martí;el Besòs i el Maresme;3;97;1;359000;0;3701
+Horta-Guinardó;el Carmel;3;87;1;322000;0;3701
+Sants-Montjuïc;Sants;4;77;0;285000;0;3701
+Eixample;la Nova Esquerra de l'Eixample;4;112;1;415000;0;3705
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;85;0;315000;0;3705
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;120;1;445000;0;3708
+Eixample;la Sagrada Família;4;93;1;345000;0;3709
+Eixample;la Dreta de l'Eixample;5;283;1;1050000;0;3710
+Horta-Guinardó;la Font d'en Fargues;2;76;1;282000;0;3710
+Horta-Guinardó;el Carmel;4;140;0;520000;0;3714
+Eixample;la Nova Esquerra de l'Eixample;3;74;1;275000;0;3716
+Horta-Guinardó;la Font d'en Fargues;5;160;0;595000;0;3718
+Sants-Montjuïc;la Font de la Guatlla;4;75;1;279000;0;3720
+Sant Martí;el Poblenou;3;75;0;279000;0;3720
+Sants-Montjuïc;Sants;4;86;1;320000;0;3720
+Sants-Montjuïc;Sants;4;86;1;320000;0;3720
+Ciutat Vella;el Raval;2;61;0;227000;0;3721
+Ciutat Vella;el Barri Gòtic;4;133;1;495000;0;3721
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;98;1;365000;0;3724
+Ciutat Vella;el Raval;3;153;0;570000;0;3725
+Sants-Montjuïc;Sants;3;107;1;399000;0;3728
+Eixample;la Dreta de l'Eixample;3;107;1;399000;0;3728
+Ciutat Vella;el Raval;3;63;1;235000;0;3730
+Eixample;Sant Antoni;2;56;1;209000;0;3732
+Eixample;la Nova Esquerra de l'Eixample;2;71;1;265000;0;3732
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;71;1;265000;0;3732
+Eixample;la Dreta de l'Eixample;10;262;1;978000;0;3732
+Ciutat Vella;el Raval;2;75;1;280000;0;3733
+Sant Andreu;la Sagrera;2;75;1;280000;0;3733
+Les Corts;la Maternitat i Sant Ramon;3;79;1;295000;0;3734
+Gràcia;el Coll;2;64;1;239000;0;3734
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;91;1;340000;0;3736
+Horta-Guinardó;la Vall d'Hebron;2;80;1;299000;0;3737
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;5;80;0;299000;0;3737
+Ciutat Vella;el Raval;2;151;1;565000;0;3741
+Ciutat Vella;el Raval;2;151;1;565000;0;3741
+Eixample;la Dreta de l'Eixample;8;261;1;978000;0;3747
+Ciutat Vella;la Barceloneta;1;36;0;135000;0;3750
+Gràcia;el Camp d'en Grassot i Gràcia Nova;1;52;0;195000;0;3750
+Sant Andreu;Sant Andreu;3;96;1;360000;0;3750
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;100;1;375000;0;3750
+Sant Andreu;Sant Andreu;3;112;1;420000;0;3750
+Horta-Guinardó;la Font d'en Fargues;3;116;1;435000;0;3750
+Gràcia;el Camp d'en Grassot i Gràcia Nova;4;85;1;319000;0;3752
+Horta-Guinardó;el Baix Guinardó;3;85;1;319000;0;3752
+Sant Andreu;el Congrés i els Indians;3;69;0;259000;0;3753
+Eixample;la Nova Esquerra de l'Eixample;4;113;1;425000;0;3761
+Eixample;el Fort Pienc;3;67;1;252000;0;3761
+Les Corts;la Maternitat i Sant Ramon;4;105;1;395000;0;3761
+Eixample;l'Antiga Esquerra de l'Eixample;4;114;1;429000;0;3763
+Gràcia;la Vila de Gràcia;4;93;1;350000;0;3763
+Les Corts;les Corts;3;85;1;320000;0;3764
+Gràcia;el Camp d'en Grassot i Gràcia Nova;4;85;1;320000;0;3764
+Eixample;la Sagrada Família;3;385;0;1450000;0;3766
+Ciutat Vella;el Raval;2;150;1;565000;0;3766
+Gràcia;la Vila de Gràcia;2;65;1;245000;0;3769
+Sant Andreu;Navas;3;74;1;279000;0;3770
+Eixample;el Fort Pienc;3;118;1;445000;0;3771
+Horta-Guinardó;la Font d'en Fargues;3;114;1;430000;0;3771
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;132;1;498000;0;3772
+Horta-Guinardó;el Guinardó;2;75;1;283000;0;3773
+Eixample;el Fort Pienc;2;106;1;400000;0;3773
+Eixample;la Nova Esquerra de l'Eixample;3;90;1;340000;0;3777
+Eixample;el Fort Pienc;5;185;1;699000;0;3778
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;50;0;189000;0;3780
+Eixample;la Dreta de l'Eixample;5;132;1;499000;0;3780
+Eixample;la Nova Esquerra de l'Eixample;4;82;1;310000;0;3780
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;74;1;279900;0;3782
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;152;1;575000;0;3782
+Eixample;la Nova Esquerra de l'Eixample;4;97;1;367000;0;3783
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;5;185;0;700000;0;3783
+Ciutat Vella;el Barri Gòtic;1;102;0;386000;0;3784
+Eixample;la Sagrada Família;2;79;1;299000;0;3784
+Eixample;la Nova Esquerra de l'Eixample;3;70;1;265000;0;3785
+Eixample;la Nova Esquerra de l'Eixample;4;140;1;530000;0;3785
+Eixample;l'Antiga Esquerra de l'Eixample;3;108;1;409000;0;3787
+Eixample;l'Antiga Esquerra de l'Eixample;3;108;1;409000;0;3787
+Gràcia;la Vila de Gràcia;2;99;1;375000;0;3787
+Ciutat Vella;el Raval;5;132;1;500000;0;3787
+Gràcia;la Vila de Gràcia;4;95;1;359900;0;3788
+Eixample;Sant Antoni;3;95;1;360000;0;3789
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;62;1;235000;0;3790
+Horta-Guinardó;el Carmel;3;62;1;235000;0;3790
+Ciutat Vella;el Raval;3;62;1;235000;0;3790
+Eixample;el Fort Pienc;3;158;1;599000;0;3791
+Eixample;la Nova Esquerra de l'Eixample;3;87;1;330000;0;3793
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;3;83;1;315000;0;3795
+Horta-Guinardó;Can Baró;1;62;1;235500;0;3798
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;169;1;642000;0;3798
+Sant Martí;el Poblenou;2;65;1;247000;0;3800
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;6;250;1;950000;0;3800
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;6;250;1;950000;0;3800
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;111;1;422500;0;3806
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;111;1;422500;0;3806
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;6;243;1;925000;0;3806
+Sarrià-Sant Gervasi;el Putxet i el Farró;5;130;1;495000;0;3807
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;63;0;240000;0;3809
+Eixample;la Sagrada Família;4;84;1;320000;0;3809
+Eixample;el Fort Pienc;2;105;1;400000;0;3809
+Sarrià-Sant Gervasi;el Putxet i el Farró;5;126;1;480000;0;3809
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;168;1;640000;0;3809
+Eixample;el Fort Pienc;4;80;1;305000;0;3812
+Sant Martí;el Poblenou;4;99;1;378000;0;3818
+Sant Martí;el Besòs i el Maresme;3;94;1;359000;0;3819
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;1;72;0;275000;0;3819
+Eixample;la Dreta de l'Eixample;5;183;1;699000;0;3819
+Eixample;la Dreta de l'Eixample;5;183;1;699000;0;3819
+Sant Martí;el Camp de l'Arpa del Clot;2;51;1;195000;0;3823
+Ciutat Vella;el Barri Gòtic;4;204;1;780000;0;3823
+Horta-Guinardó;el Carmel;3;81;1;310000;0;3827
+Horta-Guinardó;Sant Genís dels Agudells;5;128;0;490000;0;3828
+Gràcia;el Coll;1;35;1;134000;0;3828
+Sant Martí;el Clot;1;70;1;268000;0;3828
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;6;248;1;950000;0;3830
+Sants-Montjuïc;Sants - Badal;4;77;1;295000;0;3831
+Sant Martí;el Camp de l'Arpa del Clot;2;77;1;295000;0;3831
+Eixample;la Nova Esquerra de l'Eixample;3;77;1;295000;0;3831
+Sants-Montjuïc;Sants - Badal;4;77;1;295000;0;3831
+Eixample;la Dreta de l'Eixample;4;154;1;590000;0;3831
+Eixample;la Dreta de l'Eixample;5;154;1;590000;0;3831
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;1;30;0;115000;0;3833
+Sant Martí;el Clot;4;90;1;345000;0;3833
+Les Corts;les Corts;4;103;1;395000;0;3834
+Eixample;la Nova Esquerra de l'Eixample;5;155;1;595000;0;3838
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;95;1;365000;0;3842
+Eixample;la Sagrada Família;3;121;1;465000;0;3842
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;121;1;465000;0;3842
+Ciutat Vella;el Raval;1;52;1;200000;0;3846
+Ciutat Vella;el Barri Gòtic;3;65;1;250000;0;3846
+Les Corts;la Maternitat i Sant Ramon;3;100;1;385000;0;3850
+Sants-Montjuïc;Hostafrancs;2;100;0;385000;0;3850
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;4;100;1;385000;0;3850
+Gràcia;la Vila de Gràcia;4;200;0;770000;0;3850
+Gràcia;la Vila de Gràcia;5;96;0;370000;0;3854
+Ciutat Vella;el Raval;3;83;1;320000;0;3855
+Horta-Guinardó;el Carmel;2;56;1;216000;0;3857
+Nou Barris;Can Peguera;4;70;1;270000;0;3857
+Sant Martí;el Clot;3;70;1;270000;0;3857
+Les Corts;la Maternitat i Sant Ramon;3;140;1;540000;0;3857
+Sants-Montjuïc;Sants - Badal;3;120;1;463000;0;3858
+Sants-Montjuïc;Sants - Badal;3;120;1;463000;0;3858
+Eixample;la Nova Esquerra de l'Eixample;6;149;1;575000;0;3859
+Eixample;la Sagrada Família;4;180;1;695000;0;3861
+Horta-Guinardó;el Guinardó;2;58;1;224000;0;3862
+Ciutat Vella;el Barri Gòtic;3;145;0;560000;0;3862
+Sants-Montjuïc;Sants;2;95;0;367000;0;3863
+Horta-Guinardó;el Guinardó;3;88;1;340000;0;3863
+Eixample;Sant Antoni;4;97;1;375000;0;3865
+Eixample;l'Antiga Esquerra de l'Eixample;5;160;1;619000;0;3868
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;115;1;445000;0;3869
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;230;1;890000;0;3869
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;1;54;1;209000;0;3870
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;270;1;1045000;0;3870
+Eixample;l'Antiga Esquerra de l'Eixample;1;85;1;329000;0;3870
+Eixample;la Dreta de l'Eixample;2;103;1;399000;0;3873
+Gràcia;la Salut;3;111;0;430000;0;3873
+Sarrià-Sant Gervasi;les Tres Torres;4;555;1;2150000;0;3873
+Horta-Guinardó;Can Baró;1;52;1;201500;0;3875
+Sants-Montjuïc;Sants - Badal;3;72;1;279000;0;3875
+Gràcia;Vallcarca i els Penitents;3;80;1;310000;0;3875
+Sant Martí;el Parc i la Llacuna del Poblenou;3;73;1;283000;0;3876
+Gràcia;el Camp d'en Grassot i Gràcia Nova;4;90;1;349000;0;3877
+Eixample;la Nova Esquerra de l'Eixample;3;82;1;318000;0;3878
+Horta-Guinardó;la Vall d'Hebron;3;58;1;225000;0;3879
+Ciutat Vella;el Raval;4;116;1;450000;0;3879
+Gràcia;el Camp d'en Grassot i Gràcia Nova;4;95;1;368600;0;3880
+Gràcia;la Vila de Gràcia;3;76;1;295000;0;3881
+Eixample;Sant Antoni;4;85;1;330000;0;3882
+Sants-Montjuïc;Sants;4;85;1;330000;0;3882
+Ciutat Vella;el Barri Gòtic;5;175;1;680000;0;3885
+Les Corts;les Corts;3;72;1;280000;0;3888
+Gràcia;el Camp d'en Grassot i Gràcia Nova;2;90;1;350000;0;3888
+Eixample;l'Antiga Esquerra de l'Eixample;3;90;1;350000;0;3888
+Eixample;Sant Antoni;4;90;1;350000;0;3888
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;180;1;700000;0;3888
+Nou Barris;la Guineueta;4;91;1;353900;0;3889
+Eixample;l'Antiga Esquerra de l'Eixample;4;140;1;545000;0;3892
+Eixample;la Sagrada Família;3;122;1;475000;0;3893
+Ciutat Vella;el Raval;2;95;1;370000;0;3894
+Gràcia;la Vila de Gràcia;2;95;0;370000;0;3894
+Sarrià-Sant Gervasi;les Tres Torres;7;475;1;1850000;0;3894
+Sants-Montjuïc;la Font de la Guatlla;4;86;1;335000;0;3895
+Sarrià-Sant Gervasi;Sarrià;5;331;1;1290000;0;3897
+Ciutat Vella;el Raval;2;59;0;230000;0;3898
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;100;1;390000;0;3900
+Sarrià-Sant Gervasi;Sarrià;5;150;1;585000;0;3900
+Sant Martí;el Poblenou;3;92;1;359000;0;3902
+Ciutat Vella;el Raval;2;96;0;375000;0;3906
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;96;1;375000;0;3906
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;174;1;680000;0;3908
+Sants-Montjuïc;Sants - Badal;1;33;1;129000;0;3909
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;55;0;215000;0;3909
+Horta-Guinardó;Can Baró;3;110;0;430000;0;3909
+Les Corts;les Corts;4;102;1;399000;0;3911
+Horta-Guinardó;el Baix Guinardó;2;69;1;270000;0;3913
+Sant Martí;el Poblenou;2;92;0;360000;0;3913
+Eixample;la Sagrada Família;3;92;1;360000;0;3913
+Horta-Guinardó;la Font d'en Fargues;3;115;1;450000;0;3913
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;3;83;1;325000;0;3915
+Eixample;Sant Antoni;4;143;1;560000;0;3916
+Ciutat Vella;el Raval;2;51;1;200000;0;3921
+Gràcia;la Vila de Gràcia;3;65;0;255000;0;3923
+Sant Martí;el Camp de l'Arpa del Clot;3;79;1;310000;0;3924
+Eixample;la Dreta de l'Eixample;4;191;1;750000;0;3926
+Sant Martí;el Poblenou;1;56;0;220000;0;3928
+Horta-Guinardó;el Carmel;2;56;1;220000;0;3928
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;70;1;275000;0;3928
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;3;84;0;330000;0;3928
+Eixample;la Sagrada Família;4;140;1;550000;0;3928
+Les Corts;les Corts;4;170;1;668000;0;3929
+Eixample;Sant Antoni;4;89;1;350000;0;3932
+Eixample;la Sagrada Família;4;75;1;295000;0;3933
+Les Corts;les Corts;3;75;1;295000;0;3933
+Sants-Montjuïc;la Font de la Guatlla;3;106;1;417000;0;3933
+Sants-Montjuïc;Sants - Badal;2;62;0;244000;0;3935
+Horta-Guinardó;la Font d'en Fargues;1;47;0;185000;0;3936
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;4;165;1;650000;0;3939
+Les Corts;les Corts;5;170;1;670000;0;3941
+Sant Martí;el Clot;4;86;1;339000;0;3941
+Ciutat Vella;el Barri Gòtic;3;95;1;375000;0;3947
+Les Corts;les Corts;3;190;1;750000;0;3947
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;100;1;395000;0;3950
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;100;1;395000;0;3950
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;4;100;1;395000;0;3950
+Eixample;la Dreta de l'Eixample;4;110;1;435000;0;3954
+Ciutat Vella;el Raval;2;45;1;178000;0;3955
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;2;91;0;360000;0;3956
+Eixample;el Fort Pienc;2;72;1;285000;0;3958
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;125;1;495000;0;3960
+Eixample;la Dreta de l'Eixample;5;183;1;725000;0;3961
+Eixample;la Dreta de l'Eixample;6;183;1;725000;0;3961
+Sarrià-Sant Gervasi;el Putxet i el Farró;5;165;1;655000;0;3969
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;73;1;290000;0;3972
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;224;1;890000;0;3973
+Sant Andreu;Sant Andreu;3;75;0;298000;0;3973
+Sant Andreu;Sant Andreu;3;75;0;298000;0;3973
+Eixample;l'Antiga Esquerra de l'Eixample;2;75;0;298000;0;3973
+Eixample;la Sagrada Família;3;83;1;330000;0;3975
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;6;510;1;2028400;0;3977
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;88;1;350000;0;3977
+Gràcia;el Camp d'en Grassot i Gràcia Nova;4;88;1;350000;0;3977
+Gràcia;el Camp d'en Grassot i Gràcia Nova;4;93;1;370000;0;3978
+Les Corts;la Maternitat i Sant Ramon;4;108;1;430000;0;3981
+Les Corts;la Maternitat i Sant Ramon;4;108;1;430000;0;3981
+Ciutat Vella;el Barri Gòtic;4;113;1;450000;0;3982
+Sarrià-Sant Gervasi;Sarrià;6;339;1;1350000;0;3982
+Sant Martí;el Clot;3;125;1;498000;0;3984
+Les Corts;Pedralbes;5;148;1;590000;0;3986
+Eixample;la Nova Esquerra de l'Eixample;2;75;1;299000;0;3986
+Eixample;la Nova Esquerra de l'Eixample;2;80;1;319000;0;3987
+Eixample;la Sagrada Família;3;85;1;339000;0;3988
+Sant Martí;el Besòs i el Maresme;3;90;1;359000;0;3988
+Gràcia;el Coll;4;99;1;395000;0;3989
+Eixample;la Sagrada Família;5;198;1;790000;0;3989
+Sarrià-Sant Gervasi;Sarrià;3;125;0;499000;0;3992
+Eixample;el Fort Pienc;5;175;1;699000;0;3994
+Ciutat Vella;la Barceloneta;1;33;0;132000;0;4000
+Ciutat Vella;el Barri Gòtic;2;45;0;180000;0;4000
+Les Corts;les Corts;2;50;1;200000;0;4000
+Ciutat Vella;el Raval;2;50;1;200000;0;4000
+Ciutat Vella;el Raval;2;50;1;200000;0;4000
+Horta-Guinardó;el Baix Guinardó;3;60;1;240000;0;4000
+Eixample;la Nova Esquerra de l'Eixample;3;70;1;280000;0;4000
+Ciutat Vella;el Raval;2;70;1;280000;0;4000
+Gràcia;la Vila de Gràcia;2;80;1;320000;0;4000
+Ciutat Vella;el Barri Gòtic;4;95;1;380000;0;4000
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;95;1;380000;0;4000
+Les Corts;les Corts;4;105;1;420000;0;4000
+Eixample;la Dreta de l'Eixample;3;130;0;520000;0;4000
+Eixample;la Dreta de l'Eixample;3;130;1;520000;0;4000
+Eixample;la Dreta de l'Eixample;3;130;1;520000;0;4000
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;240;1;960000;0;4000
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;7;250;1;1000000;0;4000
+Eixample;la Dreta de l'Eixample;8;630;1;2520000;0;4000
+Horta-Guinardó;Can Baró;2;74;1;296500;0;4006
+Eixample;l'Antiga Esquerra de l'Eixample;2;121;1;485000;0;4008
+Ciutat Vella;el Barri Gòtic;4;212;0;850000;0;4009
+Ciutat Vella;el Barri Gòtic;4;212;1;850000;0;4009
+Les Corts;les Corts;4;96;1;385000;0;4010
+Les Corts;les Corts;4;96;1;385000;0;4010
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;137;1;550000;0;4014
+Eixample;la Nova Esquerra de l'Eixample;2;66;1;265000;0;4015
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;117;0;470000;0;4017
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;6;585;0;2350000;0;4017
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;585;0;2350000;0;4017
+Sarrià-Sant Gervasi;el Putxet i el Farró;2;97;1;390000;0;4020
+Eixample;la Sagrada Família;3;46;0;185000;0;4021
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;246;1;990000;0;4024
+Eixample;la Dreta de l'Eixample;5;118;1;475000;0;4025
+Les Corts;les Corts;2;72;1;290000;0;4027
+Les Corts;les Corts;2;72;1;290000;0;4027
+Horta-Guinardó;Can Baró;1;52;1;209500;0;4028
+Ciutat Vella;el Raval;1;49;0;197500;0;4030
+Sants-Montjuïc;la Font de la Guatlla;3;62;1;250000;0;4032
+Sant Martí;Provençals del Poblenou;3;93;1;375000;0;4032
+Sarrià-Sant Gervasi;Sarrià;3;93;0;375000;0;4032
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;114;1;460000;0;4035
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;3;83;0;335000;0;4036
+Gràcia;la Vila de Gràcia;3;83;1;335000;0;4036
+Eixample;l'Antiga Esquerra de l'Eixample;3;78;1;315000;0;4038
+Eixample;l'Antiga Esquerra de l'Eixample;2;78;1;315000;0;4038
+Les Corts;la Maternitat i Sant Ramon;4;130;1;525000;0;4038
+Ciutat Vella;el Barri Gòtic;4;156;1;630000;0;4038
+Gràcia;Vallcarca i els Penitents;5;260;1;1050000;0;4038
+Eixample;la Sagrada Família;5;172;0;695000;0;4040
+Sant Martí;el Clot;4;69;1;279000;0;4043
+Eixample;la Dreta de l'Eixample;3;110;1;445000;0;4045
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;220;0;890000;0;4045
+Sant Andreu;el Congrés i els Indians;2;84;1;340000;0;4047
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;105;1;425000;0;4047
+Horta-Guinardó;el Baix Guinardó;3;61;1;247000;0;4049
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;242;1;980000;0;4049
+Eixample;la Sagrada Família;2;69;1;279500;0;4050
+Horta-Guinardó;el Carmel;3;98;1;397000;0;4051
+Eixample;la Nova Esquerra de l'Eixample;4;133;1;539000;0;4052
+Ciutat Vella;el Raval;3;86;1;349000;0;4058
+Eixample;l'Antiga Esquerra de l'Eixample;2;85;1;345000;0;4058
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;197;1;800000;0;4060
+Les Corts;la Maternitat i Sant Ramon;3;64;1;260000;0;4062
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;64;1;260000;0;4062
+Sant Martí;el Camp de l'Arpa del Clot;2;80;1;325000;0;4062
+Eixample;la Sagrada Família;4;80;1;325000;0;4062
+Sant Martí;el Clot;4;80;1;325000;0;4062
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;160;1;650000;0;4062
+Eixample;la Dreta de l'Eixample;4;107;1;435000;0;4065
+Eixample;la Dreta de l'Eixample;3;107;1;435000;0;4065
+Eixample;la Sagrada Família;4;91;1;370000;0;4065
+Eixample;l'Antiga Esquerra de l'Eixample;6;166;1;675000;0;4066
+Horta-Guinardó;el Guinardó;3;98;1;398500;0;4066
+Eixample;la Dreta de l'Eixample;8;241;1;980000;0;4066
+Gràcia;la Vila de Gràcia;2;75;0;305000;0;4066
+Sant Andreu;el Congrés i els Indians;3;118;1;480000;0;4067
+Nou Barris;Vilapicina i la Torre Llobeta;1;29;1;118000;0;4068
+Eixample;la Sagrada Família;4;87;1;354000;0;4068
+Ciutat Vella;el Barri Gòtic;3;86;0;350000;0;4069
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;258;1;1050000;0;4069
+Eixample;la Sagrada Família;5;113;1;460000;0;4070
+Sant Andreu;Sant Andreu;2;70;1;285000;0;4071
+Sant Martí;el Clot;2;70;1;285000;0;4071
+Eixample;la Nova Esquerra de l'Eixample;4;146;1;595000;0;4075
+Les Corts;les Corts;3;92;1;375000;0;4076
+Sants-Montjuïc;Sants;3;92;1;375000;0;4076
+Eixample;Sant Antoni;3;65;1;265000;0;4076
+Les Corts;la Maternitat i Sant Ramon;3;130;1;530000;0;4076
+Eixample;la Sagrada Família;4;130;1;530000;0;4076
+Sant Martí;el Clot;3;114;1;465000;0;4078
+Nou Barris;Vilapicina i la Torre Llobeta;2;62;1;253000;0;4080
+Eixample;la Dreta de l'Eixample;3;109;1;445000;0;4082
+Sarrià-Sant Gervasi;les Tres Torres;6;338;1;1380000;0;4082
+Sant Martí;el Clot;3;60;1;245000;0;4083
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;3;170;0;695000;0;4088
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;291;1;1190000;0;4089
+Ciutat Vella;el Barri Gòtic;2;55;0;225000;0;4090
+Eixample;la Sagrada Família;3;66;1;270000;0;4090
+Eixample;la Sagrada Família;3;66;1;270000;0;4090
+Les Corts;les Corts;2;88;1;360000;0;4090
+Eixample;la Nova Esquerra de l'Eixample;2;88;1;360000;0;4090
+Les Corts;les Corts;2;88;1;360000;0;4090
+Les Corts;les Corts;3;110;1;450000;0;4090
+Sarrià-Sant Gervasi;Sarrià;5;121;1;495000;0;4090
+Sants-Montjuïc;la Bordeta;4;103;1;422000;0;4097
+Sant Martí;el Camp de l'Arpa del Clot;3;72;0;295000;0;4097
+Sants-Montjuïc;la Marina de Port;3;72;1;295000;0;4097
+Ciutat Vella;el Raval;1;61;1;250000;0;4098
+Ciutat Vella;la Barceloneta;2;39;1;159900;0;4100
+Les Corts;les Corts;3;97;1;398000;0;4103
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;329;1;1350000;0;4103
+Ciutat Vella;el Raval;1;29;0;119000;0;4103
+Eixample;l'Antiga Esquerra de l'Eixample;4;95;1;390000;0;4105
+Les Corts;les Corts;3;85;1;349000;0;4105
+Eixample;la Sagrada Família;3;73;1;300000;0;4109
+Eixample;la Dreta de l'Eixample;5;209;1;859000;0;4110
+Sant Martí;Provençals del Poblenou;4;90;1;370000;0;4111
+Eixample;la Nova Esquerra de l'Eixample;4;90;1;370000;0;4111
+Sant Martí;el Parc i la Llacuna del Poblenou;2;71;1;292000;0;4112
+Les Corts;les Corts;4;97;1;399000;0;4113
+Sants-Montjuïc;Sants;1;68;0;280000;0;4117
+Sant Martí;el Camp de l'Arpa del Clot;2;51;1;210000;0;4117
+Eixample;la Sagrada Família;3;68;1;280000;0;4117
+Eixample;la Nova Esquerra de l'Eixample;2;91;1;375000;0;4120
+Eixample;la Nova Esquerra de l'Eixample;3;91;1;375000;0;4120
+Eixample;el Fort Pienc;9;165;1;680000;0;4121
+Sant Martí;el Camp de l'Arpa del Clot;3;104;1;429000;0;4125
+Gràcia;Vallcarca i els Penitents;3;120;1;495000;0;4125
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;120;1;495000;0;4125
+Gràcia;el Coll;3;86;1;355000;0;4127
+Eixample;la Sagrada Família;3;70;1;289000;0;4128
+Gràcia;la Vila de Gràcia;2;70;0;289000;0;4128
+Sarrià-Sant Gervasi;Sarrià;7;339;1;1400000;0;4129
+Ciutat Vella;el Barri Gòtic;2;92;0;380000;0;4130
+Ciutat Vella;el Barri Gòtic;2;92;0;380000;0;4130
+Eixample;la Nova Esquerra de l'Eixample;3;87;1;360000;0;4137
+Sants-Montjuïc;Sants;3;87;1;360000;0;4137
+Les Corts;les Corts;3;87;1;360000;0;4137
+Eixample;la Nova Esquerra de l'Eixample;4;94;1;389000;0;4138
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;4;273;0;1130000;0;4139
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;93;1;385000;0;4139
+Horta-Guinardó;Sant Genís dels Agudells;3;128;0;530000;0;4140
+Sant Martí;el Parc i la Llacuna del Poblenou;4;70;1;290000;0;4142
+Les Corts;la Maternitat i Sant Ramon;2;48;1;199000;0;4145
+Eixample;la Nova Esquerra de l'Eixample;3;82;1;340000;0;4146
+Sants-Montjuïc;Sants;3;88;1;365000;0;4147
+Les Corts;les Corts;3;88;1;365000;0;4147
+Ciutat Vella;el Raval;3;60;1;249000;0;4150
+Sants-Montjuïc;Sants;3;60;1;249000;0;4150
+Les Corts;les Corts;4;120;1;498000;0;4150
+Les Corts;les Corts;6;289;1;1200000;0;4152
+Eixample;l'Antiga Esquerra de l'Eixample;4;140;1;582000;0;4157
+Les Corts;Pedralbes;3;95;1;395000;0;4157
+Gràcia;la Vila de Gràcia;4;120;0;499000;0;4158
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;144;1;599000;0;4159
+Horta-Guinardó;el Guinardó;4;187;1;778000;0;4160
+Horta-Guinardó;el Carmel;3;62;1;258000;0;4161
+Eixample;Sant Antoni;4;167;1;695000;0;4161
+Eixample;la Dreta de l'Eixample;6;216;1;899000;0;4162
+Eixample;l'Antiga Esquerra de l'Eixample;6;185;1;770000;0;4162
+Eixample;la Nova Esquerra de l'Eixample;2;43;0;179000;0;4162
+Les Corts;Pedralbes;5;598;1;2490000;0;4163
+Les Corts;Pedralbes;3;598;1;2490000;0;4163
+Gràcia;la Vila de Gràcia;3;79;0;329000;0;4164
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;1;72;1;300000;0;4166
+Sant Martí;el Clot;4;78;1;325000;0;4166
+Eixample;la Sagrada Família;4;90;1;375000;0;4166
+Eixample;la Nova Esquerra de l'Eixample;4;120;1;500000;0;4166
+Eixample;la Nova Esquerra de l'Eixample;5;180;1;750000;0;4166
+Eixample;la Dreta de l'Eixample;6;175;1;730000;0;4171
+Ciutat Vella;el Barri Gòtic;3;86;0;359000;0;4174
+Sant Andreu;Sant Andreu;3;85;1;355000;0;4176
+Eixample;la Sagrada Família;3;79;1;330000;0;4177
+Sant Martí;el Clot;2;50;1;209000;0;4180
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;98;1;410000;0;4183
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;5;264;1;1105300;0;4186
+Ciutat Vella;el Barri Gòtic;3;80;0;335000;0;4187
+Eixample;la Dreta de l'Eixample;4;142;1;595000;0;4190
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;1;68;0;285000;0;4191
+Eixample;la Dreta de l'Eixample;4;93;1;390000;0;4193
+Eixample;la Nova Esquerra de l'Eixample;4;124;1;520000;0;4193
+Horta-Guinardó;la Font d'en Fargues;3;113;1;474000;0;4194
+Ciutat Vella;el Barri Gòtic;2;118;1;495000;0;4194
+Eixample;la Nova Esquerra de l'Eixample;3;87;1;365000;0;4195
+Eixample;Sant Antoni;3;87;1;365000;0;4195
+Gràcia;la Vila de Gràcia;3;137;1;575000;0;4197
+Eixample;l'Antiga Esquerra de l'Eixample;5;131;1;550000;0;4198
+Ciutat Vella;el Barri Gòtic;1;50;0;210000;0;4200
+Eixample;la Sagrada Família;3;50;1;210000;0;4200
+Eixample;la Nova Esquerra de l'Eixample;4;100;1;420000;0;4200
+Eixample;la Nova Esquerra de l'Eixample;4;100;1;420000;0;4200
+Sant Martí;el Parc i la Llacuna del Poblenou;4;100;1;420000;0;4200
+Gràcia;la Vila de Gràcia;4;125;1;525000;0;4200
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;332;1;1395000;0;4201
+Les Corts;les Corts;4;113;1;475000;0;4203
+Eixample;la Nova Esquerra de l'Eixample;2;44;1;185000;0;4204
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;176;1;740000;0;4204
+Nou Barris;Porta;4;107;1;450000;0;4205
+Gràcia;el Camp d'en Grassot i Gràcia Nova;2;63;1;265000;0;4206
+Gràcia;el Camp d'en Grassot i Gràcia Nova;2;63;1;265000;0;4206
+Eixample;Sant Antoni;4;95;1;400000;0;4210
+Eixample;Sant Antoni;2;71;1;299000;0;4211
+Eixample;l'Antiga Esquerra de l'Eixample;4;159;1;670000;0;4213
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;1;70;1;295000;0;4214
+Eixample;la Sagrada Família;2;51;1;215000;0;4215
+Sant Andreu;Sant Andreu;4;102;1;430000;0;4215
+Sant Andreu;Sant Andreu;3;102;1;430000;0;4215
+Eixample;Sant Antoni;6;185;1;780000;0;4216
+Les Corts;la Maternitat i Sant Ramon;4;83;1;350000;0;4216
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;211;1;890000;0;4218
+Eixample;la Sagrada Família;5;160;1;675000;0;4218
+Eixample;Sant Antoni;4;109;1;460000;0;4220
+Sant Martí;el Poblenou;3;68;1;287000;0;4220
+Sant Martí;el Clot;3;77;1;325000;0;4220
+Sant Martí;el Poblenou;4;90;1;380000;0;4222
+Sant Martí;el Clot;3;58;1;245000;0;4224
+Eixample;el Fort Pienc;3;110;1;465000;0;4227
+Gràcia;el Camp d'en Grassot i Gràcia Nova;4;117;0;495000;0;4230
+Sarrià-Sant Gervasi;Sarrià;7;319;1;1350000;0;4231
+Nou Barris;Vilapicina i la Torre Llobeta;1;47;1;199000;0;4234
+Horta-Guinardó;el Guinardó;2;83;1;351500;0;4234
+Eixample;l'Antiga Esquerra de l'Eixample;2;141;1;597500;0;4237
+Horta-Guinardó;el Guinardó;3;46;0;195000;0;4239
+Gràcia;Vallcarca i els Penitents;4;92;1;390000;0;4239
+Eixample;la Dreta de l'Eixample;7;184;1;780000;0;4239
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;120;1;509000;0;4241
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;99;0;420000;0;4242
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;86;1;365000;0;4244
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;53;0;225000;0;4245
+Sarrià-Sant Gervasi;el Putxet i el Farró;1;73;1;310000;0;4246
+Sant Martí;el Besòs i el Maresme;5;206;1;874800;0;4246
+Sant Martí;el Besòs i el Maresme;5;206;1;874800;0;4246
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;93;1;395000;0;4247
+Les Corts;Pedralbes;3;93;1;395000;0;4247
+Nou Barris;la Prosperitat;2;60;1;254900;0;4248
+Eixample;la Dreta de l'Eixample;6;153;1;650000;0;4248
+Ciutat Vella;el Raval;1;40;0;170000;0;4250
+Horta-Guinardó;el Carmel;2;56;1;238000;0;4250
+Sant Andreu;el Congrés i els Indians;2;80;1;340000;0;4250
+Les Corts;la Maternitat i Sant Ramon;4;80;1;340000;0;4250
+Gràcia;Vallcarca i els Penitents;3;140;1;595000;0;4250
+Eixample;la Nova Esquerra de l'Eixample;4;148;1;629000;0;4250
+Eixample;Sant Antoni;4;148;1;629000;0;4250
+Eixample;la Sagrada Família;3;180;1;765000;0;4250
+Sants-Montjuïc;Sants;4;127;1;540000;0;4251
+Sants-Montjuïc;Sants - Badal;3;115;1;489000;0;4252
+Sarrià-Sant Gervasi;les Tres Torres;7;435;1;1850000;0;4252
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;47;0;199900;0;4253
+Ciutat Vella;el Raval;2;75;1;319000;0;4253
+Horta-Guinardó;el Carmel;3;63;1;268000;0;4253
+Sants-Montjuïc;la Marina de Port;4;118;1;502000;0;4254
+Nou Barris;Vilapicina i la Torre Llobeta;2;55;1;234000;0;4254
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;1;47;1;200000;0;4255
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;74;0;315000;0;4256
+Sants-Montjuïc;Sants - Badal;4;128;1;545000;0;4257
+Sant Martí;el Clot;3;135;1;575000;0;4259
+Gràcia;la Vila de Gràcia;4;88;1;375000;0;4261
+Eixample;la Dreta de l'Eixample;4;176;1;750000;0;4261
+Eixample;Sant Antoni;3;129;1;550000;0;4263
+Sarrià-Sant Gervasi;el Putxet i el Farró;6;258;1;1100000;0;4263
+Eixample;el Fort Pienc;3;110;1;469000;0;4263
+Eixample;la Dreta de l'Eixample;5;117;1;499000;0;4264
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;150;1;640000;0;4266
+Eixample;la Nova Esquerra de l'Eixample;3;82;1;350000;0;4268
+Eixample;la Sagrada Família;4;89;1;380000;0;4269
+Sants-Montjuïc;la Font de la Guatlla;3;70;1;299000;0;4271
+Sant Martí;el Camp de l'Arpa del Clot;1;55;1;235000;0;4272
+Gràcia;el Coll;2;110;1;470000;0;4272
+Eixample;la Dreta de l'Eixample;4;179;1;765000;0;4273
+Eixample;Sant Antoni;3;84;1;359000;0;4273
+Eixample;l'Antiga Esquerra de l'Eixample;4;124;1;530000;0;4274
+Gràcia;la Vila de Gràcia;3;91;1;389000;0;4274
+Eixample;la Dreta de l'Eixample;3;131;1;560000;0;4274
+Ciutat Vella;el Barri Gòtic;3;76;0;325000;0;4276
+Eixample;la Dreta de l'Eixample;5;159;1;680000;0;4276
+Eixample;la Dreta de l'Eixample;5;159;1;680000;0;4276
+Eixample;la Dreta de l'Eixample;3;90;0;385000;0;4277
+Sant Martí;el Besòs i el Maresme;5;201;1;860000;0;4278
+Sant Martí;el Besòs i el Maresme;5;201;1;860000;0;4278
+Eixample;la Dreta de l'Eixample;3;104;1;445000;0;4278
+Eixample;l'Antiga Esquerra de l'Eixample;2;139;1;595000;0;4280
+Sants-Montjuïc;Hostafrancs;3;109;1;467000;0;4284
+Eixample;la Nova Esquerra de l'Eixample;4;140;1;599850;0;4284
+Les Corts;les Corts;2;49;1;210000;0;4285
+Sant Andreu;el Congrés i els Indians;2;84;1;360000;0;4285
+Eixample;el Fort Pienc;5;161;1;690000;0;4285
+Ciutat Vella;el Barri Gòtic;5;161;1;690000;0;4285
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;3;155;0;665000;0;4290
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;148;1;635000;0;4290
+Les Corts;la Maternitat i Sant Ramon;4;127;1;545000;0;4291
+Eixample;la Nova Esquerra de l'Eixample;3;92;1;395000;0;4293
+Eixample;l'Antiga Esquerra de l'Eixample;4;92;1;395000;0;4293
+Eixample;l'Antiga Esquerra de l'Eixample;4;170;1;730000;0;4294
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;149;1;640000;0;4295
+Gràcia;el Camp d'en Grassot i Gràcia Nova;2;64;1;275000;0;4296
+Sant Andreu;Sant Andreu;4;114;1;490000;0;4298
+Sants-Montjuïc;Sants - Badal;2;67;1;288000;0;4298
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;107;1;460000;0;4299
+Eixample;la Dreta de l'Eixample;4;100;1;430000;0;4300
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;100;1;430000;0;4300
+Eixample;la Dreta de l'Eixample;6;158;1;680000;0;4303
+Gràcia;Vallcarca i els Penitents;2;65;1;280000;0;4307
+Les Corts;les Corts;3;131;1;564900;0;4312
+Eixample;la Dreta de l'Eixample;5;160;1;690000;0;4312
+Sant Martí;el Clot;2;83;1;358000;0;4313
+Sant Martí;el Parc i la Llacuna del Poblenou;3;67;0;289000;0;4313
+Eixample;l'Antiga Esquerra de l'Eixample;4;102;1;440000;0;4313
+Eixample;la Dreta de l'Eixample;3;95;1;410000;0;4315
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;3;300;0;1295000;0;4316
+Sant Martí;el Poblenou;1;41;0;177000;0;4317
+Sant Martí;el Poblenou;1;41;0;177000;0;4317
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;220;0;950000;0;4318
+Sant Andreu;la Sagrera;2;56;1;242000;0;4321
+Sant Andreu;la Sagrera;2;56;1;242000;0;4321
+Sants-Montjuïc;la Marina de Port;2;59;1;255000;0;4322
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;7;391;1;1690000;0;4322
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;7;391;1;1690000;0;4322
+Sarrià-Sant Gervasi;les Tres Torres;5;215;1;930000;0;4325
+Eixample;la Sagrada Família;4;89;1;385000;0;4325
+Les Corts;la Maternitat i Sant Ramon;4;101;1;437000;0;4326
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;320;1;1385000;0;4328
+Ciutat Vella;el Barri Gòtic;3;194;1;840000;0;4329
+Les Corts;les Corts;4;127;1;550000;0;4330
+Les Corts;la Maternitat i Sant Ramon;4;101;1;437500;0;4331
+Sant Martí;el Poblenou;2;60;0;259999;0;4333
+Eixample;la Nova Esquerra de l'Eixample;1;60;1;260000;0;4333
+Les Corts;la Maternitat i Sant Ramon;3;60;1;260000;0;4333
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;60;1;260000;0;4333
+Sant Martí;el Camp de l'Arpa del Clot;3;69;1;299000;0;4333
+Eixample;la Sagrada Família;4;75;1;325000;0;4333
+Sant Martí;el Poblenou;2;90;0;390000;0;4333
+Eixample;l'Antiga Esquerra de l'Eixample;4;90;1;390000;0;4333
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;92;1;399000;0;4336
+Sant Martí;el Clot;2;92;1;399000;0;4336
+Sant Martí;el Poblenou;3;83;1;360000;0;4337
+Eixample;la Nova Esquerra de l'Eixample;4;83;1;360000;0;4337
+Sant Martí;el Parc i la Llacuna del Poblenou;4;158;1;685500;0;4338
+Eixample;la Dreta de l'Eixample;4;152;1;660000;0;4342
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;6;274;1;1190000;0;4343
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;6;274;1;1190000;0;4343
+Sant Martí;el Clot;3;99;1;430000;0;4343
+Sant Martí;el Poblenou;3;69;1;300000;0;4347
+Eixample;la Nova Esquerra de l'Eixample;3;100;1;435000;0;4350
+Horta-Guinardó;el Guinardó;3;100;1;435000;0;4350
+Sant Martí;el Clot;2;48;1;209000;0;4354
+Eixample;la Nova Esquerra de l'Eixample;3;93;1;405000;0;4354
+Sants-Montjuïc;Sants;3;93;1;405000;0;4354
+Eixample;la Nova Esquerra de l'Eixample;4;124;1;540000;0;4354
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;179;1;780000;0;4357
+Eixample;la Nova Esquerra de l'Eixample;4;109;1;475000;0;4357
+Eixample;la Nova Esquerra de l'Eixample;4;109;1;475000;0;4357
+Eixample;Sant Antoni;3;78;1;340000;0;4358
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;273;1;1190000;0;4358
+Eixample;la Sagrada Família;3;80;1;349000;0;4362
+Eixample;la Sagrada Família;3;96;1;419000;0;4364
+Eixample;Sant Antoni;3;79;1;345000;0;4367
+Sant Andreu;Sant Andreu;3;87;1;380000;0;4367
+Gràcia;la Vila de Gràcia;2;64;1;280000;0;4375
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;96;1;420000;0;4375
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;144;1;630000;0;4375
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;5;152;1;665000;0;4375
+Les Corts;les Corts;3;82;1;359000;0;4378
+Gràcia;la Vila de Gràcia;1;64;1;280250;0;4378
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;97;1;425000;0;4381
+Gràcia;la Vila de Gràcia;3;52;0;228000;0;4384
+Sant Martí;el Clot;4;130;1;570000;0;4384
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;114;1;500000;0;4385
+Sarrià-Sant Gervasi;el Putxet i el Farró;2;114;1;500000;0;4385
+Eixample;el Fort Pienc;4;98;1;430000;0;4387
+Les Corts;les Corts;3;90;1;395000;0;4388
+Gràcia;la Vila de Gràcia;2;74;0;325000;0;4391
+Gràcia;la Vila de Gràcia;2;74;0;325000;0;4391
+Gràcia;Vallcarca i els Penitents;5;222;0;975000;0;4391
+Sant Andreu;la Sagrera;3;104;1;457000;0;4394
+Horta-Guinardó;el Carmel;2;50;1;220000;0;4400
+Sant Andreu;la Sagrera;3;105;1;462000;0;4400
+Les Corts;les Corts;4;125;1;550000;0;4400
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;250;1;1100000;0;4400
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;250;1;1100000;0;4400
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;3;250;1;1100000;0;4400
+Eixample;la Dreta de l'Eixample;5;250;1;1100000;0;4400
+Sant Andreu;Sant Andreu;4;109;1;480000;0;4403
+Eixample;l'Antiga Esquerra de l'Eixample;5;109;0;480000;0;4403
+Eixample;l'Antiga Esquerra de l'Eixample;3;76;1;335000;0;4407
+Eixample;la Dreta de l'Eixample;5;141;1;622000;0;4411
+Gràcia;el Camp d'en Grassot i Gràcia Nova;4;85;1;375000;0;4411
+Eixample;l'Antiga Esquerra de l'Eixample;3;111;1;490000;0;4414
+Eixample;la Dreta de l'Eixample;4;77;1;340000;0;4415
+Sant Andreu;Navas;2;77;1;340000;0;4415
+Sant Andreu;Navas;2;77;1;340000;0;4415
+Eixample;la Nova Esquerra de l'Eixample;4;180;1;795000;0;4416
+Horta-Guinardó;la Font d'en Fargues;3;112;1;495000;0;4419
+Les Corts;les Corts;3;88;1;389000;0;4420
+Sarrià-Sant Gervasi;les Tres Torres;5;285;1;1260000;0;4421
+Gràcia;la Vila de Gràcia;4;130;1;575000;0;4423
+Eixample;la Nova Esquerra de l'Eixample;3;87;1;385000;0;4425
+Eixample;la Dreta de l'Eixample;3;140;1;620000;0;4428
+Eixample;la Dreta de l'Eixample;4;140;1;620000;0;4428
+Eixample;la Dreta de l'Eixample;5;140;1;620000;0;4428
+Eixample;la Nova Esquerra de l'Eixample;3;90;1;399000;0;4433
+Sant Martí;el Poblenou;1;53;0;235000;0;4433
+Ciutat Vella;el Barri Gòtic;2;53;0;235000;0;4433
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;2;62;0;275000;0;4435
+Sants-Montjuïc;la Marina de Port;3;98;1;435000;0;4438
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;5;180;1;799000;0;4438
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;134;1;595000;0;4440
+Eixample;la Nova Esquerra de l'Eixample;3;152;1;675000;0;4440
+Horta-Guinardó;el Baix Guinardó;3;90;1;400000;0;4444
+Eixample;la Dreta de l'Eixample;3;90;1;400000;0;4444
+Eixample;la Dreta de l'Eixample;2;119;1;529000;0;4445
+Sarrià-Sant Gervasi;les Tres Torres;4;335;0;1490000;0;4447
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;200;1;890000;0;4450
+Eixample;Sant Antoni;3;112;1;499000;0;4455
+Les Corts;les Corts;3;101;1;450000;0;4455
+Eixample;la Sagrada Família;3;85;1;379000;0;4458
+Sants-Montjuïc;Sants - Badal;2;37;1;165000;0;4459
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;4;111;1;495000;0;4459
+Gràcia;el Camp d'en Grassot i Gràcia Nova;2;65;1;290000;0;4461
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;130;1;580000;0;4461
+Sarrià-Sant Gervasi;Sarrià;5;143;1;638000;0;4461
+Eixample;la Nova Esquerra de l'Eixample;3;93;1;415000;0;4462
+Sarrià-Sant Gervasi;les Tres Torres;5;168;1;750000;0;4464
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;103;1;460000;0;4466
+Horta-Guinardó;el Carmel;2;75;1;335000;0;4466
+Les Corts;les Corts;3;76;1;339500;0;4467
+Eixample;la Sagrada Família;2;47;1;210000;0;4468
+Eixample;la Sagrada Família;2;47;1;210000;0;4468
+Eixample;la Sagrada Família;4;94;1;420000;0;4468
+Nou Barris;la Prosperitat;3;66;1;295000;0;4469
+Eixample;l'Antiga Esquerra de l'Eixample;3;66;1;295000;0;4469
+Eixample;la Nova Esquerra de l'Eixample;3;85;1;380000;0;4470
+Sants-Montjuïc;la Marina de Port;4;102;1;456000;0;4470
+Sants-Montjuïc;Sants;2;76;1;340000;0;4473
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;1;20;1;89500;0;4475
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;1;40;0;179000;0;4475
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;200;1;895000;0;4475
+Les Corts;Pedralbes;4;400;1;1790000;0;4475
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;145;1;649000;0;4475
+Gràcia;el Coll;2;105;1;470000;0;4476
+Sants-Montjuïc;Sants - Badal;2;88;1;394000;0;4477
+Sant Andreu;Navas;2;77;1;345000;0;4480
+Sant Martí;el Camp de l'Arpa del Clot;2;56;1;251000;0;4482
+Eixample;Sant Antoni;4;155;1;695000;0;4483
+Sant Andreu;Sant Andreu;3;88;1;395000;0;4488
+Sarrià-Sant Gervasi;les Tres Torres;6;412;1;1850000;0;4490
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;167;1;750000;0;4491
+Nou Barris;Vilapicina i la Torre Llobeta;2;61;1;274000;0;4491
+Horta-Guinardó;la Font d'en Fargues;4;130;1;584000;0;4492
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;69;1;310000;0;4492
+Sant Andreu;el Congrés i els Indians;2;73;1;328000;0;4493
+Horta-Guinardó;el Carmel;2;75;1;337000;0;4493
+Sants-Montjuïc;Sants - Badal;1;79;1;355000;0;4493
+Eixample;l'Antiga Esquerra de l'Eixample;2;89;1;400000;0;4494
+Eixample;la Dreta de l'Eixample;3;89;1;400000;0;4494
+Sant Martí;el Camp de l'Arpa del Clot;3;91;1;409000;0;4494
+Sant Martí;el Parc i la Llacuna del Poblenou;2;122;1;548400;0;4495
+Sants-Montjuïc;Hostafrancs;1;20;0;90000;0;4500
+Sants-Montjuïc;Hostafrancs;1;30;0;135000;0;4500
+Sant Martí;el Poblenou;3;50;1;225000;0;4500
+Horta-Guinardó;el Guinardó;3;100;1;450000;0;4500
+Ciutat Vella;el Barri Gòtic;2;100;1;450000;0;4500
+Ciutat Vella;el Barri Gòtic;2;100;1;450000;0;4500
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;100;1;450000;0;4500
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;110;1;495000;0;4500
+Sarrià-Sant Gervasi;les Tres Torres;5;280;1;1260000;0;4500
+Sant Andreu;Sant Andreu;4;91;1;410000;0;4505
+Sant Martí;el Clot;2;81;1;365000;0;4506
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;162;1;730000;0;4506
+Ciutat Vella;el Barri Gòtic;3;144;1;650000;0;4513
+Gràcia;el Coll;4;103;1;465000;0;4514
+Eixample;l'Antiga Esquerra de l'Eixample;2;62;1;280000;0;4516
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;104;1;470000;0;4519
+Sant Martí;el Poblenou;2;104;1;470000;0;4519
+Les Corts;la Maternitat i Sant Ramon;3;94;1;425000;0;4521
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;1;63;0;285000;0;4523
+Sant Andreu;Sant Andreu;3;84;1;380000;0;4523
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;126;1;570000;0;4523
+Les Corts;la Maternitat i Sant Ramon;4;95;1;430000;0;4526
+Les Corts;Pedralbes;4;190;0;860000;0;4526
+Eixample;la Nova Esquerra de l'Eixample;4;132;1;598000;0;4530
+Horta-Guinardó;el Baix Guinardó;3;64;1;290000;0;4531
+Sant Andreu;la Sagrera;4;128;1;580000;0;4531
+Eixample;la Sagrada Família;3;88;1;399000;0;4534
+Sants-Montjuïc;Sants - Badal;2;88;1;399000;0;4534
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;1;86;1;390000;0;4534
+Eixample;Sant Antoni;3;140;1;635000;0;4535
+Eixample;la Nova Esquerra de l'Eixample;5;97;1;440000;0;4536
+Eixample;l'Antiga Esquerra de l'Eixample;2;132;1;599000;0;4537
+Eixample;la Sagrada Família;2;65;1;295000;0;4538
+Eixample;el Fort Pienc;3;87;1;395000;0;4540
+Eixample;la Nova Esquerra de l'Eixample;4;120;1;545000;0;4541
+Sant Martí;la Vila Olímpica del Poblenou;3;131;1;595000;0;4541
+Sant Martí;el Clot;3;101;1;459000;0;4544
+Eixample;el Fort Pienc;1;77;1;350000;0;4545
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;3;121;1;550000;0;4545
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;90;1;410000;0;4555
+Gràcia;la Vila de Gràcia;2;70;1;319000;0;4557
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;350;1;1595000;0;4557
+Horta-Guinardó;el Baix Guinardó;3;113;1;515000;0;4557
+Horta-Guinardó;Horta;3;91;1;415000;0;4560
+Horta-Guinardó;Horta;3;91;1;415000;0;4560
+Sarrià-Sant Gervasi;Sarrià;6;296;0;1350000;0;4560
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;217;1;990000;0;4562
+Sarrià-Sant Gervasi;les Tres Torres;5;217;0;990000;0;4562
+Eixample;Sant Antoni;3;80;1;365000;0;4562
+Horta-Guinardó;la Teixonera;2;53;1;241815;0;4562
+Sant Martí;el Clot;3;103;1;470000;0;4563
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;3;151;1;690000;0;4569
+Sarrià-Sant Gervasi;el Putxet i el Farró;2;151;1;690000;0;4569
+Sarrià-Sant Gervasi;Sarrià;4;128;1;585000;0;4570
+Ciutat Vella;la Barceloneta;2;35;0;160000;0;4571
+Sants-Montjuïc;Sants;3;140;1;640000;0;4571
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;152;1;695000;0;4572
+Les Corts;la Maternitat i Sant Ramon;4;92;1;420708;0;4572
+Eixample;la Dreta de l'Eixample;2;96;1;439000;0;4572
+Nou Barris;Vilapicina i la Torre Llobeta;2;42;1;192100;0;4573
+Eixample;Sant Antoni;3;85;1;389000;0;4576
+Sant Andreu;la Sagrera;3;84;1;385000;0;4583
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;169;1;775000;0;4585
+Eixample;la Nova Esquerra de l'Eixample;3;87;1;399000;0;4586
+Eixample;la Nova Esquerra de l'Eixample;4;109;1;500000;0;4587
+Les Corts;Pedralbes;7;739;0;3390000;0;4587
+Eixample;la Nova Esquerra de l'Eixample;4;97;1;445000;0;4587
+Eixample;la Dreta de l'Eixample;5;146;1;670000;0;4589
+Les Corts;la Maternitat i Sant Ramon;4;147;1;675000;0;4591
+Eixample;la Dreta de l'Eixample;6;196;1;900000;0;4591
+Eixample;Sant Antoni;4;87;1;399500;0;4591
+Sant Martí;el Poblenou;3;70;1;321500;0;4592
+Eixample;Sant Antoni;6;185;1;850000;0;4594
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;173;1;795000;0;4595
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;4;173;1;795000;0;4595
+Horta-Guinardó;el Baix Guinardó;1;50;0;230000;0;4600
+Eixample;la Sagrada Família;5;250;1;1150000;0;4600
+Sarrià-Sant Gervasi;Sarrià;5;380;0;1750000;0;4605
+Sant Andreu;Navas;2;56;1;258000;0;4607
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;115;1;530000;0;4608
+Gràcia;la Vila de Gràcia;1;64;1;295000;0;4609
+Sant Andreu;Navas;2;77;1;355000;0;4610
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;90;1;415000;0;4611
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;90;1;415000;0;4611
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;53;1;244500;0;4613
+Sants-Montjuïc;Sants - Badal;3;107;1;493718;0;4614
+Eixample;el Fort Pienc;3;65;1;300000;0;4615
+Sants-Montjuïc;Sants;3;78;1;360000;0;4615
+Sants-Montjuïc;Sants;3;78;1;360000;0;4615
+Horta-Guinardó;el Guinardó;3;78;1;360000;0;4615
+Ciutat Vella;el Raval;3;117;1;540000;0;4615
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;6;325;1;1500000;0;4615
+Sants-Montjuïc;Sants;2;82;1;379000;0;4621
+Gràcia;la Vila de Gràcia;3;107;1;495000;0;4626
+Horta-Guinardó;el Baix Guinardó;3;54;1;250000;0;4629
+Sants-Montjuïc;Sants - Badal;2;81;1;375000;0;4629
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;270;1;1250000;0;4629
+Sant Martí;el Camp de l'Arpa del Clot;3;68;1;315000;0;4632
+Eixample;el Fort Pienc;4;150;1;695000;0;4633
+Eixample;l'Antiga Esquerra de l'Eixample;2;82;1;380000;0;4634
+Eixample;la Nova Esquerra de l'Eixample;5;162;1;752000;0;4641
+Sant Martí;el Parc i la Llacuna del Poblenou;3;124;1;575700;0;4642
+Sant Andreu;la Sagrera;3;84;1;390000;0;4642
+Ciutat Vella;el Barri Gòtic;2;140;1;650000;0;4642
+Eixample;la Dreta de l'Eixample;3;129;1;599000;0;4643
+Sant Martí;el Clot;2;45;1;209000;0;4644
+Sant Andreu;el Congrés i els Indians;3;90;1;418000;0;4644
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;3;121;1;562000;0;4644
+Ciutat Vella;la Barceloneta;1;34;0;158000;0;4647
+Sant Andreu;la Sagrera;3;85;1;395000;0;4647
+Ciutat Vella;el Raval;2;128;1;595000;0;4648
+Les Corts;Pedralbes;4;185;0;860000;0;4648
+Les Corts;Pedralbes;4;185;0;860000;0;4648
+Horta-Guinardó;la Teixonera;2;53;1;246467;0;4650
+Sarrià-Sant Gervasi;Sarrià;2;86;1;400000;0;4651
+Sant Andreu;Sant Andreu;3;86;1;400000;0;4651
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;72;1;335000;0;4652
+Sants-Montjuïc;Sants - Badal;2;72;1;335000;0;4652
+Les Corts;les Corts;4;144;1;670000;0;4652
+Sant Martí;el Camp de l'Arpa del Clot;2;55;1;256000;0;4654
+Sarrià-Sant Gervasi;el Putxet i el Farró;2;88;1;410000;0;4659
+Gràcia;la Vila de Gràcia;3;118;1;550000;0;4661
+Gràcia;la Vila de Gràcia;3;118;1;550000;0;4661
+Gràcia;la Vila de Gràcia;4;118;1;550000;0;4661
+Gràcia;la Salut;1;75;1;350000;0;4666
+Les Corts;la Maternitat i Sant Ramon;4;90;1;420000;0;4666
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;105;1;490000;0;4666
+Les Corts;Pedralbes;7;360;1;1680000;0;4666
+Les Corts;Pedralbes;3;106;1;495000;0;4669
+Eixample;la Sagrada Família;3;94;1;439000;0;4670
+Horta-Guinardó;Horta;3;91;1;425000;0;4670
+Sants-Montjuïc;Sants;3;137;1;640000;0;4671
+Eixample;l'Antiga Esquerra de l'Eixample;3;122;1;570000;0;4672
+Horta-Guinardó;la Teixonera;2;53;1;247633;0;4672
+Gràcia;la Vila de Gràcia;3;107;1;500000;0;4672
+Eixample;la Nova Esquerra de l'Eixample;4;170;1;795000;0;4676
+Sant Andreu;Navas;2;56;1;262000;0;4678
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;188;1;880000;0;4680
+Gràcia;el Camp d'en Grassot i Gràcia Nova;2;63;1;295000;0;4682
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;190;1;890000;0;4684
+Les Corts;les Corts;2;80;1;375000;0;4687
+Eixample;la Dreta de l'Eixample;3;128;1;600000;0;4687
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;160;1;750000;0;4687
+Nou Barris;Vilapicina i la Torre Llobeta;2;74;1;347000;0;4689
+Les Corts;Pedralbes;5;177;1;830000;0;4689
+Ciutat Vella;el Raval;3;145;1;680000;0;4689
+Eixample;el Fort Pienc;3;100;1;469000;0;4690
+Eixample;el Fort Pienc;3;100;1;469000;0;4690
+Eixample;el Fort Pienc;3;113;1;530000;0;4690
+Sants-Montjuïc;la Bordeta;4;115;1;540000;0;4695
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;148;1;695000;0;4695
+Les Corts;les Corts;8;447;1;2100000;0;4697
+Sant Martí;el Poblenou;2;63;1;296000;0;4698
+Ciutat Vella;la Barceloneta;2;83;1;390000;0;4698
+Eixample;la Sagrada Família;2;83;1;390000;0;4698
+Eixample;la Dreta de l'Eixample;4;117;1;550000;0;4700
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;3;234;1;1100000;0;4700
+Sant Martí;el Poblenou;2;67;1;315000;0;4701
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;1;57;0;268000;0;4701
+Sarrià-Sant Gervasi;Sarrià;4;101;1;475000;0;4702
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;101;1;475000;0;4702
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;202;1;950000;0;4702
+Horta-Guinardó;la Font d'en Fargues;2;68;1;320000;0;4705
+Les Corts;les Corts;3;55;1;259000;0;4709
+Sant Andreu;Sant Andreu;3;86;1;405000;0;4709
+Eixample;la Nova Esquerra de l'Eixample;4;190;1;895000;0;4710
+Gràcia;la Vila de Gràcia;4;70;1;330000;0;4714
+Sants-Montjuïc;Sants - Badal;2;81;1;382000;0;4716
+Gràcia;la Vila de Gràcia;2;74;0;349000;0;4716
+Sant Martí;Provençals del Poblenou;2;148;1;698000;0;4716
+Sarrià-Sant Gervasi;Sarrià;5;339;1;1600000;0;4719
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;3;125;1;590000;0;4720
+Gràcia;la Vila de Gràcia;3;175;1;826000;0;4720
+Sants-Montjuïc;Sants - Badal;2;72;1;340000;0;4722
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;180;1;850000;0;4722
+Eixample;la Dreta de l'Eixample;3;131;1;619000;0;4725
+Ciutat Vella;el Barri Gòtic;3;131;1;619000;0;4725
+Sants-Montjuïc;Sants;3;91;1;430000;0;4725
+Horta-Guinardó;el Guinardó;3;95;1;449000;0;4726
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;5;139;1;657000;0;4726
+Nou Barris;Vilapicina i la Torre Llobeta;2;55;1;260000;0;4727
+Les Corts;Pedralbes;5;147;1;695000;0;4727
+Sants-Montjuïc;Sants - Badal;3;92;1;435000;0;4728
+Sants-Montjuïc;Sants - Badal;2;70;1;331000;0;4728
+Eixample;l'Antiga Esquerra de l'Eixample;3;135;1;639000;0;4733
+Eixample;l'Antiga Esquerra de l'Eixample;3;135;1;639000;0;4733
+Eixample;l'Antiga Esquerra de l'Eixample;4;113;1;535000;0;4734
+Les Corts;Pedralbes;7;716;0;3390000;0;4734
+Sant Martí;el Clot;2;76;1;360000;0;4736
+Sants-Montjuïc;la Font de la Guatlla;3;76;1;360000;0;4736
+Sarrià-Sant Gervasi;Sarrià;3;77;0;365000;0;4740
+Eixample;Sant Antoni;3;116;1;550000;0;4741
+Eixample;Sant Antoni;6;116;1;550000;0;4741
+Sarrià-Sant Gervasi;Sarrià;5;331;1;1570000;0;4743
+Horta-Guinardó;el Guinardó;3;78;1;370000;0;4743
+Sarrià-Sant Gervasi;les Tres Torres;6;390;1;1850000;0;4743
+Sarrià-Sant Gervasi;Sarrià;4;118;1;560000;0;4745
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;84;1;399000;0;4750
+Horta-Guinardó;el Baix Guinardó;2;100;1;475000;0;4750
+Eixample;Sant Antoni;4;100;1;475000;0;4750
+Eixample;la Dreta de l'Eixample;4;160;1;760000;0;4750
+Eixample;la Dreta de l'Eixample;5;141;1;670000;0;4751
+Eixample;l'Antiga Esquerra de l'Eixample;3;105;1;499000;0;4752
+Eixample;Sant Antoni;3;101;1;480000;0;4752
+Ciutat Vella;el Barri Gòtic;2;61;0;290000;0;4754
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;143;1;680000;0;4755
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;4;124;1;590000;0;4758
+Ciutat Vella;la Barceloneta;3;83;0;395000;0;4759
+Eixample;l'Antiga Esquerra de l'Eixample;4;149;1;710000;0;4765
+Sant Andreu;el Congrés i els Indians;3;98;1;467000;0;4765
+Eixample;Sant Antoni;3;94;1;448000;0;4765
+Sant Andreu;Sant Andreu;3;86;1;410000;0;4767
+Eixample;la Dreta de l'Eixample;2;130;1;620000;0;4769
+Sant Martí;el Clot;3;104;1;496128;0;4770
+Horta-Guinardó;la Teixonera;2;53;1;252920;0;4772
+Eixample;la Sagrada Família;3;110;1;525000;0;4772
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;180;1;860000;0;4777
+Sarrià-Sant Gervasi;les Tres Torres;7;387;1;1850000;0;4780
+Eixample;l'Antiga Esquerra de l'Eixample;4;115;1;550000;0;4782
+Eixample;l'Antiga Esquerra de l'Eixample;4;125;1;598000;0;4784
+Sant Andreu;Navas;2;56;1;268000;0;4785
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;140;1;670000;0;4785
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;5;140;1;670000;0;4785
+Eixample;la Nova Esquerra de l'Eixample;2;120;1;575000;0;4791
+Sarrià-Sant Gervasi;el Putxet i el Farró;5;87;1;417000;0;4793
+Les Corts;la Maternitat i Sant Ramon;4;73;1;350000;0;4794
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;4;269;1;1290000;0;4795
+Sants-Montjuïc;Sants - Badal;2;69;1;331000;0;4797
+Horta-Guinardó;el Guinardó;3;85;1;408000;0;4800
+Eixample;l'Antiga Esquerra de l'Eixample;4;90;1;432000;0;4800
+Sants-Montjuïc;Sants - Badal;2;81;1;389000;0;4802
+Sant Martí;el Parc i la Llacuna del Poblenou;1;71;1;341000;0;4802
+Eixample;la Dreta de l'Eixample;4;102;1;490000;0;4803
+Gràcia;la Vila de Gràcia;3;92;1;442000;0;4804
+Sarrià-Sant Gervasi;Sarrià;4;130;1;625000;0;4807
+Ciutat Vella;el Raval;2;100;1;481000;0;4810
+Sant Martí;el Clot;3;95;1;457000;0;4810
+Sarrià-Sant Gervasi;Sarrià;5;160;1;770000;0;4812
+Eixample;la Dreta de l'Eixample;2;135;1;650000;0;4814
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;270;1;1300000;0;4814
+Eixample;l'Antiga Esquerra de l'Eixample;4;110;1;530000;0;4818
+Eixample;la Dreta de l'Eixample;4;112;1;540000;0;4821
+Eixample;la Nova Esquerra de l'Eixample;3;140;1;675000;0;4821
+Gràcia;la Vila de Gràcia;2;85;0;410000;0;4823
+Gràcia;la Vila de Gràcia;2;85;0;410000;0;4823
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;6;170;1;820000;0;4823
+Les Corts;Pedralbes;5;227;0;1095000;0;4823
+Horta-Guinardó;la Teixonera;2;53;1;255697;0;4824
+Horta-Guinardó;la Teixonera;2;53;1;255697;0;4824
+Sant Martí;el Clot;2;81;1;391000;0;4827
+Sants-Montjuïc;Hostafrancs;2;87;1;420000;0;4827
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;87;1;420000;0;4827
+Eixample;l'Antiga Esquerra de l'Eixample;4;88;0;425000;0;4829
+Eixample;l'Antiga Esquerra de l'Eixample;3;118;1;570000;0;4830
+Horta-Guinardó;la Teixonera;3;90;1;435000;0;4833
+Les Corts;les Corts;3;122;1;590000;0;4836
+Sant Martí;el Poblenou;3;109;1;527258;0;4837
+Eixample;la Dreta de l'Eixample;4;123;1;595000;0;4837
+Eixample;la Sagrada Família;3;123;1;595000;0;4837
+Eixample;la Dreta de l'Eixample;2;93;1;450000;0;4838
+Horta-Guinardó;el Guinardó;2;63;1;305000;0;4841
+Eixample;la Dreta de l'Eixample;2;75;1;363400;0;4845
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;130;1;630000;0;4846
+Gràcia;la Vila de Gràcia;3;66;0;320000;0;4848
+Sant Martí;el Clot;3;99;1;480000;0;4848
+Horta-Guinardó;el Guinardó;2;100;1;485000;0;4850
+Ciutat Vella;la Barceloneta;1;34;0;165000;0;4852
+Eixample;la Nova Esquerra de l'Eixample;1;68;1;330000;0;4852
+Gràcia;la Vila de Gràcia;4;109;1;529000;0;4853
+Sants-Montjuïc;Sants - Badal;1;41;0;199000;0;4853
+Sant Martí;el Poblenou;2;82;1;398000;0;4853
+Sant Martí;el Clot;2;82;1;398000;0;4853
+Nou Barris;Vilapicina i la Torre Llobeta;2;55;1;267000;0;4854
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;3;117;1;568000;0;4854
+Les Corts;Pedralbes;3;148;1;718500;0;4854
+Sants-Montjuïc;Hostafrancs;2;69;1;335000;0;4855
+Sant Andreu;Navas;2;56;1;272000;0;4857
+Eixample;la Nova Esquerra de l'Eixample;3;70;1;340000;0;4857
+Eixample;la Nova Esquerra de l'Eixample;3;70;1;340000;0;4857
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;1;50;1;243000;0;4860
+Les Corts;Pedralbes;3;73;1;355000;0;4863
+Sarrià-Sant Gervasi;el Putxet i el Farró;6;257;1;1250000;0;4863
+Eixample;la Nova Esquerra de l'Eixample;3;75;1;365000;0;4866
+Gràcia;la Vila de Gràcia;2;75;1;365000;0;4866
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;6;380;0;1850000;0;4868
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;6;380;0;1850000;0;4868
+Eixample;la Nova Esquerra de l'Eixample;4;115;1;560000;0;4869
+Eixample;la Dreta de l'Eixample;6;155;1;755000;0;4870
+Sant Andreu;el Congrés i els Indians;3;94;1;458000;0;4872
+Ciutat Vella;el Raval;1;40;1;195000;0;4875
+Horta-Guinardó;el Guinardó;3;81;1;395000;0;4876
+Gràcia;la Salut;4;122;1;595000;0;4877
+Sants-Montjuïc;Hostafrancs;2;82;1;400000;0;4878
+Sant Martí;el Camp de l'Arpa del Clot;2;51;1;249000;0;4882
+Sarrià-Sant Gervasi;Sarrià;4;85;1;415000;0;4882
+Les Corts;la Maternitat i Sant Ramon;4;86;1;420000;0;4883
+Eixample;Sant Antoni;2;86;1;420000;0;4883
+Les Corts;Pedralbes;4;215;1;1050000;0;4883
+Sants-Montjuïc;Sants - Badal;2;69;1;337000;0;4884
+Eixample;la Dreta de l'Eixample;4;174;1;850000;0;4885
+Horta-Guinardó;el Guinardó;2;61;1;298000;0;4885
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;225;1;1100000;0;4888
+Sant Martí;el Poblenou;2;93;0;455000;0;4892
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;140;1;685000;0;4892
+Sarrià-Sant Gervasi;Sarrià;4;143;1;700000;0;4895
+Horta-Guinardó;la Font d'en Fargues;2;58;1;284000;0;4896
+Sant Martí;el Clot;3;91;1;446000;0;4901
+Eixample;la Nova Esquerra de l'Eixample;2;71;1;348000;0;4901
+Eixample;Sant Antoni;3;61;1;299000;0;4901
+Nou Barris;Vilapicina i la Torre Llobeta;3;73;1;358000;0;4904
+Les Corts;les Corts;5;210;1;1030000;0;4904
+Eixample;la Nova Esquerra de l'Eixample;1;53;1;260000;0;4905
+Les Corts;Pedralbes;3;106;1;520000;0;4905
+Gràcia;Vallcarca i els Penitents;2;108;1;530000;0;4907
+Gràcia;Vallcarca i els Penitents;2;108;1;530000;0;4907
+Les Corts;les Corts;4;110;1;540000;0;4909
+Sants-Montjuïc;Sants;5;110;1;540000;0;4909
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;61;0;299500;0;4909
+Eixample;la Nova Esquerra de l'Eixample;2;112;1;550000;0;4910
+Eixample;la Dreta de l'Eixample;2;74;1;363400;0;4910
+Horta-Guinardó;Horta;3;88;1;432500;0;4914
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;180;1;885000;0;4916
+Eixample;la Sagrada Família;3;121;1;595000;0;4917
+Eixample;la Sagrada Família;3;121;1;595000;0;4917
+Les Corts;les Corts;4;121;1;595000;0;4917
+Horta-Guinardó;el Baix Guinardó;4;121;1;595000;0;4917
+Sant Martí;el Poblenou;3;61;1;300000;0;4918
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;4;183;1;900001;0;4918
+Horta-Guinardó;el Guinardó;2;62;1;305000;0;4919
+Sants-Montjuïc;Hostafrancs;2;63;1;310000;0;4920
+Eixample;la Nova Esquerra de l'Eixample;3;189;1;930000;0;4920
+Gràcia;la Vila de Gràcia;3;92;1;453000;0;4923
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;134;1;660000;0;4925
+Sant Andreu;Sant Andreu;2;69;1;340000;0;4927
+Eixample;l'Antiga Esquerra de l'Eixample;3;69;1;340000;0;4927
+Sant Martí;el Poblenou;3;96;1;473500;0;4932
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;152;1;750000;0;4934
+Les Corts;les Corts;3;80;1;395000;0;4937
+Eixample;l'Antiga Esquerra de l'Eixample;4;85;1;420000;0;4941
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;86;1;425000;0;4941
+Ciutat Vella;el Barri Gòtic;2;90;1;445000;0;4944
+Sarrià-Sant Gervasi;Sarrià;4;93;1;460000;0;4946
+Horta-Guinardó;el Guinardó;2;94;1;465000;0;4946
+Horta-Guinardó;el Baix Guinardó;1;40;1;198000;0;4950
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;100;0;495000;0;4950
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;1;111;0;550000;0;4954
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;111;1;550000;0;4954
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;6;474;0;2350000;0;4957
+Les Corts;les Corts;4;120;1;595000;0;4958
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;120;1;595000;0;4958
+Ciutat Vella;el Barri Gòtic;4;240;1;1190000;0;4958
+Sarrià-Sant Gervasi;les Tres Torres;3;121;1;600000;0;4958
+Sarrià-Sant Gervasi;les Tres Torres;5;131;1;650000;0;4961
+Eixample;l'Antiga Esquerra de l'Eixample;4;159;1;789000;0;4962
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;145;1;720000;0;4965
+Sants-Montjuïc;Sants - Badal;2;69;1;343000;0;4971
+Eixample;la Dreta de l'Eixample;3;180;1;895000;0;4972
+Sarrià-Sant Gervasi;el Putxet i el Farró;5;231;1;1150000;0;4978
+Eixample;la Nova Esquerra de l'Eixample;2;56;0;279000;0;4982
+Sant Andreu;el Congrés i els Indians;2;65;1;324000;0;4984
+Eixample;l'Antiga Esquerra de l'Eixample;2;120;1;599000;0;4991
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;200;1;999000;0;4995
+Sant Martí;Provençals del Poblenou;2;100;1;499900;0;4999
+Sants-Montjuïc;Hostafrancs;1;20;0;100000;0;5000
+Gràcia;el Coll;1;50;1;250000;0;5000
+Gràcia;la Vila de Gràcia;2;49;1;245000;0;5000
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;50;0;250000;0;5000
+Horta-Guinardó;el Guinardó;2;63;1;315000;0;5000
+Les Corts;les Corts;2;68;1;340000;0;5000
+Sant Andreu;Sant Andreu;2;69;1;345000;0;5000
+Gràcia;la Vila de Gràcia;3;70;0;350000;0;5000
+Eixample;Sant Antoni;3;72;1;360000;0;5000
+Eixample;la Nova Esquerra de l'Eixample;2;72;1;360000;0;5000
+Sants-Montjuïc;Sants;3;78;1;390000;0;5000
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;4;81;1;405000;0;5000
+Gràcia;la Vila de Gràcia;2;88;0;440000;0;5000
+Sant Martí;el Clot;3;91;1;455000;0;5000
+Eixample;la Nova Esquerra de l'Eixample;4;92;1;460000;0;5000
+Eixample;l'Antiga Esquerra de l'Eixample;3;94;1;470000;0;5000
+Eixample;la Dreta de l'Eixample;4;110;0;550000;0;5000
+Eixample;Sant Antoni;4;112;1;560000;0;5000
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;125;1;625000;0;5000
+Eixample;la Dreta de l'Eixample;3;130;1;650000;0;5000
+Les Corts;les Corts;2;134;1;670000;0;5000
+Les Corts;les Corts;2;134;1;670000;0;5000
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;139;1;695000;0;5000
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;144;1;720000;0;5000
+Eixample;la Sagrada Família;3;149;1;745000;0;5000
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;150;1;750000;0;5000
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;220;1;1100000;0;5000
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;220;1;1100000;0;5000
+Gràcia;la Vila de Gràcia;5;230;1;1150000;0;5000
+Les Corts;Pedralbes;7;250;1;1250000;0;5000
+Les Corts;les Corts;6;300;1;1500000;0;5000
+Les Corts;Pedralbes;6;360;1;1800000;0;5000
+Sant Martí;la Vila Olímpica del Poblenou;4;139;1;698000;0;5021
+Nou Barris;Vilapicina i la Torre Llobeta;2;66;1;331500;0;5022
+Eixample;la Dreta de l'Eixample;5;197;1;990000;0;5025
+Eixample;la Dreta de l'Eixample;4;197;1;990000;0;5025
+Sarrià-Sant Gervasi;les Tres Torres;5;195;1;980000;0;5025
+Sarrià-Sant Gervasi;les Tres Torres;6;374;1;1880000;0;5026
+Eixample;la Dreta de l'Eixample;3;177;1;890000;0;5028
+Sant Andreu;la Sagrera;3;104;1;523000;0;5028
+Sant Andreu;la Sagrera;3;104;1;523000;0;5028
+Les Corts;Pedralbes;5;165;1;830000;0;5030
+Eixample;l'Antiga Esquerra de l'Eixample;4;159;1;800000;0;5031
+Eixample;la Sagrada Família;3;148;1;745000;0;5033
+Sant Andreu;Navas;2;56;1;282000;0;5035
+Sant Martí;la Vila Olímpica del Poblenou;4;134;1;675000;0;5037
+Sant Martí;la Vila Olímpica del Poblenou;3;94;1;473575;0;5038
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;131;1;660000;0;5038
+Nou Barris;Vilapicina i la Torre Llobeta;3;83;1;418200;0;5038
+Nou Barris;Vilapicina i la Torre Llobeta;3;83;1;418200;0;5038
+Les Corts;Pedralbes;2;95;1;479000;0;5042
+Sant Martí;el Parc i la Llacuna del Poblenou;3;94;1;474000;0;5042
+Les Corts;Pedralbes;5;226;1;1140000;0;5044
+Les Corts;la Maternitat i Sant Ramon;2;95;1;480000;0;5052
+Ciutat Vella;la Barceloneta;3;56;0;283000;0;5053
+Sarrià-Sant Gervasi;les Tres Torres;5;372;1;1880000;0;5053
+Ciutat Vella;la Barceloneta;3;89;1;450000;0;5056
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;71;1;359000;0;5056
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;177;1;895000;0;5056
+Sant Andreu;Sant Andreu;3;88;1;445000;0;5056
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;4;256;1;1295000;0;5058
+Sant Martí;el Clot;2;84;1;425000;0;5059
+Sant Martí;el Clot;2;84;1;425000;0;5059
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;83;1;420000;0;5060
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;247;1;1250000;0;5060
+Sarrià-Sant Gervasi;les Tres Torres;5;247;1;1250000;0;5060
+Eixample;la Dreta de l'Eixample;3;88;1;445500;0;5062
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;4;232;1;1175000;0;5064
+Gràcia;el Coll;3;72;1;365000;0;5069
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;4;128;1;649000;0;5070
+Sant Andreu;Sant Andreu;2;69;1;350000;0;5072
+Sant Martí;la Vila Olímpica del Poblenou;3;136;1;690000;0;5073
+Sant Martí;el Poblenou;2;81;1;411000;0;5074
+Ciutat Vella;el Barri Gòtic;2;65;1;330000;0;5076
+Eixample;la Dreta de l'Eixample;3;122;1;620000;0;5081
+Les Corts;les Corts;3;122;1;620000;0;5081
+Eixample;la Dreta de l'Eixample;3;117;1;595000;0;5085
+Eixample;la Dreta de l'Eixample;2;117;1;595000;0;5085
+Sarrià-Sant Gervasi;el Putxet i el Farró;2;56;0;285000;0;5089
+Eixample;la Nova Esquerra de l'Eixample;1;108;1;550000;0;5092
+Eixample;l'Antiga Esquerra de l'Eixample;4;108;1;550000;0;5092
+Les Corts;les Corts;3;94;1;479000;0;5095
+Les Corts;les Corts;4;104;1;530000;0;5096
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;5;412;0;2100000;0;5097
+Sant Andreu;el Congrés i els Indians;2;50;1;255000;0;5100
+Nou Barris;Vilapicina i la Torre Llobeta;2;66;1;336600;0;5100
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;8;490;1;2500000;0;5102
+Eixample;el Fort Pienc;4;97;1;495000;0;5103
+Sant Martí;el Parc i la Llacuna del Poblenou;2;67;1;342000;0;5104
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;143;1;730000;0;5104
+Eixample;la Sagrada Família;4;95;1;485000;0;5105
+Sant Andreu;Navas;2;56;1;286000;0;5107
+Eixample;la Dreta de l'Eixample;2;86;1;440000;0;5116
+Sant Andreu;el Congrés i els Indians;2;84;1;430000;0;5119
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;7;566;0;2900000;0;5123
+Eixample;la Nova Esquerra de l'Eixample;3;72;1;369000;0;5125
+Sant Martí;la Vila Olímpica del Poblenou;3;94;1;482125;0;5128
+Sarrià-Sant Gervasi;Sarrià;5;310;0;1590000;0;5129
+Les Corts;Pedralbes;6;181;1;928800;0;5131
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;185;1;950000;0;5135
+Sants-Montjuïc;Hostafrancs;2;73;0;375000;0;5136
+Sant Martí;el Poblenou;2;73;1;375000;0;5136
+Sarrià-Sant Gervasi;Sarrià;3;73;1;375000;0;5136
+Sant Martí;la Vila Olímpica del Poblenou;2;73;1;375250;0;5140
+Sant Martí;el Parc i la Llacuna del Poblenou;4;106;1;545000;0;5141
+Les Corts;Pedralbes;3;70;1;360000;0;5142
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;135;1;695000;0;5148
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;3;67;0;345000;0;5149
+Horta-Guinardó;el Baix Guinardó;2;100;1;515000;0;5150
+Sant Martí;el Poblenou;2;66;1;340000;0;5151
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;66;1;340000;0;5151
+Ciutat Vella;el Raval;2;92;1;474000;0;5152
+Sarrià-Sant Gervasi;Sarrià;4;262;0;1350000;0;5152
+Eixample;la Dreta de l'Eixample;5;192;1;990000;0;5156
+Eixample;la Sagrada Família;4;159;1;820000;0;5157
+Eixample;la Sagrada Família;3;153;0;790000;0;5163
+Horta-Guinardó;el Baix Guinardó;4;121;1;625000;0;5165
+Les Corts;Pedralbes;7;484;1;2500000;0;5165
+Gràcia;la Vila de Gràcia;3;60;0;310000;0;5166
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;270;1;1395000;0;5166
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;6;300;1;1550000;0;5166
+Eixample;la Dreta de l'Eixample;3;118;1;610000;0;5169
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;174;1;900000;0;5172
+Sant Andreu;Sant Andreu;3;86;1;445000;0;5174
+Horta-Guinardó;el Guinardó;1;50;1;259000;0;5180
+Gràcia;la Vila de Gràcia;1;54;1;280000;0;5185
+Eixample;Sant Antoni;2;81;1;420000;0;5185
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;3;80;1;415000;0;5187
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;3;80;1;415000;0;5187
+Eixample;Sant Antoni;3;106;1;550000;0;5188
+Eixample;la Dreta de l'Eixample;3;106;1;550000;0;5188
+Sarrià-Sant Gervasi;el Putxet i el Farró;5;210;1;1090000;0;5190
+Eixample;la Dreta de l'Eixample;6;235;1;1220000;0;5191
+Nou Barris;Porta;2;52;1;270000;0;5192
+Sant Martí;el Camp de l'Arpa del Clot;2;57;1;296000;0;5192
+Eixample;la Dreta de l'Eixample;2;103;1;535000;0;5194
+Eixample;la Nova Esquerra de l'Eixample;2;71;1;369000;0;5197
+Ciutat Vella;la Barceloneta;3;76;0;395000;0;5197
+Les Corts;les Corts;4;101;1;525000;0;5198
+Sant Martí;el Camp de l'Arpa del Clot;2;50;0;260000;0;5200
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;150;1;780000;0;5200
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;48;0;250000;0;5208
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;48;0;250000;0;5208
+Sant Martí;el Poblenou;2;71;1;370000;0;5211
+Eixample;la Nova Esquerra de l'Eixample;3;118;1;615000;0;5211
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;165;1;860000;0;5212
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;374;0;1950000;0;5213
+Eixample;la Dreta de l'Eixample;3;70;1;365000;0;5214
+Gràcia;la Vila de Gràcia;3;97;1;506000;0;5216
+Sarrià-Sant Gervasi;Sarrià;5;572;0;2985000;0;5218
+Les Corts;Pedralbes;5;297;1;1550000;0;5218
+Sant Martí;el Parc i la Llacuna del Poblenou;4;114;1;596000;0;5228
+Sant Martí;el Poblenou;4;115;1;601500;0;5230
+Eixample;la Nova Esquerra de l'Eixample;1;65;1;340000;0;5230
+Eixample;la Sagrada Família;3;120;1;628000;0;5233
+Sarrià-Sant Gervasi;Sarrià;3;85;1;445000;0;5235
+Sant Martí;el Poblenou;2;76;1;398000;0;5236
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;145;1;760000;0;5241
+Eixample;la Dreta de l'Eixample;4;145;1;760000;0;5241
+Eixample;la Dreta de l'Eixample;4;145;1;760000;0;5241
+Sants-Montjuïc;Sants - Badal;1;41;0;215000;0;5243
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;6;305;1;1600000;0;5245
+Eixample;la Sagrada Família;2;101;1;530000;0;5247
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;60;1;315000;0;5250
+Sarrià-Sant Gervasi;les Tres Torres;2;60;1;315000;0;5250
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;2;60;1;315000;0;5250
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;80;1;420000;0;5250
+Sant Martí;el Poblenou;3;200;0;1050000;0;5250
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;5;358;0;1880000;0;5251
+Sant Martí;el Poblenou;4;95;1;499000;0;5252
+Sant Martí;el Parc i la Llacuna del Poblenou;3;95;1;499000;0;5252
+Gràcia;la Salut;2;97;1;510000;0;5257
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;208;1;1095000;0;5264
+Sants-Montjuïc;Sants;3;83;1;437000;0;5265
+Eixample;l'Antiga Esquerra de l'Eixample;1;30;0;158000;0;5266
+Sant Martí;el Poblenou;2;75;1;395000;0;5266
+Sant Martí;el Parc i la Llacuna del Poblenou;1;51;1;269000;0;5274
+Sant Martí;la Vila Olímpica del Poblenou;3;111;1;586000;0;5279
+Gràcia;el Coll;2;89;1;470000;0;5280
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;3;160;1;845000;0;5281
+Eixample;l'Antiga Esquerra de l'Eixample;4;142;1;750000;0;5281
+Nou Barris;Vilapicina i la Torre Llobeta;2;56;1;295800;0;5282
+Nou Barris;Vilapicina i la Torre Llobeta;2;56;1;295800;0;5282
+Sant Martí;el Camp de l'Arpa del Clot;2;53;1;280000;0;5283
+Eixample;la Dreta de l'Eixample;5;159;1;840000;0;5283
+Sants-Montjuïc;Sants;2;87;0;460000;0;5287
+Sant Martí;la Vila Olímpica del Poblenou;1;66;1;349125;0;5289
+Sant Martí;el Parc i la Llacuna del Poblenou;1;103;1;545000;0;5291
+Sant Martí;el Parc i la Llacuna del Poblenou;4;119;1;630000;0;5294
+Sarrià-Sant Gervasi;Sarrià;4;217;1;1150000;0;5299
+Sarrià-Sant Gervasi;Sarrià;5;217;1;1150000;0;5299
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;2;70;1;371000;0;5300
+Sant Martí;la Vila Olímpica del Poblenou;2;73;1;387125;0;5303
+Sant Martí;el Poblenou;2;75;1;398000;0;5306
+Sant Martí;el Clot;4;112;1;594448;0;5307
+Ciutat Vella;el Barri Gòtic;1;81;0;430000;0;5308
+Horta-Guinardó;la Font d'en Fargues;3;81;1;430000;0;5308
+Horta-Guinardó;el Baix Guinardó;3;113;1;600000;0;5309
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;129;1;685000;0;5310
+Sarrià-Sant Gervasi;el Putxet i el Farró;2;90;1;478000;0;5311
+Sant Martí;el Clot;3;80;1;425000;0;5312
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;160;1;850000;0;5312
+Sarrià-Sant Gervasi;Sarrià;5;238;1;1265000;0;5315
+Eixample;la Dreta de l'Eixample;5;206;1;1095000;0;5315
+Eixample;l'Antiga Esquerra de l'Eixample;1;63;1;335000;0;5317
+Eixample;l'Antiga Esquerra de l'Eixample;3;94;1;500000;0;5319
+Les Corts;les Corts;3;122;1;650000;0;5327
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;7;488;0;2600000;0;5327
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;4;100;1;533000;0;5330
+Horta-Guinardó;el Guinardó;1;45;1;240000;0;5333
+Eixample;la Sagrada Família;3;120;1;640000;0;5333
+Eixample;la Sagrada Família;3;89;1;475000;0;5337
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;281;1;1500000;0;5338
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;1;58;1;310000;0;5344
+Sant Martí;la Vila Olímpica del Poblenou;3;130;1;695000;0;5346
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;144;1;770000;0;5347
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;115;1;615000;0;5347
+Eixample;Sant Antoni;2;100;1;535000;0;5350
+Nou Barris;Vilapicina i la Torre Llobeta;3;81;1;433500;0;5351
+Ciutat Vella;el Barri Gòtic;2;70;1;375000;0;5357
+Eixample;l'Antiga Esquerra de l'Eixample;4;140;1;750000;0;5357
+Sant Martí;el Poblenou;1;67;1;359000;0;5358
+Gràcia;Vallcarca i els Penitents;1;80;1;429000;0;5362
+Gràcia;Vallcarca i els Penitents;2;80;1;429000;0;5362
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;95;1;510000;0;5368
+Sarrià-Sant Gervasi;Sarrià;5;554;0;2975000;0;5370
+Ciutat Vella;el Raval;1;86;1;462000;0;5372
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;4;147;1;790000;0;5374
+Eixample;la Nova Esquerra de l'Eixample;4;130;1;699000;0;5376
+Horta-Guinardó;el Guinardó;2;61;1;328000;0;5377
+Horta-Guinardó;el Guinardó;1;50;1;269000;0;5380
+Eixample;la Dreta de l'Eixample;2;105;1;565000;0;5380
+Eixample;l'Antiga Esquerra de l'Eixample;4;65;1;350000;0;5384
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;2;78;1;420000;0;5384
+Les Corts;Pedralbes;5;371;1;2000000;0;5390
+Nou Barris;Vilapicina i la Torre Llobeta;2;70;1;377400;0;5391
+Gràcia;la Vila de Gràcia;3;97;1;523000;0;5391
+Les Corts;les Corts;2;102;1;550000;0;5392
+Les Corts;les Corts;2;102;1;550000;0;5392
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;89;1;480000;0;5393
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;203;1;1095000;0;5394
+Sant Martí;el Camp de l'Arpa del Clot;4;101;1;545000;0;5396
+Eixample;la Nova Esquerra de l'Eixample;2;87;1;470000;0;5402
+Ciutat Vella;el Raval;3;77;1;416000;0;5402
+Eixample;la Nova Esquerra de l'Eixample;2;73;1;395000;0;5410
+Eixample;l'Antiga Esquerra de l'Eixample;1;85;1;460000;0;5411
+Eixample;la Nova Esquerra de l'Eixample;6;133;1;720000;0;5413
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;120;1;649999;0;5416
+Sants-Montjuïc;Sants;2;60;1;325000;0;5416
+Eixample;la Nova Esquerra de l'Eixample;3;72;1;390000;0;5416
+Eixample;Sant Antoni;3;120;1;650000;0;5416
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;120;1;650000;0;5416
+Sant Martí;la Vila Olímpica del Poblenou;1;66;1;358125;0;5426
+Eixample;Sant Antoni;1;42;1;228000;0;5428
+Ciutat Vella;la Barceloneta;2;35;0;190000;0;5428
+Eixample;la Sagrada Família;2;35;1;190000;0;5428
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;70;1;380000;0;5428
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;70;1;380000;0;5428
+Ciutat Vella;el Raval;2;81;0;440000;0;5432
+Eixample;l'Antiga Esquerra de l'Eixample;3;81;1;440000;0;5432
+Eixample;la Nova Esquerra de l'Eixample;3;110;1;598000;0;5436
+Les Corts;les Corts;3;114;1;620000;0;5438
+Eixample;la Dreta de l'Eixample;5;182;1;990000;0;5439
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;90;0;490000;0;5444
+Les Corts;les Corts;2;67;1;365000;0;5447
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;145;1;790000;0;5448
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;145;1;790000;0;5448
+Sarrià-Sant Gervasi;les Tres Torres;5;145;1;790000;0;5448
+Sant Martí;el Poblenou;2;86;1;469000;0;5453
+Horta-Guinardó;el Baix Guinardó;4;121;1;660000;0;5454
+Les Corts;les Corts;2;105;1;573000;0;5457
+Ciutat Vella;el Barri Gòtic;3;174;1;950000;0;5459
+Ciutat Vella;el Barri Gòtic;2;130;1;710000;0;5461
+Horta-Guinardó;Horta;3;97;1;530000;0;5463
+Ciutat Vella;el Barri Gòtic;2;86;1;470000;0;5465
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;3;86;1;470000;0;5465
+Sant Martí;el Poblenou;3;73;1;399000;0;5465
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;160;1;875000;0;5468
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;320;1;1750000;0;5468
+Sant Andreu;el Congrés i els Indians;1;51;1;279000;0;5470
+Eixample;la Dreta de l'Eixample;4;136;1;745000;0;5477
+Eixample;la Dreta de l'Eixample;4;136;1;745000;0;5477
+Sant Martí;el Parc i la Llacuna del Poblenou;1;115;1;630000;0;5478
+Sant Martí;el Camp de l'Arpa del Clot;4;94;1;515000;0;5478
+Horta-Guinardó;la Font d'en Fargues;3;83;1;455000;0;5481
+Eixample;l'Antiga Esquerra de l'Eixample;2;83;1;455000;0;5481
+Gràcia;la Salut;3;91;1;499000;0;5483
+Sant Martí;Provençals del Poblenou;2;72;1;395000;0;5486
+Les Corts;les Corts;1;51;1;280000;0;5490
+Sant Martí;el Parc i la Llacuna del Poblenou;1;118;1;648000;0;5491
+Eixample;la Dreta de l'Eixample;2;69;1;379000;0;5492
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;6;304;1;1670000;0;5493
+Sant Martí;el Parc i la Llacuna del Poblenou;1;105;1;577000;0;5495
+Eixample;Sant Antoni;5;181;1;995000;0;5497
+Sant Martí;el Parc i la Llacuna del Poblenou;1;81;1;445500;0;5500
+Eixample;Sant Antoni;2;58;1;319000;0;5500
+Sarrià-Sant Gervasi;el Putxet i el Farró;2;70;1;385000;0;5500
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;100;1;550000;0;5500
+Eixample;la Dreta de l'Eixample;3;120;1;660000;0;5500
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;120;1;660000;0;5500
+Eixample;la Sagrada Família;3;120;1;660000;0;5500
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;160;1;880000;0;5500
+Les Corts;Pedralbes;4;180;1;990000;0;5500
+Les Corts;Pedralbes;8;836;0;4600000;0;5502
+Eixample;la Dreta de l'Eixample;3;138;1;760000;0;5507
+Eixample;la Nova Esquerra de l'Eixample;4;118;1;650000;0;5508
+Eixample;l'Antiga Esquerra de l'Eixample;4;125;1;689000;0;5512
+Eixample;la Sagrada Família;2;68;1;375000;0;5514
+Eixample;Sant Antoni;3;135;1;745000;0;5518
+Sant Andreu;Navas;2;77;1;425000;0;5519
+Eixample;l'Antiga Esquerra de l'Eixample;3;125;1;690000;0;5520
+Sant Martí;el Camp de l'Arpa del Clot;2;48;1;265000;0;5520
+Sant Martí;el Besòs i el Maresme;4;151;1;833900;0;5522
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;105;1;580000;0;5523
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;3;95;1;525000;0;5526
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;85;1;470000;0;5529
+Eixample;la Sagrada Família;3;85;1;470000;0;5529
+Gràcia;el Camp d'en Grassot i Gràcia Nova;2;75;1;415000;0;5533
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;150;1;830000;0;5533
+Ciutat Vella;el Raval;2;84;1;465000;0;5535
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;130;1;720000;0;5538
+Ciutat Vella;el Raval;2;63;1;349000;0;5539
+Eixample;Sant Antoni;3;126;1;698000;0;5539
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;1;83;1;460000;0;5542
+Eixample;la Dreta de l'Eixample;3;90;1;499000;0;5544
+Ciutat Vella;el Barri Gòtic;1;36;0;200000;0;5555
+Horta-Guinardó;el Guinardó;1;45;1;250000;0;5555
+Eixample;la Dreta de l'Eixample;2;63;0;350000;0;5555
+Les Corts;Pedralbes;5;279;1;1550000;0;5555
+Les Corts;Pedralbes;4;143;1;795000;0;5559
+Les Corts;les Corts;3;71;1;395000;0;5563
+Eixample;la Dreta de l'Eixample;3;142;1;790000;0;5563
+Eixample;la Sagrada Família;3;97;1;540000;0;5567
+Eixample;l'Antiga Esquerra de l'Eixample;3;79;1;440000;0;5569
+Eixample;l'Antiga Esquerra de l'Eixample;3;79;1;440000;0;5569
+Les Corts;Pedralbes;3;129;1;718500;0;5569
+Gràcia;el Camp d'en Grassot i Gràcia Nova;2;56;0;312000;0;5571
+Sant Martí;el Poblenou;3;96;1;535000;0;5572
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;314;1;1750000;0;5573
+Eixample;la Nova Esquerra de l'Eixample;2;52;0;290000;0;5576
+Eixample;la Sagrada Família;2;78;1;435000;0;5576
+Sant Andreu;Sant Andreu;2;69;1;385000;0;5579
+Les Corts;les Corts;2;95;1;530500;0;5584
+Les Corts;les Corts;2;95;1;530500;0;5584
+Eixample;la Nova Esquerra de l'Eixample;2;94;1;525000;0;5585
+Eixample;la Sagrada Família;2;68;1;380000;0;5588
+Eixample;el Fort Pienc;3;85;1;475000;0;5588
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;170;1;950000;0;5588
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;4;170;1;950000;0;5588
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;178;0;995000;0;5589
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;178;0;995000;0;5589
+Les Corts;Pedralbes;8;447;1;2500000;0;5592
+Sant Martí;el Parc i la Llacuna del Poblenou;2;67;1;375000;0;5597
+Eixample;la Dreta de l'Eixample;4;117;1;655000;0;5598
+Les Corts;les Corts;4;100;1;560000;0;5600
+Sant Martí;el Poblenou;2;76;1;426000;0;5605
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;123;1;690000;0;5609
+Eixample;la Nova Esquerra de l'Eixample;3;106;1;595000;0;5613
+Sants-Montjuïc;Sants;2;60;1;337000;0;5616
+Nou Barris;Vilapicina i la Torre Llobeta;2;68;1;382500;0;5625
+Eixample;la Sagrada Família;3;120;1;675000;0;5625
+Eixample;Sant Antoni;2;230;1;1295000;0;5630
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;177;1;997000;0;5632
+Gràcia;la Vila de Gràcia;3;79;1;445000;0;5632
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;142;1;800000;0;5633
+Eixample;l'Antiga Esquerra de l'Eixample;3;133;1;750000;0;5639
+Les Corts;les Corts;3;70;1;395000;0;5642
+Sarrià-Sant Gervasi;les Tres Torres;4;140;1;790000;0;5642
+Sant Martí;el Clot;2;62;1;350000;0;5645
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;155;1;875000;0;5645
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;85;1;480000;0;5647
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;3;177;1;1000000;0;5649
+Ciutat Vella;el Raval;1;60;1;339000;0;5650
+Sant Martí;la Vila Olímpica del Poblenou;1;63;1;356000;0;5650
+Eixample;l'Antiga Esquerra de l'Eixample;3;230;1;1300000;0;5652
+Sant Andreu;la Sagrera;3;104;1;588000;0;5653
+Ciutat Vella;el Barri Gòtic;2;84;1;475000;0;5654
+Ciutat Vella;el Raval;2;84;1;475000;0;5654
+Ciutat Vella;el Raval;2;84;1;475000;0;5654
+Ciutat Vella;el Barri Gòtic;5;175;1;990000;0;5657
+Les Corts;Pedralbes;3;76;1;430000;0;5657
+Ciutat Vella;el Barri Gòtic;2;106;1;600000;0;5660
+Gràcia;el Camp d'en Grassot i Gràcia Nova;2;75;1;425000;0;5666
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;150;1;850000;0;5666
+Eixample;l'Antiga Esquerra de l'Eixample;5;150;1;850000;0;5666
+Eixample;la Dreta de l'Eixample;1;150;1;850000;0;5666
+Eixample;la Sagrada Família;3;97;1;550000;0;5670
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;3;67;1;380000;0;5671
+Gràcia;la Vila de Gràcia;1;52;1;295000;0;5673
+Sant Martí;el Camp de l'Arpa del Clot;2;52;1;295000;0;5673
+Gràcia;el Camp d'en Grassot i Gràcia Nova;2;74;1;420000;0;5675
+Sant Martí;el Poblenou;3;96;1;545000;0;5677
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;3;118;1;670000;0;5677
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;4;140;1;795000;0;5678
+Eixample;la Dreta de l'Eixample;4;140;1;795000;0;5678
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;139;1;790000;0;5683
+Gràcia;la Vila de Gràcia;3;190;1;1080000;0;5684
+Sarrià-Sant Gervasi;Sarrià;4;235;1;1336000;0;5685
+Eixample;l'Antiga Esquerra de l'Eixample;2;80;1;455000;0;5687
+Sarrià-Sant Gervasi;el Putxet i el Farró;2;160;1;910000;0;5687
+Eixample;la Dreta de l'Eixample;4;210;1;1195000;0;5690
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;8;483;0;2750000;0;5693
+Eixample;l'Antiga Esquerra de l'Eixample;2;79;1;450000;0;5696
+Eixample;l'Antiga Esquerra de l'Eixample;3;79;1;450000;0;5696
+Eixample;l'Antiga Esquerra de l'Eixample;3;79;1;450000;0;5696
+Sarrià-Sant Gervasi;el Putxet i el Farró;2;158;1;900000;0;5696
+Sarrià-Sant Gervasi;Sarrià;1;43;1;245000;0;5697
+Horta-Guinardó;el Baix Guinardó;2;100;1;570000;0;5700
+Horta-Guinardó;el Guinardó;2;61;1;348000;0;5704
+Eixample;l'Antiga Esquerra de l'Eixample;3;85;1;485000;0;5705
+Ciutat Vella;el Raval;3;85;1;485000;0;5705
+Horta-Guinardó;Horta;3;88;1;502500;0;5710
+Gràcia;la Vila de Gràcia;1;56;0;320000;0;5714
+Les Corts;Pedralbes;3;63;1;360000;0;5714
+Gràcia;la Vila de Gràcia;3;70;0;400000;0;5714
+Eixample;l'Antiga Esquerra de l'Eixample;3;77;1;440000;0;5714
+Sarrià-Sant Gervasi;Sarrià;4;91;1;520000;0;5714
+Sant Martí;la Vila Olímpica del Poblenou;3;94;1;537500;0;5718
+Sarrià-Sant Gervasi;les Tres Torres;5;306;1;1750000;0;5718
+Horta-Guinardó;Horta;3;92;1;526500;0;5722
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;10;690;0;3950000;0;5724
+Gràcia;la Salut;1;61;1;350000;0;5737
+Sarrià-Sant Gervasi;les Tres Torres;5;305;1;1750000;0;5737
+Sant Martí;el Camp de l'Arpa del Clot;1;46;1;264000;0;5739
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;115;1;660000;0;5739
+Eixample;la Nova Esquerra de l'Eixample;5;155;1;890000;0;5741
+Sant Martí;la Vila Olímpica del Poblenou;2;73;1;420000;0;5753
+Sarrià-Sant Gervasi;el Putxet i el Farró;1;33;0;190000;0;5757
+Ciutat Vella;el Raval;1;66;1;380000;0;5757
+Eixample;la Sagrada Família;3;138;1;795000;0;5760
+Les Corts;Pedralbes;5;269;1;1550000;0;5762
+Sant Martí;la Vila Olímpica del Poblenou;2;110;1;634000;0;5763
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;72;1;415000;0;5763
+Sant Martí;el Clot;2;72;1;415000;0;5763
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;170;1;980000;0;5764
+Sant Martí;el Poblenou;3;118;1;680434;0;5766
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;137;1;790000;0;5766
+Eixample;la Sagrada Família;3;189;1;1090000;0;5767
+Sant Martí;el Camp de l'Arpa del Clot;2;52;1;300000;0;5769
+Les Corts;les Corts;4;91;1;525000;0;5769
+Sant Martí;el Parc i la Llacuna del Poblenou;1;51;1;295000;0;5784
+Les Corts;les Corts;2;95;1;550000;0;5789
+Eixample;la Dreta de l'Eixample;2;120;1;695000;0;5791
+Eixample;la Dreta de l'Eixample;1;63;1;365000;0;5793
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;1;50;1;290000;0;5800
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;50;1;290000;0;5800
+Eixample;la Dreta de l'Eixample;2;75;1;435000;0;5800
+Eixample;la Dreta de l'Eixample;4;137;1;795000;0;5802
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;325;1;1886000;0;5803
+Eixample;la Sagrada Família;3;93;1;540000;0;5806
+Les Corts;Pedralbes;3;74;1;430000;0;5810
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;134;0;780000;0;5820
+Sant Martí;el Camp de l'Arpa del Clot;2;56;1;326000;0;5821
+Les Corts;Pedralbes;3;73;1;425000;0;5821
+Eixample;l'Antiga Esquerra de l'Eixample;2;79;1;460000;0;5822
+Les Corts;Pedralbes;10;790;0;4600000;0;5822
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;290;1;1690000;0;5827
+Gràcia;la Salut;1;53;1;309000;0;5830
+Sarrià-Sant Gervasi;Sarrià;2;60;1;350000;0;5833
+Sant Martí;el Poblenou;3;96;1;560000;0;5833
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;102;1;595000;0;5833
+Sant Martí;el Camp de l'Arpa del Clot;3;102;1;595000;0;5833
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;126;1;735000;0;5833
+Les Corts;Pedralbes;6;159;1;928800;0;5841
+Eixample;l'Antiga Esquerra de l'Eixample;2;77;1;450000;0;5844
+Ciutat Vella;el Barri Gòtic;2;219;1;1280000;0;5844
+Ciutat Vella;el Raval;1;58;1;339000;0;5844
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;65;1;380000;0;5846
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;183;1;1070000;0;5846
+Eixample;l'Antiga Esquerra de l'Eixample;3;141;1;825000;0;5851
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;323;0;1890000;0;5851
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;128;1;749000;0;5851
+Sant Martí;la Vila Olímpica del Poblenou;2;110;1;644000;0;5854
+Sant Martí;la Vila Olímpica del Poblenou;2;110;1;644000;0;5854
+Sant Andreu;el Congrés i els Indians;1;63;1;369000;0;5857
+Horta-Guinardó;la Font d'en Fargues;2;64;1;375000;0;5859
+Sarrià-Sant Gervasi;Sarrià;4;116;1;680000;0;5862
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;145;1;850000;0;5862
+Eixample;l'Antiga Esquerra de l'Eixample;3;110;1;645000;0;5863
+Sant Martí;el Camp de l'Arpa del Clot;2;52;1;305000;0;5865
+Sant Martí;el Camp de l'Arpa del Clot;2;52;1;305000;0;5865
+Gràcia;el Camp d'en Grassot i Gràcia Nova;2;75;1;440000;0;5866
+Sarrià-Sant Gervasi;Sarrià;4;196;1;1150000;0;5867
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;298;1;1750000;0;5872
+Eixample;la Nova Esquerra de l'Eixample;2;129;1;758000;0;5875
+Les Corts;Pedralbes;3;74;1;435000;0;5878
+Les Corts;Pedralbes;3;74;1;435000;0;5878
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;3;141;1;830000;0;5886
+Eixample;la Dreta de l'Eixample;3;169;1;995000;0;5887
+Eixample;la Dreta de l'Eixample;4;135;1;795000;0;5888
+Les Corts;Pedralbes;3;73;1;430000;0;5890
+Les Corts;Pedralbes;3;73;1;430000;0;5890
+Sarrià-Sant Gervasi;les Tres Torres;4;365;1;2150000;0;5890
+Les Corts;les Corts;4;95;1;560000;0;5894
+Les Corts;les Corts;4;95;1;560000;0;5894
+Ciutat Vella;el Barri Gòtic;3;134;1;790000;0;5895
+Les Corts;Pedralbes;2;89;1;525000;0;5898
+Eixample;la Sagrada Família;1;50;1;295000;0;5900
+Sarrià-Sant Gervasi;les Tres Torres;7;500;1;2950000;0;5900
+Sant Martí;la Vila Olímpica del Poblenou;3;94;1;555000;0;5904
+Sant Martí;la Vila Olímpica del Poblenou;1;66;1;390000;0;5909
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;132;1;780000;0;5909
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;6;406;1;2400000;0;5911
+Eixample;la Nova Esquerra de l'Eixample;3;91;1;538000;0;5912
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;4;142;1;840000;0;5915
+Nou Barris;Vilapicina i la Torre Llobeta;2;56;1;331500;0;5919
+Ciutat Vella;el Barri Gòtic;2;90;1;533000;0;5922
+Les Corts;Pedralbes;3;65;1;385000;0;5923
+Eixample;l'Antiga Esquerra de l'Eixample;2;81;0;480000;0;5925
+Les Corts;Pedralbes;3;70;1;415000;0;5928
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;128;1;759000;0;5929
+Ciutat Vella;el Raval;2;80;1;475000;0;5937
+Sant Martí;el Poblenou;3;96;1;570000;0;5937
+Eixample;l'Antiga Esquerra de l'Eixample;3;96;1;570000;0;5937
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;160;1;950000;0;5937
+Les Corts;Pedralbes;5;202;1;1200000;0;5940
+Eixample;la Nova Esquerra de l'Eixample;3;95;1;565000;0;5947
+Eixample;Sant Antoni;3;95;1;565000;0;5947
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;100;1;595000;0;5950
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;121;1;720000;0;5950
+Eixample;Sant Antoni;3;89;1;530000;0;5955
+Eixample;la Nova Esquerra de l'Eixample;3;89;1;530000;0;5955
+Sants-Montjuïc;Sants;1;47;0;280000;0;5957
+Les Corts;Pedralbes;3;73;1;435000;0;5958
+Les Corts;Pedralbes;3;73;1;435000;0;5958
+Les Corts;Pedralbes;3;73;1;435000;0;5958
+Les Corts;Pedralbes;2;73;1;435000;0;5958
+Sant Martí;el Camp de l'Arpa del Clot;2;52;1;310000;0;5961
+Sant Martí;el Camp de l'Arpa del Clot;3;104;1;620000;0;5961
+Ciutat Vella;el Raval;1;59;1;352000;0;5966
+Eixample;la Dreta de l'Eixample;3;119;1;710000;0;5966
+Les Corts;les Corts;2;60;1;358000;0;5966
+Ciutat Vella;el Barri Gòtic;1;77;1;460000;0;5974
+Sant Martí;la Vila Olímpica del Poblenou;2;87;1;520000;0;5977
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;132;1;790000;0;5984
+Sant Martí;el Parc i la Llacuna del Poblenou;1;153;1;916000;0;5986
+Sant Martí;el Parc i la Llacuna del Poblenou;1;138;1;826500;0;5989
+Sant Martí;el Poblenou;2;70;1;420000;0;6000
+Gràcia;el Camp d'en Grassot i Gràcia Nova;2;75;1;450000;0;6000
+Les Corts;les Corts;4;95;1;570000;0;6000
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;105;1;630000;0;6000
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;150;0;900000;0;6000
+Sarrià-Sant Gervasi;les Tres Torres;4;175;1;1050000;0;6000
+Eixample;la Dreta de l'Eixample;5;200;1;1200000;0;6000
+Eixample;la Dreta de l'Eixample;4;200;1;1200000;0;6000
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;200;1;1200000;0;6000
+Les Corts;Pedralbes;4;225;1;1350000;0;6000
+Sarrià-Sant Gervasi;les Tres Torres;4;225;1;1350000;0;6000
+Sant Martí;el Parc i la Llacuna del Poblenou;1;63;1;378500;0;6007
+Ciutat Vella;el Barri Gòtic;2;108;1;649000;0;6009
+Sant Martí;el Parc i la Llacuna del Poblenou;1;151;1;907500;0;6009
+Gràcia;el Camp d'en Grassot i Gràcia Nova;2;74;1;445000;0;6013
+Sant Martí;el Parc i la Llacuna del Poblenou;1;164;1;986500;0;6015
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;123;1;740000;0;6016
+Sant Martí;el Poblenou;2;68;1;409877;0;6027
+Gràcia;el Camp d'en Grassot i Gràcia Nova;3;68;1;410000;0;6029
+Eixample;Sant Antoni;4;136;1;820000;0;6029
+Sant Martí;el Parc i la Llacuna del Poblenou;1;75;1;452500;0;6033
+Eixample;l'Antiga Esquerra de l'Eixample;3;58;1;350000;0;6034
+Les Corts;les Corts;4;139;1;840000;0;6043
+Sarrià-Sant Gervasi;Sarrià;2;66;1;399000;0;6045
+Sant Martí;el Clot;2;62;1;375000;0;6048
+Eixample;l'Antiga Esquerra de l'Eixample;2;81;0;490000;0;6049
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;181;1;1095000;0;6049
+Gràcia;la Vila de Gràcia;1;95;1;575000;0;6052
+Eixample;la Nova Esquerra de l'Eixample;2;57;0;345000;0;6052
+Eixample;l'Antiga Esquerra de l'Eixample;3;76;1;460000;0;6052
+Sant Martí;el Clot;3;95;1;575000;0;6052
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;7;743;1;4500000;0;6056
+Gràcia;la Vila de Gràcia;1;52;1;315000;0;6057
+Sant Martí;el Camp de l'Arpa del Clot;2;52;1;315000;0;6057
+Les Corts;Pedralbes;5;340;0;2060000;0;6058
+Sant Martí;el Parc i la Llacuna del Poblenou;2;66;1;400000;0;6060
+Eixample;la Sagrada Família;2;160;1;970000;0;6062
+Ciutat Vella;el Raval;2;60;1;364000;0;6066
+Eixample;Sant Antoni;3;89;1;540000;0;6067
+Eixample;la Nova Esquerra de l'Eixample;3;89;1;540000;0;6067
+Les Corts;Pedralbes;4;206;1;1250000;0;6067
+Ciutat Vella;el Barri Gòtic;2;71;1;431000;0;6070
+Les Corts;les Corts;2;98;1;595000;0;6071
+Ciutat Vella;el Barri Gòtic;2;82;1;498000;0;6073
+Gràcia;el Camp d'en Grassot i Gràcia Nova;2;107;1;650000;0;6074
+Sant Martí;el Clot;2;65;1;395000;0;6076
+Les Corts;Pedralbes;3;65;1;395000;0;6076
+Gràcia;la Vila de Gràcia;2;60;1;365000;0;6083
+Eixample;la Sagrada Família;2;60;1;365000;0;6083
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;180;1;1095000;0;6083
+Eixample;la Sagrada Família;1;128;1;780000;0;6093
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;6;274;1;1670000;0;6094
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;82;1;500000;0;6097
+Les Corts;Pedralbes;2;63;1;385000;0;6111
+Eixample;l'Antiga Esquerra de l'Eixample;4;90;1;550000;0;6111
+Les Corts;Pedralbes;4;180;1;1100000;0;6111
+Ciutat Vella;el Barri Gòtic;2;79;1;483000;0;6113
+Gràcia;Vallcarca i els Penitents;2;70;1;428000;0;6114
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;130;1;795000;0;6115
+Ciutat Vella;el Raval;2;76;1;465000;0;6118
+Ciutat Vella;el Raval;2;76;1;465000;0;6118
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;124;1;759000;0;6120
+Gràcia;el Coll;4;294;0;1800000;0;6122
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;160;1;980000;0;6125
+Eixample;la Dreta de l'Eixample;4;140;1;860000;0;6142
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;191;1;1175000;0;6151
+Sant Martí;el Parc i la Llacuna del Poblenou;1;65;1;400000;0;6153
+Les Corts;Pedralbes;3;69;1;425000;0;6159
+Eixample;la Dreta de l'Eixample;3;138;1;850000;0;6159
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;7;730;0;4500000;0;6164
+Eixample;la Sagrada Família;2;60;1;370000;0;6166
+Eixample;Sant Antoni;1;34;1;210000;0;6176
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;89;1;550000;0;6179
+Eixample;la Dreta de l'Eixample;4;190;1;1175000;0;6184
+Gràcia;la Vila de Gràcia;1;51;1;315400;0;6184
+Gràcia;la Vila de Gràcia;1;51;1;315400;0;6184
+Eixample;la Sagrada Família;3;80;1;495000;0;6187
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;6;400;0;2475000;0;6187
+Eixample;l'Antiga Esquerra de l'Eixample;2;101;1;625000;0;6188
+Eixample;la Dreta de l'Eixample;1;42;1;260000;0;6190
+Sant Martí;el Camp de l'Arpa del Clot;3;104;1;645000;0;6201
+Eixample;la Sagrada Família;3;62;1;385000;0;6209
+Les Corts;Pedralbes;3;62;1;385000;0;6209
+Sant Martí;el Poblenou;3;112;1;695610;0;6210
+Eixample;la Dreta de l'Eixample;4;189;1;1175000;0;6216
+Sarrià-Sant Gervasi;el Putxet i el Farró;2;82;1;510000;0;6219
+Ciutat Vella;el Raval;2;95;1;591000;0;6221
+Ciutat Vella;el Raval;2;80;1;498000;0;6225
+Ciutat Vella;el Raval;2;95;1;592000;0;6231
+Les Corts;Pedralbes;3;69;1;430000;0;6231
+Sant Martí;el Poblenou;4;113;1;705000;0;6238
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;285;1;1780000;0;6245
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;6;285;1;1780000;0;6245
+Sant Martí;el Parc i la Llacuna del Poblenou;1;64;1;400000;0;6250
+Sant Martí;el Parc i la Llacuna del Poblenou;1;64;1;400000;0;6250
+Sant Martí;el Parc i la Llacuna del Poblenou;1;64;1;400000;0;6250
+Nou Barris;les Roquetes;1;80;1;500000;0;6250
+Sants-Montjuïc;Sants;2;60;1;375000;0;6250
+Eixample;l'Antiga Esquerra de l'Eixample;3;72;1;450000;0;6250
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;6;144;1;900000;0;6250
+Ciutat Vella;el Raval;4;200;1;1250000;0;6250
+Sant Martí;el Poblenou;2;62;1;387537;0;6250
+Sant Martí;el Poblenou;2;63;1;394000;0;6253
+Sant Martí;el Camp de l'Arpa del Clot;4;99;1;620000;0;6262
+Sarrià-Sant Gervasi;les Tres Torres;2;95;1;595000;0;6263
+Sarrià-Sant Gervasi;Sarrià;3;126;1;790000;0;6269
+Eixample;l'Antiga Esquerra de l'Eixample;1;55;1;345600;0;6283
+Ciutat Vella;el Raval;3;109;1;685000;0;6284
+Les Corts;Pedralbes;2;70;1;440000;0;6285
+Sant Martí;la Vila Olímpica del Poblenou;1;66;1;415000;0;6287
+Sant Martí;el Parc i la Llacuna del Poblenou;1;62;1;390000;0;6290
+Sant Martí;el Parc i la Llacuna del Poblenou;2;62;1;390000;0;6290
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;143;1;900000;0;6293
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;143;1;900000;0;6293
+Sant Martí;la Vila Olímpica del Poblenou;2;85;1;535000;0;6294
+Eixample;la Sagrada Família;1;50;1;315000;0;6300
+Les Corts;les Corts;2;100;1;630000;0;6300
+Les Corts;les Corts;2;100;1;630000;0;6300
+Les Corts;Pedralbes;3;73;1;460000;0;6301
+Les Corts;Pedralbes;2;73;1;460000;0;6301
+Sant Martí;Provençals del Poblenou;2;69;1;435000;0;6304
+Les Corts;Pedralbes;3;69;1;435000;0;6304
+Sarrià-Sant Gervasi;el Putxet i el Farró;2;84;1;530000;0;6309
+Ciutat Vella;el Raval;1;51;1;322000;0;6313
+Gràcia;la Salut;1;51;1;322000;0;6313
+Eixample;la Dreta de l'Eixample;3;114;1;720000;0;6315
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;3;73;1;462000;0;6328
+Gràcia;la Salut;3;94;1;595000;0;6329
+Eixample;la Sagrada Família;2;60;1;380000;0;6333
+Sarrià-Sant Gervasi;Sarrià;4;120;0;760000;0;6333
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;131;1;830000;0;6335
+Eixample;la Dreta de l'Eixample;1;86;1;545000;0;6337
+Sarrià-Sant Gervasi;Sarrià;2;86;1;545000;0;6337
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;1;78;1;495000;0;6346
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;104;1;660000;0;6346
+Sant Martí;el Poblenou;3;96;1;610000;0;6354
+Sants-Montjuïc;Hostafrancs;2;70;1;445000;0;6357
+Les Corts;les Corts;3;125;1;795000;0;6360
+Gràcia;el Camp d'en Grassot i Gràcia Nova;2;84;1;535000;0;6369
+Les Corts;Pedralbes;3;62;1;395000;0;6370
+Ciutat Vella;el Barri Gòtic;2;56;1;357000;0;6375
+Eixample;la Dreta de l'Eixample;2;109;1;695000;0;6376
+Ciutat Vella;el Barri Gòtic;1;58;1;370000;0;6379
+Eixample;la Dreta de l'Eixample;1;94;1;600000;0;6382
+Sant Martí;el Clot;2;65;1;415000;0;6384
+Eixample;l'Antiga Esquerra de l'Eixample;3;133;1;850000;0;6390
+Ciutat Vella;el Raval;1;53;1;339000;0;6396
+Eixample;el Fort Pienc;3;78;1;499000;0;6397
+Eixample;la Dreta de l'Eixample;2;100;1;640000;0;6400
+Eixample;la Dreta de l'Eixample;3;100;1;640000;0;6400
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;82;1;525000;0;6402
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;124;1;795000;0;6411
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;99;1;635000;0;6414
+Sant Martí;el Poblenou;3;85;1;545713;0;6420
+Sarrià-Sant Gervasi;les Tres Torres;5;257;1;1650000;0;6420
+Eixample;la Sagrada Família;4;95;1;610000;0;6421
+Les Corts;les Corts;1;49;1;315000;0;6428
+Eixample;la Dreta de l'Eixample;2;77;1;495000;0;6428
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;91;1;585000;0;6428
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;185;1;1190000;0;6432
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;185;1;1190000;0;6432
+Eixample;l'Antiga Esquerra de l'Eixample;1;73;1;470000;0;6438
+Eixample;l'Antiga Esquerra de l'Eixample;2;73;1;470000;0;6438
+Ciutat Vella;el Barri Gòtic;2;66;1;425000;0;6439
+Ciutat Vella;el Raval;1;50;1;322000;0;6440
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;4;149;1;960000;0;6442
+Eixample;la Dreta de l'Eixample;2;76;1;490000;0;6447
+Les Corts;Pedralbes;2;62;1;400000;0;6451
+Eixample;el Fort Pienc;1;46;1;297000;0;6456
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;3;175;0;1130000;0;6457
+Les Corts;Pedralbes;4;178;1;1150000;0;6460
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;198;1;1280000;0;6464
+Gràcia;la Vila de Gràcia;1;53;1;342950;0;6470
+Gràcia;la Vila de Gràcia;1;53;1;342950;0;6470
+Les Corts;Pedralbes;5;309;1;2000000;0;6472
+Sarrià-Sant Gervasi;les Tres Torres;6;355;1;2300000;0;6478
+Sarrià-Sant Gervasi;les Tres Torres;6;355;1;2300000;0;6478
+Eixample;l'Antiga Esquerra de l'Eixample;1;55;1;356400;0;6480
+Ciutat Vella;el Barri Gòtic;4;172;1;1115000;0;6482
+Ciutat Vella;el Barri Gòtic;4;172;1;1115000;0;6482
+Sarrià-Sant Gervasi;el Putxet i el Farró;2;84;1;545000;0;6488
+Sant Martí;el Poblenou;3;168;1;1090000;0;6488
+Sant Martí;el Parc i la Llacuna del Poblenou;1;89;1;577500;0;6488
+Sants-Montjuïc;el Poble Sec - AEI Parc de Montjuïc;2;100;1;649000;0;6490
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;251;1;1630000;0;6494
+Sant Martí;el Parc i la Llacuna del Poblenou;1;95;1;617000;0;6494
+Sant Martí;el Poblenou;3;99;1;643496;0;6499
+Sarrià-Sant Gervasi;Sarrià;3;92;1;598000;0;6500
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;100;1;650000;0;6500
+Les Corts;Pedralbes;5;300;1;1950000;0;6500
+Sant Martí;el Parc i la Llacuna del Poblenou;1;63;1;410000;0;6507
+Sant Martí;el Parc i la Llacuna del Poblenou;1;108;1;703000;0;6509
+Sant Martí;el Poblenou;3;106;1;690000;0;6509
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;129;1;840000;0;6511
+Gràcia;el Camp d'en Grassot i Gràcia Nova;1;33;1;215000;0;6515
+Eixample;la Dreta de l'Eixample;1;66;1;430000;0;6515
+Sant Martí;el Parc i la Llacuna del Poblenou;1;110;1;717000;0;6518
+Sant Martí;Provençals del Poblenou;2;107;1;698000;0;6523
+Eixample;la Dreta de l'Eixample;1;59;1;385000;0;6525
+Sant Martí;el Parc i la Llacuna del Poblenou;1;76;1;496000;0;6526
+Gràcia;la Salut;2;72;1;470000;0;6527
+Eixample;la Dreta de l'Eixample;3;121;1;790000;0;6528
+Sant Martí;la Vila Olímpica del Poblenou;2;85;1;555000;0;6529
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;3;147;1;960000;0;6530
+Gràcia;la Salut;3;94;1;615000;0;6542
+Ciutat Vella;el Barri Gòtic;4;175;1;1145000;0;6542
+Sant Martí;el Poblenou;3;136;0;890000;0;6544
+Les Corts;Pedralbes;4;136;1;890000;0;6544
+Eixample;l'Antiga Esquerra de l'Eixample;3;87;1;570000;0;6551
+Eixample;l'Antiga Esquerra de l'Eixample;3;87;1;570000;0;6551
+Eixample;la Dreta de l'Eixample;3;351;1;2300000;0;6552
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;132;1;865000;0;6553
+Eixample;Sant Antoni;2;90;1;590000;0;6555
+Eixample;Sant Antoni;2;90;1;590000;0;6555
+Gràcia;la Vila de Gràcia;3;99;1;650000;0;6565
+Eixample;la Dreta de l'Eixample;3;99;1;650000;0;6565
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;134;1;880000;0;6567
+Sants-Montjuïc;Hostafrancs;2;70;0;460000;0;6571
+Eixample;la Dreta de l'Eixample;3;120;1;790000;0;6583
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;82;1;540000;0;6585
+Sant Martí;el Poblenou;3;92;1;606000;0;6586
+Les Corts;Pedralbes;3;63;1;415000;0;6587
+Eixample;l'Antiga Esquerra de l'Eixample;3;135;1;890000;0;6592
+Eixample;Sant Antoni;2;91;1;600000;0;6593
+Eixample;l'Antiga Esquerra de l'Eixample;3;106;1;699000;0;6594
+Sant Martí;el Clot;2;72;1;475000;0;6597
+Eixample;la Dreta de l'Eixample;2;100;1;660000;0;6600
+Ciutat Vella;el Barri Gòtic;2;103;1;680000;0;6601
+Les Corts;Pedralbes;3;103;1;680000;0;6601
+Sarrià-Sant Gervasi;Sarrià;3;103;1;680000;0;6601
+Eixample;la Dreta de l'Eixample;3;102;1;675000;0;6617
+Sant Martí;Provençals del Poblenou;3;105;1;695000;0;6619
+Eixample;Sant Antoni;2;120;1;795000;0;6625
+Eixample;l'Antiga Esquerra de l'Eixample;3;135;1;895000;0;6629
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;113;1;750000;0;6637
+Sant Martí;el Poblenou;3;113;1;750000;0;6637
+Sant Martí;el Poblenou;3;113;1;750000;0;6637
+Sarrià-Sant Gervasi;el Putxet i el Farró;1;58;1;385000;0;6637
+Eixample;la Dreta de l'Eixample;1;64;1;425000;0;6640
+Eixample;l'Antiga Esquerra de l'Eixample;3;128;1;850000;0;6640
+Eixample;l'Antiga Esquerra de l'Eixample;3;134;1;890000;0;6641
+Eixample;la Dreta de l'Eixample;7;271;1;1800000;0;6642
+Eixample;la Dreta de l'Eixample;1;70;1;465000;0;6642
+Eixample;la Dreta de l'Eixample;2;76;1;505000;0;6644
+Sant Martí;la Vila Olímpica del Poblenou;2;85;1;565000;0;6647
+Les Corts;Pedralbes;5;600;0;3990000;0;6650
+Les Corts;Pedralbes;6;496;1;3300000;0;6653
+Les Corts;Pedralbes;4;338;1;2250000;0;6656
+Ciutat Vella;el Barri Gòtic;4;172;1;1145000;0;6656
+Eixample;l'Antiga Esquerra de l'Eixample;2;105;1;699000;0;6657
+Eixample;la Sagrada Família;2;60;1;400000;0;6666
+Eixample;la Dreta de l'Eixample;3;180;1;1200000;0;6666
+Sant Martí;el Poblenou;2;62;1;413729;0;6673
+Eixample;l'Antiga Esquerra de l'Eixample;1;55;1;367200;0;6676
+Eixample;la Dreta de l'Eixample;2;74;1;495000;0;6689
+Ciutat Vella;el Raval;2;71;1;475000;0;6690
+Les Corts;les Corts;2;102;1;683000;0;6696
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;1;50;1;335000;0;6700
+Les Corts;les Corts;2;100;1;670000;0;6700
+Gràcia;la Salut;3;94;1;630000;0;6702
+Les Corts;Pedralbes;6;686;0;4600000;0;6705
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;3;82;1;550000;0;6707
+Sarrià-Sant Gervasi;les Tres Torres;5;280;1;1880000;0;6714
+Eixample;la Dreta de l'Eixample;3;148;1;995000;0;6722
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;3;156;1;1050000;0;6730
+Sarrià-Sant Gervasi;les Tres Torres;3;118;1;795000;0;6737
+Sarrià-Sant Gervasi;les Tres Torres;3;118;1;795000;0;6737
+Eixample;la Dreta de l'Eixample;1;126;1;850000;0;6746
+Sarrià-Sant Gervasi;les Tres Torres;5;200;1;1350000;0;6750
+Eixample;la Dreta de l'Eixample;4;201;1;1360000;0;6766
+Eixample;l'Antiga Esquerra de l'Eixample;3;133;1;900000;0;6766
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;240;1;1625000;0;6770
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;1;62;1;420000;0;6774
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;3;81;1;550000;0;6790
+Eixample;l'Antiga Esquerra de l'Eixample;2;64;1;435200;0;6800
+Eixample;la Dreta de l'Eixample;2;75;1;510000;0;6800
+Les Corts;Pedralbes;4;500;0;3400000;0;6800
+Eixample;la Dreta de l'Eixample;6;191;1;1300000;0;6806
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;102;1;695000;0;6813
+Eixample;la Dreta de l'Eixample;1;71;1;485000;0;6830
+Ciutat Vella;el Raval;2;71;1;485000;0;6830
+Les Corts;les Corts;3;120;1;820000;0;6833
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;256;1;1750000;0;6835
+Gràcia;la Vila de Gràcia;3;122;1;835000;0;6844
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;277;1;1900000;0;6859
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;277;1;1900000;0;6859
+Horta-Guinardó;el Guinardó;2;58;1;398000;0;6862
+Gràcia;la Vila de Gràcia;1;51;0;350000;0;6862
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;4;284;0;1950000;0;6866
+Eixample;l'Antiga Esquerra de l'Eixample;1;55;1;378000;0;6872
+Les Corts;les Corts;2;72;1;495000;0;6875
+Gràcia;la Salut;2;72;1;495000;0;6875
+Les Corts;les Corts;2;72;1;495000;0;6875
+Eixample;la Dreta de l'Eixample;2;101;1;695000;0;6881
+Sarrià-Sant Gervasi;el Putxet i el Farró;2;87;1;600000;0;6896
+Eixample;l'Antiga Esquerra de l'Eixample;3;123;1;850000;0;6910
+Eixample;l'Antiga Esquerra de l'Eixample;2;68;1;470000;0;6911
+Gràcia;la Vila de Gràcia;2;90;1;622250;0;6913
+Sant Martí;el Poblenou;2;62;1;429209;0;6922
+Les Corts;Pedralbes;2;65;1;450000;0;6923
+Eixample;l'Antiga Esquerra de l'Eixample;2;91;1;630000;0;6923
+Les Corts;les Corts;2;100;1;695000;0;6950
+Les Corts;les Corts;4;143;1;995000;0;6958
+Eixample;Sant Antoni;1;33;1;230000;0;6969
+Eixample;l'Antiga Esquerra de l'Eixample;2;64;1;448000;0;7000
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;2;80;1;560000;0;7000
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;200;1;1400000;0;7000
+Eixample;l'Antiga Esquerra de l'Eixample;2;157;1;1100000;0;7006
+Les Corts;les Corts;4;157;1;1100000;0;7006
+Eixample;la Dreta de l'Eixample;2;213;1;1500000;0;7042
+Ciutat Vella;el Barri Gòtic;3;112;1;790000;0;7053
+Sarrià-Sant Gervasi;el Putxet i el Farró;4;170;1;1200000;0;7058
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;3;177;1;1250000;0;7062
+Les Corts;les Corts;4;143;1;1010000;0;7062
+Eixample;l'Antiga Esquerra de l'Eixample;4;99;1;700000;0;7070
+Sarrià-Sant Gervasi;el Putxet i el Farró;5;140;1;990000;0;7071
+Eixample;la Dreta de l'Eixample;2;101;1;715000;0;7079
+Les Corts;les Corts;2;72;1;510000;0;7083
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;1;67;1;475000;0;7089
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;62;1;440000;0;7096
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;155;1;1100000;0;7096
+Eixample;la Dreta de l'Eixample;1;71;1;505000;0;7112
+Eixample;l'Antiga Esquerra de l'Eixample;1;52;1;370000;0;7115
+Eixample;la Dreta de l'Eixample;2;125;1;890000;0;7120
+Sant Martí;el Poblenou;4;139;1;990000;0;7122
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;13;491;0;3500000;0;7128
+Les Corts;Pedralbes;2;63;1;450000;0;7142
+Les Corts;Pedralbes;2;63;1;450000;0;7142
+Eixample;la Dreta de l'Eixample;5;161;1;1150000;0;7142
+Les Corts;Pedralbes;5;232;1;1660000;0;7155
+Sarrià-Sant Gervasi;Sarrià;9;545;0;3900000;0;7155
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;1;62;1;445000;0;7177
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;117;1;840000;0;7179
+Horta-Guinardó;el Baix Guinardó;3;87;1;625000;0;7183
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;1;50;1;360000;0;7200
+Eixample;l'Antiga Esquerra de l'Eixample;3;75;1;540000;0;7200
+Eixample;la Dreta de l'Eixample;2;100;1;720000;0;7200
+Les Corts;Pedralbes;3;68;1;490000;0;7205
+Gràcia;la Salut;2;72;1;520000;0;7222
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;90;1;650000;0;7222
+Les Corts;les Corts;2;99;1;715000;0;7222
+Sant Martí;la Vila Olímpica del Poblenou;2;110;1;795000;0;7227
+Ciutat Vella;el Barri Gòtic;3;166;1;1200000;0;7228
+Ciutat Vella;el Barri Gòtic;3;166;1;1200000;0;7228
+Les Corts;les Corts;2;76;1;550000;0;7236
+Sarrià-Sant Gervasi;Sarrià;5;465;0;3370000;0;7247
+Les Corts;Pedralbes;2;62;1;450000;0;7258
+Sarrià-Sant Gervasi;Sarrià;6;516;0;3750000;0;7267
+Les Corts;Pedralbes;3;110;1;800000;0;7272
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;3;116;1;845000;0;7284
+Les Corts;Pedralbes;5;274;1;2000000;0;7299
+Eixample;la Dreta de l'Eixample;1;71;1;520000;0;7323
+Eixample;l'Antiga Esquerra de l'Eixample;2;150;1;1100000;0;7333
+Gràcia;la Vila de Gràcia;2;88;1;646000;0;7340
+Gràcia;la Vila de Gràcia;2;88;1;646000;0;7340
+Eixample;la Nova Esquerra de l'Eixample;2;81;1;595000;0;7345
+Eixample;Sant Antoni;2;81;1;595000;0;7345
+Sarrià-Sant Gervasi;Vallvidrera - el Tibidabo i les Planes;9;490;0;3600000;0;7346
+Les Corts;Pedralbes;4;170;1;1250000;0;7352
+Gràcia;la Vila de Gràcia;1;71;1;523450;0;7372
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;11;773;0;5700000;0;7373
+Sarrià-Sant Gervasi;el Putxet i el Farró;2;80;1;590000;0;7375
+Sant Martí;el Poblenou;2;88;1;650000;0;7386
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;131;1;970000;0;7404
+Les Corts;Pedralbes;9;605;0;4500000;0;7438
+Les Corts;Pedralbes;9;605;0;4500000;0;7438
+Sant Martí;el Poblenou;4;133;1;990000;0;7443
+Ciutat Vella;el Barri Gòtic;2;106;1;790000;0;7452
+Les Corts;les Corts;2;71;1;530500;0;7471
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;10;327;0;2450000;0;7492
+Sant Martí;Provençals del Poblenou;2;58;1;435000;0;7500
+Eixample;l'Antiga Esquerra de l'Eixample;3;76;1;570000;0;7500
+Eixample;l'Antiga Esquerra de l'Eixample;2;84;1;630000;0;7500
+Eixample;l'Antiga Esquerra de l'Eixample;2;84;1;630000;0;7500
+Sant Martí;el Poblenou;2;92;1;690000;0;7500
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;140;1;1050000;0;7500
+Sarrià-Sant Gervasi;Sarrià;8;520;0;3900000;0;7500
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;185;1;1390000;0;7513
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;185;1;1390000;0;7513
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;185;1;1390000;0;7513
+Les Corts;Pedralbes;5;212;1;1595000;0;7523
+Les Corts;Pedralbes;5;212;1;1595000;0;7523
+Eixample;la Dreta de l'Eixample;3;172;1;1295000;0;7529
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;232;1;1750000;0;7543
+Les Corts;Pedralbes;7;331;1;2500000;0;7552
+Eixample;la Dreta de l'Eixample;3;90;1;680000;0;7555
+Eixample;l'Antiga Esquerra de l'Eixample;2;91;1;690000;0;7582
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;73;0;554000;0;7589
+Eixample;la Dreta de l'Eixample;6;237;1;1800000;0;7594
+Eixample;l'Antiga Esquerra de l'Eixample;2;71;1;540000;0;7605
+Ciutat Vella;el Barri Gòtic;4;222;0;1690000;0;7612
+Sarrià-Sant Gervasi;Sarrià;6;512;0;3900000;0;7617
+Les Corts;Pedralbes;5;314;1;2400000;0;7643
+Ciutat Vella;el Barri Gòtic;4;221;1;1690000;0;7647
+Eixample;l'Antiga Esquerra de l'Eixample;2;90;1;690000;0;7666
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;150;1;1150000;0;7666
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;101;1;775000;0;7673
+Sarrià-Sant Gervasi;Sarrià;4;182;1;1400000;0;7692
+Les Corts;les Corts;4;127;1;977500;0;7696
+Ciutat Vella;el Raval;2;62;1;478000;0;7709
+Sant Martí;el Poblenou;1;56;1;432000;0;7714
+Les Corts;Pedralbes;3;210;1;1620000;0;7714
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;90;1;695000;0;7722
+Eixample;la Dreta de l'Eixample;2;101;1;780000;0;7722
+Les Corts;Pedralbes;8;750;0;5800000;0;7733
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;93;1;720000;0;7741
+Les Corts;les Corts;2;71;1;550000;0;7746
+Les Corts;Pedralbes;3;58;1;450000;0;7758
+Les Corts;les Corts;2;89;1;692000;0;7775
+Eixample;la Dreta de l'Eixample;7;212;1;1650000;0;7783
+Sarrià-Sant Gervasi;les Tres Torres;5;340;0;2650000;0;7794
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;118;1;921000;0;7805
+Eixample;la Dreta de l'Eixample;2;165;1;1290000;0;7818
+Les Corts;les Corts;2;81;1;634500;0;7833
+Ciutat Vella;el Barri Gòtic;4;215;1;1690000;0;7860
+Eixample;la Dreta de l'Eixample;3;318;1;2500000;0;7861
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;3;318;1;2500000;0;7861
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;2;318;1;2500000;0;7861
+Sarrià-Sant Gervasi;el Putxet i el Farró;5;248;0;1950000;0;7862
+Eixample;l'Antiga Esquerra de l'Eixample;2;80;1;630000;0;7875
+Ciutat Vella;el Barri Gòtic;3;88;1;694000;0;7886
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;1;51;1;403000;0;7901
+Sarrià-Sant Gervasi;Sarrià;4;201;0;1590000;0;7910
+Sarrià-Sant Gervasi;Sarrià;4;139;1;1100000;0;7913
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;101;1;800000;0;7920
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;197;1;1570000;0;7969
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;185;1;1475000;0;7972
+Eixample;la Dreta de l'Eixample;2;100;1;800000;0;8000
+Eixample;l'Antiga Esquerra de l'Eixample;2;149;1;1200000;0;8053
+Eixample;Sant Antoni;2;72;1;580000;0;8055
+Eixample;la Nova Esquerra de l'Eixample;2;72;1;580000;0;8055
+Eixample;la Sagrada Família;2;62;1;500000;0;8064
+Ciutat Vella;el Barri Gòtic;2;88;1;710000;0;8068
+Ciutat Vella;el Barri Gòtic;2;79;1;638000;0;8075
+Ciutat Vella;el Barri Gòtic;3;198;1;1600000;0;8080
+Eixample;l'Antiga Esquerra de l'Eixample;2;80;1;650000;0;8125
+Les Corts;Pedralbes;6;800;0;6500000;0;8125
+Les Corts;Pedralbes;6;800;0;6500000;0;8125
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;6;492;1;4000000;0;8130
+Eixample;la Dreta de l'Eixample;1;59;1;480000;0;8135
+Sarrià-Sant Gervasi;Sarrià;4;154;1;1253000;0;8136
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;214;1;1750000;0;8177
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;146;1;1195000;0;8184
+Ciutat Vella;el Barri Gòtic;2;72;1;590000;0;8194
+Ciutat Vella;el Barri Gòtic;2;72;1;590000;0;8194
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;91;1;749000;0;8230
+Eixample;la Dreta de l'Eixample;4;200;1;1650000;0;8250
+Eixample;l'Antiga Esquerra de l'Eixample;3;118;1;975000;0;8262
+Eixample;la Dreta de l'Eixample;2;121;1;1000000;0;8264
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;139;1;1150000;0;8273
+Ciutat Vella;el Barri Gòtic;2;69;1;571000;0;8275
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;102;1;845000;0;8284
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;106;1;880000;0;8301
+Eixample;la Dreta de l'Eixample;3;95;1;790000;0;8315
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;87;1;725000;0;8333
+Sarrià-Sant Gervasi;les Tres Torres;2;145;1;1210000;0;8344
+Sarrià-Sant Gervasi;Sarrià;3;117;1;978000;0;8358
+Ciutat Vella;el Barri Gòtic;2;79;1;661000;0;8367
+Les Corts;Pedralbes;5;145;1;1220000;0;8413
+Eixample;l'Antiga Esquerra de l'Eixample;3;90;1;760000;0;8444
+Les Corts;Pedralbes;1;29;1;245000;0;8448
+Eixample;la Dreta de l'Eixample;3;290;1;2450000;0;8448
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;69;1;583000;0;8449
+Eixample;la Dreta de l'Eixample;3;136;1;1150000;0;8455
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;335;0;2850000;0;8507
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;70;1;599000;0;8557
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;69;1;591000;0;8565
+Eixample;la Dreta de l'Eixample;3;115;1;990000;0;8608
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;230;1;1980000;0;8608
+Eixample;l'Antiga Esquerra de l'Eixample;2;80;1;690000;0;8625
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;95;1;820000;0;8631
+Ciutat Vella;el Barri Gòtic;2;59;1;510000;0;8644
+Les Corts;les Corts;2;185;1;1600000;0;8648
+Les Corts;les Corts;2;185;1;1600000;0;8648
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;3;176;1;1522500;0;8650
+Eixample;la Sagrada Família;3;115;1;995000;0;8652
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;130;1;1125000;0;8653
+Eixample;la Dreta de l'Eixample;3;158;1;1368000;0;8658
+Eixample;la Dreta de l'Eixample;2;75;1;650000;0;8666
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;70;1;607000;0;8671
+Eixample;la Dreta de l'Eixample;3;265;1;2300000;0;8679
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;69;1;599000;0;8681
+Les Corts;Pedralbes;5;140;1;1220000;0;8714
+Eixample;la Dreta de l'Eixample;6;180;1;1570000;0;8722
+Eixample;la Dreta de l'Eixample;2;75;1;655000;0;8733
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;73;1;639000;0;8753
+Eixample;la Dreta de l'Eixample;4;225;1;1975000;0;8777
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;353;1;3100000;0;8781
+Sarrià-Sant Gervasi;Sarrià;3;148;1;1300000;0;8783
+Eixample;la Dreta de l'Eixample;3;227;1;1995000;0;8788
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;70;1;616000;0;8800
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;69;1;608000;0;8811
+Eixample;la Dreta de l'Eixample;3;203;1;1790000;0;8817
+Eixample;la Dreta de l'Eixample;1;88;1;780000;0;8863
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;73;1;648000;0;8876
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;1;90;1;800000;0;8888
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;90;1;800000;0;8888
+Eixample;l'Antiga Esquerra de l'Eixample;2;149;1;1325000;0;8892
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;2;200;1;1780000;0;8900
+Sarrià-Sant Gervasi;el Putxet i el Farró;2;63;1;561000;0;8904
+Sarrià-Sant Gervasi;Sarrià;4;230;1;2050000;0;8913
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;70;1;624000;0;8914
+Les Corts;Pedralbes;6;255;1;2275000;0;8921
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;69;1;616000;0;8927
+Les Corts;Pedralbes;5;280;1;2500000;0;8928
+Eixample;la Dreta de l'Eixample;3;132;1;1180000;0;8939
+Eixample;la Dreta de l'Eixample;3;223;1;1995000;0;8946
+Eixample;l'Antiga Esquerra de l'Eixample;4;210;1;1879000;0;8947
+Eixample;l'Antiga Esquerra de l'Eixample;2;148;1;1325000;0;8952
+Eixample;la Dreta de l'Eixample;1;77;1;690000;0;8961
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;3;145;1;1300000;0;8965
+Sarrià-Sant Gervasi;Sarrià;3;256;0;2300000;0;8984
+Les Corts;Pedralbes;6;439;1;3950000;0;8997
+Sant Martí;el Poblenou;2;62;1;560204;0;9035
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;69;1;624000;0;9043
+Sarrià-Sant Gervasi;el Putxet i el Farró;1;45;1;407000;0;9044
+Eixample;la Dreta de l'Eixample;3;175;1;1600000;0;9142
+Eixample;la Dreta de l'Eixample;3;179;1;1650000;0;9217
+Eixample;la Dreta de l'Eixample;3;173;1;1600000;0;9248
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;73;1;683000;0;9356
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;3;149;1;1400000;0;9395
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;665;1;6250000;0;9398
+Sarrià-Sant Gervasi;el Putxet i el Farró;2;62;1;583000;0;9403
+Eixample;la Dreta de l'Eixample;7;259;1;2450000;0;9459
+Eixample;la Dreta de l'Eixample;3;158;1;1495000;0;9462
+Sant Martí;el Poblenou;3;115;1;1090000;0;9478
+Eixample;la Dreta de l'Eixample;7;228;1;2200000;0;9649
+Eixample;la Nova Esquerra de l'Eixample;3;123;1;1190000;0;9674
+Eixample;la Nova Esquerra de l'Eixample;2;175;1;1700000;0;9714
+Eixample;la Dreta de l'Eixample;3;200;1;1950000;0;9750
+Eixample;la Dreta de l'Eixample;3;169;1;1650000;0;9763
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;106;1;1035000;0;9764
+Eixample;la Dreta de l'Eixample;3;153;1;1495000;0;9771
+Eixample;la Dreta de l'Eixample;3;153;1;1495000;0;9771
+Sarrià-Sant Gervasi;el Putxet i el Farró;1;45;1;440000;0;9777
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;183;1;1790000;0;9781
+Les Corts;les Corts;2;73;1;715000;0;9794
+Eixample;la Dreta de l'Eixample;3;146;1;1430000;0;9794
+Eixample;la Dreta de l'Eixample;3;146;1;1430000;0;9794
+Sarrià-Sant Gervasi;les Tres Torres;2;198;1;1940000;0;9797
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;4;280;1;2750000;0;9821
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;115;1;1130000;0;9826
+Eixample;l'Antiga Esquerra de l'Eixample;3;111;1;1095000;0;9864
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;4;170;1;1686000;0;9917
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;3;130;1;1290000;0;9923
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;138;1;1370000;0;9927
+Sarrià-Sant Gervasi;Sarrià;3;146;1;1450000;0;9931
+Eixample;la Dreta de l'Eixample;3;150;1;1495000;0;9966
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;120;1;1200000;0;10000
+Eixample;la Dreta de l'Eixample;4;230;1;2300000;0;10000
+Eixample;la Dreta de l'Eixample;2;85;1;858000;0;10094
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;5;282;1;2850000;0;10106
+Eixample;la Dreta de l'Eixample;1;86;1;870000;0;10116
+Eixample;la Dreta de l'Eixample;3;152;1;1550000;0;10197
+Eixample;l'Antiga Esquerra de l'Eixample;3;105;1;1075000;0;10238
+Les Corts;Pedralbes;4;218;1;2250000;0;10321
+Ciutat Vella;Sant Pere - Santa Caterina i la Ribera;1;111;1;1150000;0;10360
+Sarrià-Sant Gervasi;les Tres Torres;3;265;0;2750000;0;10377
+Sarrià-Sant Gervasi;el Putxet i el Farró;1;50;1;520000;0;10400
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;3;134;1;1395000;0;10410
+Les Corts;Pedralbes;5;660;0;6900000;0;10454
+Eixample;la Dreta de l'Eixample;3;200;1;2100000;0;10500
+Les Corts;les Corts;2;82;1;862000;0;10512
+Eixample;la Dreta de l'Eixample;4;475;1;5000000;0;10526
+Eixample;la Dreta de l'Eixample;3;217;1;2290000;0;10552
+Les Corts;les Corts;2;65;1;692000;0;10646
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;140;1;1500000;0;10714
+Les Corts;Pedralbes;3;271;1;2980000;0;10996
+Eixample;la Dreta de l'Eixample;4;250;1;2750000;0;11000
+Eixample;la Dreta de l'Eixample;2;195;1;2158000;0;11066
+Les Corts;Pedralbes;7;900;0;10000000;0;11111
+Eixample;la Dreta de l'Eixample;3;139;1;1570000;0;11294
+Les Corts;les Corts;3;95;1;1082000;0;11389
+Eixample;la Dreta de l'Eixample;2;192;1;2188000;0;11395
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;300;1;3500000;0;11666
+Ciutat Vella;el Barri Gòtic;2;299;1;3500000;0;11705
+Eixample;l'Antiga Esquerra de l'Eixample;3;113;1;1325000;0;11725
+Sarrià-Sant Gervasi;les Tres Torres;3;200;1;2360000;0;11800
+Sarrià-Sant Gervasi;les Tres Torres;3;200;1;2360000;0;11800
+Eixample;la Dreta de l'Eixample;4;231;1;2750000;0;11904
+Les Corts;les Corts;3;121;1;1454000;0;12016
+Gràcia;la Vila de Gràcia;4;191;1;2300000;0;12041
+Eixample;l'Antiga Esquerra de l'Eixample;3;105;1;1269000;0;12085
+Eixample;l'Antiga Esquerra de l'Eixample;2;156;1;1900000;0;12179
+Sarrià-Sant Gervasi;el Putxet i el Farró;3;105;1;1280000;0;12190
+Sarrià-Sant Gervasi;les Tres Torres;2;224;0;2750000;0;12276
+Ciutat Vella;el Barri Gòtic;3;200;1;2500000;0;12500
+Eixample;la Dreta de l'Eixample;3;147;1;1850000;0;12585
+Eixample;la Dreta de l'Eixample;5;197;1;2500000;0;12690
+Eixample;l'Antiga Esquerra de l'Eixample;2;149;1;1900000;0;12751
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;5;264;1;3500000;0;13257
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;3;188;1;2500000;0;13297
+Eixample;l'Antiga Esquerra de l'Eixample;4;144;1;1980000;0;13750
+Les Corts;les Corts;2;115;1;1600000;0;13913
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;2;57;1;795000;0;13947
+Eixample;la Dreta de l'Eixample;5;214;1;3000000;0;14018
+Eixample;l'Antiga Esquerra de l'Eixample;3;105;1;1475000;0;14047
+Sant Martí;el Poblenou;2;134;1;1900000;0;14179
+Eixample;la Dreta de l'Eixample;2;150;1;2158000;0;14386
+Eixample;la Dreta de l'Eixample;3;114;1;1650000;0;14473
+Eixample;l'Antiga Esquerra de l'Eixample;4;204;1;2975000;0;14583
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;4;130;1;1950000;0;15000
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;4;132;1;1980000;0;15000
+Eixample;la Dreta de l'Eixample;2;145;1;2188000;0;15089
+Eixample;l'Antiga Esquerra de l'Eixample;3;90;1;1430000;0;15888
+Eixample;la Dreta de l'Eixample;3;140;1;2500000;0;17857
+Eixample;la Dreta de l'Eixample;4;600;1;12000000;0;20000
