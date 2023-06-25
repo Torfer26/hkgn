@@ -16,6 +16,6 @@ COPY . /app
 
 # configure the container to run in an executed manner
 ENTRYPOINT [ "python" ]
-#ENV SKLEARN_ALLOW_DEPRECATED_SKLEARN_PACKAGE_INSTALL=True
+ENV SKLEARN_ALLOW_DEPRECATED_SKLEARN_PACKAGE_INSTALL=True
 
 CMD ["view.py" ]
