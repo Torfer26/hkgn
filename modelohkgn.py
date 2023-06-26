@@ -14,7 +14,7 @@ from sklearn.datasets import load_iris
 
 def ia(name,rooms,area_m2,prices,lift):
     
-    data = pd.read_csv(r'C:\Users\Ferran\OneDrive - es.logicalis.com\Escritorio\hkgn\hkgn pf\datos_precios_casas.csv', sep=';')
+    data = pd.read_csv(r'datos_precios_casas.csv', sep=';')
 
     data_f = data[['rooms', 'area_m2', 'prices', 'compra', 'lift','eurometro']]
 
@@ -93,5 +93,5 @@ def ia(name,rooms,area_m2,prices,lift):
 
     return resultado
 
-# print(ia('hkgn', int('2'), int('200'), int('150000'), int('1')))
+#print(ia('hkgn', int('2'), int('200'), int('150000'), int('1')))
 
