@@ -1,0 +1,252 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+  <title>Verificador de Buena Compra</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .form-container {
+      max-width: 400px;
+      margin: 0 auto;
+    }
+    .form-group {
+      margin-bottom: 20px;
+    }
+    label {
+      display: block;
+      font-weight: bold;
+      margin-bottom: 5px;
+    }
+    input[type="number"] {
+      width: 100%;
+      padding: 5px;
+      font-size: 16px;
+    }
+    .btn {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #4CAF50;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    .result {
+      margin-top: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Verificador de Buena Compra</h1>
+  <div class="form-container">
+    <form id="prediction-form">
+      <div class="form-group">
+        <label for="rooms">Número de habitaciones:</label>
+        <input type="number" id="rooms" name="rooms" required>
+      </div>
+      <div class="form-group">
+        <label for="area">Área en m²:</label>
+        <input type="number" id="area" name="area" required>
+      </div>
+      <div class="form-group">
+        <label for="lift">Ascensor:</label>
+        <select id="lift" name="lift" required>
+          <option value="Yes">Sí</option>
+          <option value="No">No</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="price">Precio:</label>
+        <input type="number" id="price" name="price" required>
+      </div>
+      <div class="form-group">
+        <button type="submit" class="btn">Verificar</button>
+      </div>
+    </form>
+    <div class="result" id="result"></div>
+  </div>
+
+  <!-- <script>
+    const form = document.getElementById('prediction-form');
+    form.addEventListener('submit', function(event) {
+      event.preventDefault();
+
+      // Obtener los valores ingresados por el usuario
+      const rooms = parseInt(document.getElementById('rooms').value);
+      const area = parseInt(document.getElementById('area').value);
+      const lift = document.getElementById('lift').value;
+      const price = parseInt(document.getElementById('price').value);
+
+      // Realizar la solicitud al servidor para obtener la predicción
+      fetch('/prediction', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          rooms: rooms,
+          area: area,
+          lift: lift,
+          price: price
+        })
+      })
+      .then(response => response.json())
+      .then(data => {
+        // Mostrar el resultado en la página
+        const resultElement = document.getElementById('result');
+        resultElement.innerHTML = data --> -->
+
+<<<<<<< HEAD
+        <!DOCTYPE html>
+=======
+        <!-- <!DOCTYPE html>
+>>>>>>> 9c57d534ee4a2fe47353fe1379d505e514141a64
+        <html>
+        <head>
+            <title>Formulario</title>
+        </head>
+        <body>
+            <form action="/procesar" method="post">
+                <label for="name">Nombre:</label>
+                <input type="text" id="name" name="name"><br><br>
+                
+                <label for="rooms">Número de habitaciones:</label>
+                <input type="text" id="rooms" name="rooms"><br><br>
+                
+                <label for="area_m2">Área en metros cuadrados:</label>
+                <input type="text" id="area_m2" name="area_m2"><br><br>
+                
+                <label for="prices">Precio:</label>
+                <input type="text" id="prices" name="prices"><br><br>
+                
+                <label for="lift">Ascensor (1 para Sí, 0 para No):</label>
+                <input type="text" id="lift" name="lift"><br><br>
+                
+                <!-- <label for="eurometro">Eurometro:</label>
+                <input type="text" id="eurometro" name="eurometro"><br><br> -->
+<<<<<<< HEAD
+                
+                <input type="submit" value="Enviar">
+            </form>
+        </body>
+        </html>
+=======
+<!--                 
+                <input type="submit" value="Enviar">
+            </form>
+        </body>
+        </html> --> -->
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+          <title>Formulario</title>
+          <style>
+            body {
+              font-family: Calibri, Arial, sans-serif;
+              background: linear-gradient(#55b9c2, #0f9fa0);
+              margin: 0;
+              padding: 0;
+            }
+            
+            .container {
+              max-width: 800px;
+              margin: 20px auto;
+              padding: 20px;
+              background-color: #000;
+              border-radius: 5px;
+              box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            }
+            
+            h1 {
+              font-size: 24px;
+              margin-bottom: 20px;
+              color: #fff;
+            }
+            
+            label {
+              display: block;
+              font-size: 18px;
+              margin-bottom: 10px;
+              color: #fff;
+            }
+            
+            input[type="text"] {
+              padding: 8px;
+              font-size: 16px;
+              border: 1px solid #fff;
+              border-radius: 5px;
+              width: 100%;
+              margin-bottom: 10px;
+              background-color: #000;
+              color: #fff;
+            }
+            
+            input[type="submit"] {
+              padding: 10px 20px;
+              background-color: #ffa54c;
+              color: #000;
+              border: none;
+              border-radius: 5px;
+              font-size: 18px;
+              cursor: pointer;
+              transition: background-color 0.3s;
+            }
+            
+            input[type="submit"]:hover {
+              background-color: #ffcc99;
+            }
+            
+            .image-container {
+              display: flex;
+              justify-content: center;
+              margin-top: 20px;
+            }
+            
+            .image-container img {
+              width: 300px;
+              height: auto;
+              border-radius: 5px;
+              box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+            }
+          </style>
+        </head>
+        <body>
+          <div class="container">
+            <h1>Formulario</h1>
+            <form action="/procesar" method="post">
+              <label for="name">Nombre:</label>
+              <input type="text" id="name" name="name">
+              
+              <label for="rooms">Número de habitaciones:</label>
+              <input type="text" id="rooms" name="rooms">
+              
+              <label for="area_m2">Área en metros cuadrados:</label>
+              <input type="text" id="area_m2" name="area_m2">
+              
+              <label for="prices">Precio:</label>
+              <input type="text" id="prices" name="prices">
+              
+              <label for="lift">Ascensor (1 para Sí, 0 para No):</label>
+              <input type="text" id="lift" name="lift">
+              
+              <!-- <label for="eurometro">Eurometro:</label>
+              <input type="text" id="eurometro" name="eurometro"> -->
+              
+              <input type="submit" value="Enviar">
+            </form>
+            <div class="image-container">
+              <img src="data:image/jpeg;base64,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" alt="Imagen de la vivienda">
+            </div>
+          </div>
+        </body>
+        </html>
+        
+        
+>>>>>>> 9c57d534ee4a2fe47353fe1379d505e514141a64
+        
